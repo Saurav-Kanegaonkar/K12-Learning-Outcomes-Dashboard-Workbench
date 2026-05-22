@@ -1,0 +1,6 @@
+metric_id,metric_name,domain,grain,business_definition,source_system,sql_check
+M001,ELA proficiency,Assessment,school_grade_subject_week,Percent of students at or above expected performance band.,Formative assessment platform,valid_score_band
+M002,Math proficiency,Assessment,school_grade_subject_week,Percent of students at or above expected performance band.,Formative assessment platform,valid_score_band
+M003,Chronic absenteeism,Attendance,school_grade_week,Share of students on pace to miss 10 percent or more of school days.,Student information system,attendance_day_completeness
+M004,Assignment engagement,Instruction,school_grade_subject_week,Share of assigned activities completed by active students.,Instructional content platform,assignment_event_completeness
+M005,Intervention response,MTSS,school_grade_intervention_cycle,Percent of active intervention groups showing expected progress.,Intervention tracking system,active_roster_alignment

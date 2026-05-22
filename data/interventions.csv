@@ -1,0 +1,961 @@
+cycle,district_id,school_id,grade,focus_area,students_enrolled,response_rate,owner_role,next_review_days
+2026-C1,DST001,SCH001,3,Attendance outreach,52,0.415,Principal,7
+2026-C1,DST001,SCH001,3,ELL vocabulary,52,0.586,Instructional coach,21
+2026-C1,DST001,SCH001,4,Math foundations,37,0.697,Attendance lead,7
+2026-C1,DST001,SCH001,4,Reading fluency,15,0.676,Instructional coach,14
+2026-C1,DST001,SCH001,5,Attendance outreach,37,0.4,Principal,14
+2026-C1,DST001,SCH001,5,Reading fluency,44,0.425,Director of MTSS,7
+2026-C1,DST001,SCH002,3,Math foundations,47,0.668,Attendance lead,28
+2026-C1,DST001,SCH002,3,Attendance outreach,47,0.461,Director of MTSS,14
+2026-C1,DST001,SCH002,4,Math foundations,12,0.46,Principal,7
+2026-C1,DST001,SCH002,4,Attendance outreach,32,0.776,Instructional coach,21
+2026-C1,DST001,SCH002,5,Math foundations,21,0.485,Instructional coach,7
+2026-C1,DST001,SCH002,5,Reading fluency,12,0.688,Instructional coach,14
+2026-C1,DST001,SCH003,3,ELL vocabulary,30,0.345,Attendance lead,14
+2026-C1,DST001,SCH003,3,Reading fluency,38,0.432,Principal,21
+2026-C1,DST001,SCH003,4,Reading fluency,17,0.534,Instructional coach,14
+2026-C1,DST001,SCH003,4,Attendance outreach,23,0.55,Principal,14
+2026-C1,DST001,SCH003,5,Math foundations,38,0.57,Principal,28
+2026-C1,DST001,SCH003,5,Reading fluency,47,0.393,Instructional coach,21
+2026-C1,DST001,SCH004,3,Credit recovery,30,0.522,Principal,14
+2026-C1,DST001,SCH004,3,Reading fluency,34,0.629,Director of MTSS,14
+2026-C1,DST001,SCH004,4,Math foundations,31,0.504,Attendance lead,14
+2026-C1,DST001,SCH004,4,Credit recovery,43,0.433,Director of MTSS,14
+2026-C1,DST001,SCH004,5,ELL vocabulary,25,0.731,Attendance lead,28
+2026-C1,DST001,SCH004,5,Reading fluency,46,0.602,Instructional coach,7
+2026-C1,DST001,SCH005,6,ELL vocabulary,42,0.695,Principal,28
+2026-C1,DST001,SCH005,6,Credit recovery,50,0.486,Instructional coach,28
+2026-C1,DST001,SCH005,7,Math foundations,20,0.679,Director of MTSS,21
+2026-C1,DST001,SCH005,7,Reading fluency,38,0.582,Principal,14
+2026-C1,DST001,SCH005,8,Reading fluency,45,0.526,Instructional coach,14
+2026-C1,DST001,SCH005,8,Math foundations,25,0.789,Principal,21
+2026-C1,DST001,SCH006,6,Credit recovery,43,0.637,Instructional coach,7
+2026-C1,DST001,SCH006,6,Math foundations,41,0.458,Instructional coach,7
+2026-C1,DST001,SCH006,7,Reading fluency,53,0.695,Director of MTSS,21
+2026-C1,DST001,SCH006,7,Math foundations,13,0.418,Attendance lead,28
+2026-C1,DST001,SCH006,8,Math foundations,19,0.589,Attendance lead,7
+2026-C1,DST001,SCH006,8,Reading fluency,29,0.597,Principal,7
+2026-C1,DST001,SCH007,9,Credit recovery,22,0.433,Director of MTSS,7
+2026-C1,DST001,SCH007,9,Reading fluency,54,0.724,Director of MTSS,7
+2026-C1,DST001,SCH007,10,Math foundations,26,0.454,Principal,14
+2026-C1,DST001,SCH007,10,Attendance outreach,18,0.505,Principal,14
+2026-C1,DST002,SCH008,3,Math foundations,35,0.878,Principal,21
+2026-C1,DST002,SCH008,3,Credit recovery,42,0.662,Attendance lead,14
+2026-C1,DST002,SCH008,4,Attendance outreach,18,0.509,Instructional coach,14
+2026-C1,DST002,SCH008,4,ELL vocabulary,40,0.524,Principal,7
+2026-C1,DST002,SCH008,5,Credit recovery,20,0.88,Principal,28
+2026-C1,DST002,SCH008,5,ELL vocabulary,30,0.632,Director of MTSS,14
+2026-C1,DST002,SCH009,3,Attendance outreach,12,0.554,Attendance lead,28
+2026-C1,DST002,SCH009,3,Credit recovery,39,0.543,Principal,28
+2026-C1,DST002,SCH009,4,ELL vocabulary,26,0.489,Principal,14
+2026-C1,DST002,SCH009,4,Attendance outreach,52,0.477,Attendance lead,21
+2026-C1,DST002,SCH009,5,Attendance outreach,28,0.608,Principal,21
+2026-C1,DST002,SCH009,5,Reading fluency,12,0.434,Principal,14
+2026-C1,DST002,SCH010,3,Attendance outreach,36,0.502,Attendance lead,28
+2026-C1,DST002,SCH010,3,Math foundations,24,0.551,Director of MTSS,21
+2026-C1,DST002,SCH010,4,Credit recovery,13,0.683,Attendance lead,21
+2026-C1,DST002,SCH010,4,Attendance outreach,16,0.534,Principal,14
+2026-C1,DST002,SCH010,5,Reading fluency,20,0.582,Instructional coach,14
+2026-C1,DST002,SCH010,5,Credit recovery,46,0.501,Instructional coach,7
+2026-C1,DST002,SCH011,3,ELL vocabulary,53,0.621,Director of MTSS,14
+2026-C1,DST002,SCH011,3,Attendance outreach,43,0.769,Attendance lead,28
+2026-C1,DST002,SCH011,4,Credit recovery,26,0.61,Principal,14
+2026-C1,DST002,SCH011,4,Reading fluency,19,0.748,Principal,28
+2026-C1,DST002,SCH011,5,Credit recovery,49,0.688,Instructional coach,28
+2026-C1,DST002,SCH011,5,ELL vocabulary,24,0.725,Principal,14
+2026-C1,DST002,SCH012,6,Reading fluency,20,0.761,Director of MTSS,21
+2026-C1,DST002,SCH012,6,Attendance outreach,41,0.621,Instructional coach,28
+2026-C1,DST002,SCH012,7,Attendance outreach,13,0.495,Director of MTSS,14
+2026-C1,DST002,SCH012,7,Reading fluency,28,0.787,Attendance lead,21
+2026-C1,DST002,SCH012,8,Credit recovery,15,0.624,Attendance lead,7
+2026-C1,DST002,SCH012,8,Reading fluency,40,0.854,Attendance lead,14
+2026-C1,DST002,SCH013,6,Math foundations,35,0.667,Director of MTSS,21
+2026-C1,DST002,SCH013,6,Credit recovery,35,0.562,Principal,14
+2026-C1,DST002,SCH013,7,Math foundations,37,0.701,Attendance lead,14
+2026-C1,DST002,SCH013,7,Credit recovery,22,0.62,Principal,21
+2026-C1,DST002,SCH013,8,Math foundations,31,0.609,Director of MTSS,28
+2026-C1,DST002,SCH013,8,Credit recovery,17,0.637,Instructional coach,28
+2026-C1,DST002,SCH014,9,ELL vocabulary,40,0.58,Director of MTSS,14
+2026-C1,DST002,SCH014,9,Math foundations,25,0.663,Instructional coach,21
+2026-C1,DST002,SCH014,10,ELL vocabulary,17,0.478,Principal,7
+2026-C1,DST002,SCH014,10,Credit recovery,51,0.473,Attendance lead,7
+2026-C1,DST003,SCH015,3,Reading fluency,22,0.572,Principal,7
+2026-C1,DST003,SCH015,3,Math foundations,39,0.631,Attendance lead,21
+2026-C1,DST003,SCH015,4,Math foundations,17,0.585,Instructional coach,28
+2026-C1,DST003,SCH015,4,Attendance outreach,53,0.526,Instructional coach,7
+2026-C1,DST003,SCH015,5,Attendance outreach,21,0.425,Instructional coach,21
+2026-C1,DST003,SCH015,5,Reading fluency,50,0.59,Instructional coach,7
+2026-C1,DST003,SCH016,3,Attendance outreach,42,0.578,Director of MTSS,21
+2026-C1,DST003,SCH016,3,Reading fluency,31,0.829,Principal,7
+2026-C1,DST003,SCH016,4,Math foundations,34,0.483,Instructional coach,14
+2026-C1,DST003,SCH016,4,Credit recovery,50,0.564,Instructional coach,28
+2026-C1,DST003,SCH016,5,Reading fluency,52,0.501,Instructional coach,14
+2026-C1,DST003,SCH016,5,Credit recovery,12,0.736,Instructional coach,28
+2026-C1,DST003,SCH017,3,Math foundations,41,0.697,Director of MTSS,7
+2026-C1,DST003,SCH017,3,ELL vocabulary,36,0.698,Director of MTSS,14
+2026-C1,DST003,SCH017,4,Math foundations,25,0.528,Principal,28
+2026-C1,DST003,SCH017,4,Credit recovery,28,0.352,Instructional coach,28
+2026-C1,DST003,SCH017,5,Reading fluency,36,0.567,Director of MTSS,14
+2026-C1,DST003,SCH017,5,Math foundations,17,0.675,Principal,21
+2026-C1,DST003,SCH018,3,Attendance outreach,23,0.828,Principal,21
+2026-C1,DST003,SCH018,3,ELL vocabulary,46,0.665,Attendance lead,7
+2026-C1,DST003,SCH018,4,Credit recovery,15,0.733,Director of MTSS,7
+2026-C1,DST003,SCH018,4,ELL vocabulary,34,0.731,Director of MTSS,28
+2026-C1,DST003,SCH018,5,Reading fluency,45,0.699,Instructional coach,14
+2026-C1,DST003,SCH018,5,Credit recovery,33,0.624,Instructional coach,7
+2026-C1,DST003,SCH019,6,Attendance outreach,52,0.634,Instructional coach,14
+2026-C1,DST003,SCH019,6,Math foundations,29,0.468,Instructional coach,7
+2026-C1,DST003,SCH019,7,Reading fluency,22,0.727,Director of MTSS,7
+2026-C1,DST003,SCH019,7,Attendance outreach,38,0.463,Attendance lead,7
+2026-C1,DST003,SCH019,8,Attendance outreach,54,0.551,Principal,14
+2026-C1,DST003,SCH019,8,ELL vocabulary,29,0.518,Attendance lead,21
+2026-C1,DST003,SCH020,6,Credit recovery,45,0.74,Attendance lead,7
+2026-C1,DST003,SCH020,6,Math foundations,18,0.454,Principal,7
+2026-C1,DST003,SCH020,7,Reading fluency,31,0.558,Principal,21
+2026-C1,DST003,SCH020,7,Attendance outreach,51,0.516,Principal,7
+2026-C1,DST003,SCH020,8,Credit recovery,21,0.535,Principal,28
+2026-C1,DST003,SCH020,8,Math foundations,37,0.817,Director of MTSS,28
+2026-C1,DST003,SCH021,9,Credit recovery,40,0.434,Principal,7
+2026-C1,DST003,SCH021,9,Math foundations,27,0.527,Attendance lead,28
+2026-C1,DST003,SCH021,10,Reading fluency,20,0.6,Attendance lead,21
+2026-C1,DST003,SCH021,10,Math foundations,15,0.471,Director of MTSS,21
+2026-C1,DST004,SCH022,3,Reading fluency,31,0.571,Attendance lead,7
+2026-C1,DST004,SCH022,3,Math foundations,24,0.753,Principal,28
+2026-C1,DST004,SCH022,4,Attendance outreach,28,0.567,Principal,7
+2026-C1,DST004,SCH022,4,Reading fluency,54,0.64,Attendance lead,21
+2026-C1,DST004,SCH022,5,ELL vocabulary,24,0.5,Instructional coach,14
+2026-C1,DST004,SCH022,5,Credit recovery,12,0.624,Principal,14
+2026-C1,DST004,SCH023,3,ELL vocabulary,19,0.46,Instructional coach,14
+2026-C1,DST004,SCH023,3,Attendance outreach,19,0.58,Director of MTSS,21
+2026-C1,DST004,SCH023,4,Reading fluency,21,0.412,Principal,21
+2026-C1,DST004,SCH023,4,Math foundations,51,0.674,Principal,21
+2026-C1,DST004,SCH023,5,Reading fluency,52,0.518,Principal,21
+2026-C1,DST004,SCH023,5,Attendance outreach,17,0.402,Principal,21
+2026-C1,DST004,SCH024,3,Math foundations,29,0.497,Attendance lead,28
+2026-C1,DST004,SCH024,3,ELL vocabulary,13,0.77,Principal,7
+2026-C1,DST004,SCH024,4,Credit recovery,38,0.709,Director of MTSS,28
+2026-C1,DST004,SCH024,4,Reading fluency,28,0.588,Director of MTSS,14
+2026-C1,DST004,SCH024,5,Credit recovery,37,0.88,Director of MTSS,21
+2026-C1,DST004,SCH024,5,ELL vocabulary,44,0.375,Director of MTSS,21
+2026-C1,DST004,SCH025,3,ELL vocabulary,32,0.373,Director of MTSS,21
+2026-C1,DST004,SCH025,3,Math foundations,51,0.464,Instructional coach,14
+2026-C1,DST004,SCH025,4,Math foundations,50,0.626,Director of MTSS,21
+2026-C1,DST004,SCH025,4,Attendance outreach,53,0.694,Principal,14
+2026-C1,DST004,SCH025,5,Attendance outreach,24,0.692,Director of MTSS,28
+2026-C1,DST004,SCH025,5,Math foundations,48,0.822,Instructional coach,14
+2026-C1,DST004,SCH026,6,Math foundations,22,0.522,Director of MTSS,14
+2026-C1,DST004,SCH026,6,Reading fluency,42,0.677,Instructional coach,21
+2026-C1,DST004,SCH026,7,ELL vocabulary,47,0.643,Principal,28
+2026-C1,DST004,SCH026,7,Credit recovery,44,0.528,Principal,28
+2026-C1,DST004,SCH026,8,Reading fluency,18,0.583,Director of MTSS,28
+2026-C1,DST004,SCH026,8,Credit recovery,26,0.517,Attendance lead,21
+2026-C1,DST004,SCH027,6,Reading fluency,29,0.746,Principal,14
+2026-C1,DST004,SCH027,6,Attendance outreach,46,0.47,Director of MTSS,14
+2026-C1,DST004,SCH027,7,Credit recovery,21,0.869,Director of MTSS,21
+2026-C1,DST004,SCH027,7,Math foundations,14,0.511,Principal,7
+2026-C1,DST004,SCH027,8,ELL vocabulary,32,0.578,Director of MTSS,7
+2026-C1,DST004,SCH027,8,Attendance outreach,14,0.624,Principal,21
+2026-C1,DST004,SCH028,9,Attendance outreach,49,0.573,Principal,21
+2026-C1,DST004,SCH028,9,Reading fluency,29,0.52,Principal,21
+2026-C1,DST004,SCH028,10,ELL vocabulary,47,0.286,Instructional coach,21
+2026-C1,DST004,SCH028,10,Credit recovery,34,0.598,Director of MTSS,21
+2026-C1,DST005,SCH029,3,Reading fluency,17,0.548,Principal,28
+2026-C1,DST005,SCH029,3,Credit recovery,45,0.468,Attendance lead,28
+2026-C1,DST005,SCH029,4,ELL vocabulary,19,0.595,Attendance lead,28
+2026-C1,DST005,SCH029,4,Credit recovery,27,0.555,Instructional coach,28
+2026-C1,DST005,SCH029,5,Credit recovery,26,0.463,Attendance lead,28
+2026-C1,DST005,SCH029,5,Attendance outreach,17,0.466,Instructional coach,14
+2026-C1,DST005,SCH030,3,Attendance outreach,20,0.647,Principal,28
+2026-C1,DST005,SCH030,3,Math foundations,33,0.607,Attendance lead,14
+2026-C1,DST005,SCH030,4,ELL vocabulary,18,0.288,Instructional coach,28
+2026-C1,DST005,SCH030,4,Attendance outreach,21,0.728,Principal,21
+2026-C1,DST005,SCH030,5,ELL vocabulary,54,0.592,Director of MTSS,28
+2026-C1,DST005,SCH030,5,Credit recovery,49,0.493,Principal,21
+2026-C1,DST005,SCH031,3,Reading fluency,23,0.5,Principal,21
+2026-C1,DST005,SCH031,3,Credit recovery,15,0.529,Principal,7
+2026-C1,DST005,SCH031,4,ELL vocabulary,41,0.426,Instructional coach,7
+2026-C1,DST005,SCH031,4,Attendance outreach,26,0.57,Attendance lead,7
+2026-C1,DST005,SCH031,5,Attendance outreach,43,0.651,Attendance lead,28
+2026-C1,DST005,SCH031,5,Credit recovery,54,0.354,Principal,28
+2026-C1,DST005,SCH032,3,Math foundations,43,0.405,Instructional coach,28
+2026-C1,DST005,SCH032,3,Attendance outreach,28,0.443,Principal,7
+2026-C1,DST005,SCH032,4,Credit recovery,30,0.562,Attendance lead,21
+2026-C1,DST005,SCH032,4,Attendance outreach,18,0.545,Instructional coach,21
+2026-C1,DST005,SCH032,5,Credit recovery,19,0.8,Attendance lead,7
+2026-C1,DST005,SCH032,5,ELL vocabulary,13,0.592,Principal,21
+2026-C1,DST005,SCH033,6,Credit recovery,33,0.78,Director of MTSS,7
+2026-C1,DST005,SCH033,6,Math foundations,38,0.646,Attendance lead,28
+2026-C1,DST005,SCH033,7,Reading fluency,28,0.666,Director of MTSS,7
+2026-C1,DST005,SCH033,7,Math foundations,53,0.702,Principal,21
+2026-C1,DST005,SCH033,8,Reading fluency,21,0.557,Principal,7
+2026-C1,DST005,SCH033,8,Attendance outreach,21,0.586,Director of MTSS,21
+2026-C1,DST005,SCH034,6,Math foundations,19,0.593,Instructional coach,14
+2026-C1,DST005,SCH034,6,Reading fluency,41,0.757,Attendance lead,21
+2026-C1,DST005,SCH034,7,Attendance outreach,16,0.743,Instructional coach,14
+2026-C1,DST005,SCH034,7,ELL vocabulary,13,0.383,Instructional coach,28
+2026-C1,DST005,SCH034,8,Credit recovery,54,0.64,Principal,28
+2026-C1,DST005,SCH034,8,Math foundations,34,0.652,Director of MTSS,21
+2026-C1,DST005,SCH035,9,Math foundations,45,0.566,Director of MTSS,21
+2026-C1,DST005,SCH035,9,Attendance outreach,31,0.551,Director of MTSS,21
+2026-C1,DST005,SCH035,10,Attendance outreach,46,0.544,Director of MTSS,7
+2026-C1,DST005,SCH035,10,Reading fluency,25,0.576,Instructional coach,7
+2026-C1,DST006,SCH036,3,Attendance outreach,27,0.527,Instructional coach,21
+2026-C1,DST006,SCH036,3,ELL vocabulary,41,0.698,Director of MTSS,14
+2026-C1,DST006,SCH036,4,Reading fluency,37,0.701,Instructional coach,14
+2026-C1,DST006,SCH036,4,ELL vocabulary,20,0.669,Director of MTSS,28
+2026-C1,DST006,SCH036,5,Math foundations,35,0.532,Instructional coach,7
+2026-C1,DST006,SCH036,5,Credit recovery,19,0.598,Director of MTSS,7
+2026-C1,DST006,SCH037,3,Reading fluency,15,0.478,Director of MTSS,7
+2026-C1,DST006,SCH037,3,Credit recovery,54,0.608,Principal,21
+2026-C1,DST006,SCH037,4,Credit recovery,31,0.555,Director of MTSS,28
+2026-C1,DST006,SCH037,4,Math foundations,23,0.746,Director of MTSS,14
+2026-C1,DST006,SCH037,5,Attendance outreach,15,0.661,Principal,7
+2026-C1,DST006,SCH037,5,Credit recovery,22,0.667,Principal,28
+2026-C1,DST006,SCH038,3,Attendance outreach,21,0.498,Principal,7
+2026-C1,DST006,SCH038,3,Math foundations,31,0.667,Instructional coach,21
+2026-C1,DST006,SCH038,4,Math foundations,24,0.511,Director of MTSS,7
+2026-C1,DST006,SCH038,4,Credit recovery,49,0.296,Principal,14
+2026-C1,DST006,SCH038,5,ELL vocabulary,23,0.478,Director of MTSS,21
+2026-C1,DST006,SCH038,5,Credit recovery,24,0.547,Instructional coach,28
+2026-C1,DST006,SCH039,3,Math foundations,47,0.588,Instructional coach,14
+2026-C1,DST006,SCH039,3,ELL vocabulary,16,0.661,Instructional coach,21
+2026-C1,DST006,SCH039,4,ELL vocabulary,31,0.579,Attendance lead,14
+2026-C1,DST006,SCH039,4,Reading fluency,30,0.561,Attendance lead,7
+2026-C1,DST006,SCH039,5,Reading fluency,41,0.543,Attendance lead,21
+2026-C1,DST006,SCH039,5,ELL vocabulary,13,0.544,Director of MTSS,21
+2026-C1,DST006,SCH040,6,Reading fluency,41,0.459,Principal,7
+2026-C1,DST006,SCH040,6,ELL vocabulary,13,0.521,Director of MTSS,14
+2026-C1,DST006,SCH040,7,ELL vocabulary,44,0.495,Attendance lead,14
+2026-C1,DST006,SCH040,7,Reading fluency,21,0.601,Director of MTSS,28
+2026-C1,DST006,SCH040,8,ELL vocabulary,54,0.582,Instructional coach,7
+2026-C1,DST006,SCH040,8,Attendance outreach,51,0.398,Principal,7
+2026-C1,DST006,SCH041,6,ELL vocabulary,49,0.701,Principal,21
+2026-C1,DST006,SCH041,6,Credit recovery,43,0.794,Principal,28
+2026-C1,DST006,SCH041,7,Attendance outreach,17,0.631,Director of MTSS,7
+2026-C1,DST006,SCH041,7,ELL vocabulary,46,0.545,Principal,21
+2026-C1,DST006,SCH041,8,Reading fluency,53,0.574,Director of MTSS,7
+2026-C1,DST006,SCH041,8,Credit recovery,28,0.376,Attendance lead,7
+2026-C1,DST006,SCH042,9,Math foundations,54,0.567,Principal,28
+2026-C1,DST006,SCH042,9,Attendance outreach,24,0.57,Attendance lead,21
+2026-C1,DST006,SCH042,10,ELL vocabulary,20,0.631,Attendance lead,21
+2026-C1,DST006,SCH042,10,Math foundations,41,0.559,Principal,14
+2026-C2,DST001,SCH001,3,Attendance outreach,12,0.408,Instructional coach,28
+2026-C2,DST001,SCH001,3,Math foundations,15,0.568,Principal,21
+2026-C2,DST001,SCH001,4,ELL vocabulary,19,0.452,Principal,21
+2026-C2,DST001,SCH001,4,Attendance outreach,23,0.615,Attendance lead,28
+2026-C2,DST001,SCH001,5,Math foundations,18,0.668,Attendance lead,28
+2026-C2,DST001,SCH001,5,Reading fluency,12,0.716,Director of MTSS,14
+2026-C2,DST001,SCH002,3,ELL vocabulary,34,0.631,Instructional coach,28
+2026-C2,DST001,SCH002,3,Reading fluency,50,0.625,Director of MTSS,7
+2026-C2,DST001,SCH002,4,Reading fluency,24,0.536,Principal,7
+2026-C2,DST001,SCH002,4,Math foundations,52,0.581,Principal,7
+2026-C2,DST001,SCH002,5,ELL vocabulary,49,0.6,Attendance lead,7
+2026-C2,DST001,SCH002,5,Attendance outreach,24,0.523,Instructional coach,14
+2026-C2,DST001,SCH003,3,ELL vocabulary,46,0.643,Principal,21
+2026-C2,DST001,SCH003,3,Math foundations,45,0.628,Director of MTSS,7
+2026-C2,DST001,SCH003,4,Attendance outreach,32,0.458,Principal,21
+2026-C2,DST001,SCH003,4,Math foundations,54,0.498,Principal,14
+2026-C2,DST001,SCH003,5,Credit recovery,28,0.32,Attendance lead,7
+2026-C2,DST001,SCH003,5,Reading fluency,53,0.535,Principal,7
+2026-C2,DST001,SCH004,3,Math foundations,49,0.73,Instructional coach,14
+2026-C2,DST001,SCH004,3,Attendance outreach,21,0.727,Principal,14
+2026-C2,DST001,SCH004,4,Math foundations,41,0.609,Director of MTSS,7
+2026-C2,DST001,SCH004,4,Reading fluency,33,0.624,Instructional coach,7
+2026-C2,DST001,SCH004,5,Credit recovery,37,0.653,Principal,14
+2026-C2,DST001,SCH004,5,Reading fluency,37,0.63,Director of MTSS,28
+2026-C2,DST001,SCH005,6,Math foundations,16,0.54,Attendance lead,28
+2026-C2,DST001,SCH005,6,Attendance outreach,49,0.527,Director of MTSS,21
+2026-C2,DST001,SCH005,7,ELL vocabulary,40,0.527,Principal,28
+2026-C2,DST001,SCH005,7,Reading fluency,47,0.667,Attendance lead,7
+2026-C2,DST001,SCH005,8,Attendance outreach,26,0.567,Attendance lead,7
+2026-C2,DST001,SCH005,8,Reading fluency,23,0.813,Principal,28
+2026-C2,DST001,SCH006,6,Reading fluency,35,0.575,Attendance lead,21
+2026-C2,DST001,SCH006,6,Credit recovery,20,0.458,Instructional coach,7
+2026-C2,DST001,SCH006,7,ELL vocabulary,53,0.643,Instructional coach,21
+2026-C2,DST001,SCH006,7,Reading fluency,22,0.289,Principal,14
+2026-C2,DST001,SCH006,8,Attendance outreach,18,0.514,Director of MTSS,7
+2026-C2,DST001,SCH006,8,Reading fluency,18,0.792,Instructional coach,14
+2026-C2,DST001,SCH007,9,Attendance outreach,52,0.568,Director of MTSS,21
+2026-C2,DST001,SCH007,9,Reading fluency,15,0.474,Principal,21
+2026-C2,DST001,SCH007,10,ELL vocabulary,29,0.671,Instructional coach,14
+2026-C2,DST001,SCH007,10,Reading fluency,53,0.56,Principal,7
+2026-C2,DST002,SCH008,3,ELL vocabulary,28,0.598,Attendance lead,21
+2026-C2,DST002,SCH008,3,Attendance outreach,50,0.656,Principal,21
+2026-C2,DST002,SCH008,4,Credit recovery,54,0.652,Attendance lead,28
+2026-C2,DST002,SCH008,4,Attendance outreach,26,0.625,Director of MTSS,28
+2026-C2,DST002,SCH008,5,ELL vocabulary,17,0.664,Attendance lead,7
+2026-C2,DST002,SCH008,5,Attendance outreach,16,0.46,Attendance lead,14
+2026-C2,DST002,SCH009,3,Attendance outreach,19,0.562,Instructional coach,21
+2026-C2,DST002,SCH009,3,Credit recovery,36,0.534,Instructional coach,7
+2026-C2,DST002,SCH009,4,Credit recovery,27,0.811,Principal,14
+2026-C2,DST002,SCH009,4,ELL vocabulary,32,0.654,Director of MTSS,14
+2026-C2,DST002,SCH009,5,ELL vocabulary,44,0.555,Instructional coach,14
+2026-C2,DST002,SCH009,5,Attendance outreach,13,0.493,Director of MTSS,21
+2026-C2,DST002,SCH010,3,Credit recovery,21,0.837,Attendance lead,21
+2026-C2,DST002,SCH010,3,Math foundations,37,0.554,Principal,21
+2026-C2,DST002,SCH010,4,ELL vocabulary,22,0.71,Attendance lead,7
+2026-C2,DST002,SCH010,4,Reading fluency,51,0.552,Director of MTSS,14
+2026-C2,DST002,SCH010,5,Credit recovery,13,0.6,Principal,14
+2026-C2,DST002,SCH010,5,Reading fluency,38,0.465,Director of MTSS,14
+2026-C2,DST002,SCH011,3,Reading fluency,46,0.508,Principal,21
+2026-C2,DST002,SCH011,3,Credit recovery,45,0.541,Director of MTSS,28
+2026-C2,DST002,SCH011,4,Attendance outreach,15,0.586,Attendance lead,7
+2026-C2,DST002,SCH011,4,Math foundations,23,0.545,Principal,28
+2026-C2,DST002,SCH011,5,Credit recovery,17,0.818,Attendance lead,7
+2026-C2,DST002,SCH011,5,Reading fluency,50,0.505,Principal,14
+2026-C2,DST002,SCH012,6,Credit recovery,35,0.75,Attendance lead,28
+2026-C2,DST002,SCH012,6,Attendance outreach,29,0.617,Director of MTSS,21
+2026-C2,DST002,SCH012,7,Math foundations,45,0.611,Attendance lead,7
+2026-C2,DST002,SCH012,7,Credit recovery,36,0.537,Principal,28
+2026-C2,DST002,SCH012,8,ELL vocabulary,45,0.656,Attendance lead,7
+2026-C2,DST002,SCH012,8,Math foundations,28,0.44,Principal,21
+2026-C2,DST002,SCH013,6,Credit recovery,40,0.739,Director of MTSS,21
+2026-C2,DST002,SCH013,6,ELL vocabulary,30,0.855,Attendance lead,7
+2026-C2,DST002,SCH013,7,ELL vocabulary,22,0.566,Principal,14
+2026-C2,DST002,SCH013,7,Credit recovery,35,0.585,Instructional coach,21
+2026-C2,DST002,SCH013,8,Attendance outreach,28,0.576,Principal,7
+2026-C2,DST002,SCH013,8,Reading fluency,29,0.533,Principal,7
+2026-C2,DST002,SCH014,9,Attendance outreach,14,0.521,Attendance lead,21
+2026-C2,DST002,SCH014,9,Math foundations,28,0.652,Director of MTSS,28
+2026-C2,DST002,SCH014,10,ELL vocabulary,50,0.476,Instructional coach,7
+2026-C2,DST002,SCH014,10,Reading fluency,44,0.739,Attendance lead,21
+2026-C2,DST003,SCH015,3,ELL vocabulary,54,0.776,Attendance lead,21
+2026-C2,DST003,SCH015,3,Credit recovery,20,0.358,Director of MTSS,28
+2026-C2,DST003,SCH015,4,Attendance outreach,18,0.735,Principal,21
+2026-C2,DST003,SCH015,4,ELL vocabulary,42,0.44,Instructional coach,7
+2026-C2,DST003,SCH015,5,Reading fluency,31,0.776,Instructional coach,7
+2026-C2,DST003,SCH015,5,Attendance outreach,12,0.693,Principal,7
+2026-C2,DST003,SCH016,3,ELL vocabulary,27,0.674,Instructional coach,28
+2026-C2,DST003,SCH016,3,Attendance outreach,17,0.531,Attendance lead,14
+2026-C2,DST003,SCH016,4,Attendance outreach,52,0.511,Principal,21
+2026-C2,DST003,SCH016,4,Reading fluency,16,0.698,Director of MTSS,14
+2026-C2,DST003,SCH016,5,ELL vocabulary,39,0.794,Principal,7
+2026-C2,DST003,SCH016,5,Reading fluency,42,0.86,Instructional coach,28
+2026-C2,DST003,SCH017,3,ELL vocabulary,33,0.381,Principal,28
+2026-C2,DST003,SCH017,3,Reading fluency,12,0.652,Director of MTSS,7
+2026-C2,DST003,SCH017,4,Credit recovery,36,0.768,Director of MTSS,7
+2026-C2,DST003,SCH017,4,Reading fluency,49,0.456,Principal,14
+2026-C2,DST003,SCH017,5,ELL vocabulary,26,0.67,Instructional coach,21
+2026-C2,DST003,SCH017,5,Credit recovery,14,0.641,Director of MTSS,28
+2026-C2,DST003,SCH018,3,Credit recovery,21,0.811,Principal,14
+2026-C2,DST003,SCH018,3,Attendance outreach,12,0.771,Principal,7
+2026-C2,DST003,SCH018,4,ELL vocabulary,28,0.556,Instructional coach,28
+2026-C2,DST003,SCH018,4,Credit recovery,19,0.793,Principal,28
+2026-C2,DST003,SCH018,5,Reading fluency,33,0.545,Instructional coach,21
+2026-C2,DST003,SCH018,5,Credit recovery,17,0.88,Attendance lead,14
+2026-C2,DST003,SCH019,6,Reading fluency,32,0.704,Instructional coach,28
+2026-C2,DST003,SCH019,6,Attendance outreach,53,0.339,Principal,28
+2026-C2,DST003,SCH019,7,Reading fluency,32,0.705,Director of MTSS,21
+2026-C2,DST003,SCH019,7,ELL vocabulary,54,0.465,Director of MTSS,7
+2026-C2,DST003,SCH019,8,Attendance outreach,41,0.577,Director of MTSS,7
+2026-C2,DST003,SCH019,8,Credit recovery,52,0.404,Director of MTSS,14
+2026-C2,DST003,SCH020,6,Reading fluency,51,0.535,Director of MTSS,28
+2026-C2,DST003,SCH020,6,Math foundations,13,0.696,Instructional coach,21
+2026-C2,DST003,SCH020,7,Math foundations,27,0.555,Instructional coach,14
+2026-C2,DST003,SCH020,7,Attendance outreach,40,0.445,Director of MTSS,28
+2026-C2,DST003,SCH020,8,Attendance outreach,53,0.723,Principal,14
+2026-C2,DST003,SCH020,8,Credit recovery,19,0.759,Attendance lead,14
+2026-C2,DST003,SCH021,9,Reading fluency,50,0.684,Attendance lead,14
+2026-C2,DST003,SCH021,9,Math foundations,54,0.681,Principal,14
+2026-C2,DST003,SCH021,10,Credit recovery,27,0.493,Director of MTSS,7
+2026-C2,DST003,SCH021,10,Attendance outreach,23,0.687,Attendance lead,21
+2026-C2,DST004,SCH022,3,Credit recovery,35,0.487,Attendance lead,7
+2026-C2,DST004,SCH022,3,Math foundations,40,0.547,Instructional coach,14
+2026-C2,DST004,SCH022,4,Credit recovery,21,0.388,Director of MTSS,7
+2026-C2,DST004,SCH022,4,Math foundations,40,0.391,Instructional coach,28
+2026-C2,DST004,SCH022,5,Attendance outreach,45,0.442,Principal,14
+2026-C2,DST004,SCH022,5,Math foundations,40,0.754,Director of MTSS,28
+2026-C2,DST004,SCH023,3,Credit recovery,14,0.686,Principal,7
+2026-C2,DST004,SCH023,3,Reading fluency,31,0.525,Principal,14
+2026-C2,DST004,SCH023,4,Credit recovery,25,0.494,Principal,14
+2026-C2,DST004,SCH023,4,ELL vocabulary,36,0.785,Principal,21
+2026-C2,DST004,SCH023,5,Credit recovery,53,0.745,Director of MTSS,21
+2026-C2,DST004,SCH023,5,Attendance outreach,35,0.594,Attendance lead,14
+2026-C2,DST004,SCH024,3,Credit recovery,46,0.609,Attendance lead,21
+2026-C2,DST004,SCH024,3,ELL vocabulary,32,0.465,Instructional coach,28
+2026-C2,DST004,SCH024,4,Reading fluency,17,0.559,Attendance lead,21
+2026-C2,DST004,SCH024,4,ELL vocabulary,18,0.59,Attendance lead,14
+2026-C2,DST004,SCH024,5,Math foundations,51,0.328,Attendance lead,14
+2026-C2,DST004,SCH024,5,Attendance outreach,39,0.651,Principal,21
+2026-C2,DST004,SCH025,3,Attendance outreach,46,0.458,Instructional coach,28
+2026-C2,DST004,SCH025,3,Credit recovery,52,0.88,Attendance lead,7
+2026-C2,DST004,SCH025,4,Reading fluency,25,0.606,Principal,7
+2026-C2,DST004,SCH025,4,Credit recovery,43,0.724,Principal,28
+2026-C2,DST004,SCH025,5,Reading fluency,50,0.423,Instructional coach,21
+2026-C2,DST004,SCH025,5,ELL vocabulary,46,0.598,Principal,7
+2026-C2,DST004,SCH026,6,ELL vocabulary,24,0.575,Director of MTSS,28
+2026-C2,DST004,SCH026,6,Math foundations,22,0.717,Instructional coach,21
+2026-C2,DST004,SCH026,7,ELL vocabulary,20,0.601,Instructional coach,14
+2026-C2,DST004,SCH026,7,Math foundations,30,0.755,Principal,21
+2026-C2,DST004,SCH026,8,Reading fluency,34,0.549,Attendance lead,14
+2026-C2,DST004,SCH026,8,Credit recovery,35,0.738,Principal,21
+2026-C2,DST004,SCH027,6,Math foundations,16,0.593,Instructional coach,7
+2026-C2,DST004,SCH027,6,ELL vocabulary,45,0.704,Attendance lead,7
+2026-C2,DST004,SCH027,7,Reading fluency,16,0.742,Director of MTSS,14
+2026-C2,DST004,SCH027,7,Math foundations,50,0.681,Principal,14
+2026-C2,DST004,SCH027,8,Math foundations,29,0.548,Principal,14
+2026-C2,DST004,SCH027,8,ELL vocabulary,41,0.543,Director of MTSS,28
+2026-C2,DST004,SCH028,9,Credit recovery,39,0.401,Attendance lead,21
+2026-C2,DST004,SCH028,9,ELL vocabulary,30,0.638,Director of MTSS,28
+2026-C2,DST004,SCH028,10,Reading fluency,43,0.532,Principal,14
+2026-C2,DST004,SCH028,10,ELL vocabulary,27,0.397,Instructional coach,7
+2026-C2,DST005,SCH029,3,Reading fluency,12,0.561,Director of MTSS,7
+2026-C2,DST005,SCH029,3,ELL vocabulary,53,0.541,Instructional coach,28
+2026-C2,DST005,SCH029,4,ELL vocabulary,31,0.562,Director of MTSS,21
+2026-C2,DST005,SCH029,4,Credit recovery,40,0.556,Instructional coach,14
+2026-C2,DST005,SCH029,5,Attendance outreach,33,0.542,Instructional coach,7
+2026-C2,DST005,SCH029,5,Math foundations,46,0.479,Director of MTSS,7
+2026-C2,DST005,SCH030,3,Attendance outreach,48,0.77,Instructional coach,7
+2026-C2,DST005,SCH030,3,Credit recovery,30,0.204,Instructional coach,14
+2026-C2,DST005,SCH030,4,Attendance outreach,33,0.547,Principal,7
+2026-C2,DST005,SCH030,4,Math foundations,53,0.528,Director of MTSS,14
+2026-C2,DST005,SCH030,5,Credit recovery,53,0.811,Instructional coach,7
+2026-C2,DST005,SCH030,5,ELL vocabulary,32,0.583,Attendance lead,14
+2026-C2,DST005,SCH031,3,Math foundations,22,0.385,Attendance lead,28
+2026-C2,DST005,SCH031,3,Attendance outreach,17,0.735,Principal,7
+2026-C2,DST005,SCH031,4,Math foundations,39,0.545,Director of MTSS,21
+2026-C2,DST005,SCH031,4,ELL vocabulary,41,0.63,Attendance lead,14
+2026-C2,DST005,SCH031,5,Reading fluency,45,0.552,Principal,21
+2026-C2,DST005,SCH031,5,Attendance outreach,34,0.471,Director of MTSS,14
+2026-C2,DST005,SCH032,3,Attendance outreach,39,0.586,Director of MTSS,21
+2026-C2,DST005,SCH032,3,ELL vocabulary,46,0.678,Principal,28
+2026-C2,DST005,SCH032,4,Math foundations,29,0.584,Director of MTSS,7
+2026-C2,DST005,SCH032,4,ELL vocabulary,35,0.429,Attendance lead,14
+2026-C2,DST005,SCH032,5,Reading fluency,13,0.518,Attendance lead,14
+2026-C2,DST005,SCH032,5,Credit recovery,50,0.88,Principal,7
+2026-C2,DST005,SCH033,6,Math foundations,13,0.476,Attendance lead,28
+2026-C2,DST005,SCH033,6,Attendance outreach,49,0.542,Instructional coach,7
+2026-C2,DST005,SCH033,7,Reading fluency,31,0.336,Director of MTSS,21
+2026-C2,DST005,SCH033,7,Credit recovery,24,0.643,Director of MTSS,14
+2026-C2,DST005,SCH033,8,Credit recovery,32,0.429,Director of MTSS,28
+2026-C2,DST005,SCH033,8,ELL vocabulary,26,0.546,Attendance lead,7
+2026-C2,DST005,SCH034,6,ELL vocabulary,40,0.514,Attendance lead,21
+2026-C2,DST005,SCH034,6,Credit recovery,15,0.57,Instructional coach,14
+2026-C2,DST005,SCH034,7,Attendance outreach,29,0.559,Principal,7
+2026-C2,DST005,SCH034,7,Credit recovery,44,0.519,Instructional coach,28
+2026-C2,DST005,SCH034,8,Reading fluency,46,0.727,Principal,28
+2026-C2,DST005,SCH034,8,ELL vocabulary,54,0.554,Director of MTSS,7
+2026-C2,DST005,SCH035,9,Math foundations,13,0.673,Instructional coach,28
+2026-C2,DST005,SCH035,9,ELL vocabulary,34,0.808,Director of MTSS,7
+2026-C2,DST005,SCH035,10,Attendance outreach,43,0.37,Attendance lead,21
+2026-C2,DST005,SCH035,10,Math foundations,31,0.516,Director of MTSS,7
+2026-C2,DST006,SCH036,3,Attendance outreach,39,0.526,Principal,21
+2026-C2,DST006,SCH036,3,Math foundations,44,0.713,Attendance lead,21
+2026-C2,DST006,SCH036,4,ELL vocabulary,37,0.617,Instructional coach,21
+2026-C2,DST006,SCH036,4,Reading fluency,34,0.511,Principal,21
+2026-C2,DST006,SCH036,5,Credit recovery,28,0.741,Principal,21
+2026-C2,DST006,SCH036,5,Reading fluency,44,0.622,Attendance lead,21
+2026-C2,DST006,SCH037,3,Attendance outreach,46,0.449,Principal,28
+2026-C2,DST006,SCH037,3,Credit recovery,23,0.604,Instructional coach,14
+2026-C2,DST006,SCH037,4,Attendance outreach,45,0.486,Director of MTSS,7
+2026-C2,DST006,SCH037,4,Reading fluency,36,0.389,Attendance lead,28
+2026-C2,DST006,SCH037,5,Math foundations,13,0.602,Principal,14
+2026-C2,DST006,SCH037,5,Attendance outreach,52,0.633,Principal,21
+2026-C2,DST006,SCH038,3,Math foundations,32,0.592,Attendance lead,28
+2026-C2,DST006,SCH038,3,Credit recovery,22,0.585,Instructional coach,28
+2026-C2,DST006,SCH038,4,ELL vocabulary,19,0.751,Attendance lead,14
+2026-C2,DST006,SCH038,4,Math foundations,50,0.546,Director of MTSS,14
+2026-C2,DST006,SCH038,5,ELL vocabulary,45,0.71,Attendance lead,14
+2026-C2,DST006,SCH038,5,Reading fluency,22,0.74,Principal,14
+2026-C2,DST006,SCH039,3,ELL vocabulary,49,0.559,Principal,7
+2026-C2,DST006,SCH039,3,Reading fluency,15,0.557,Director of MTSS,21
+2026-C2,DST006,SCH039,4,Credit recovery,47,0.657,Instructional coach,14
+2026-C2,DST006,SCH039,4,ELL vocabulary,54,0.73,Principal,14
+2026-C2,DST006,SCH039,5,Reading fluency,54,0.704,Principal,7
+2026-C2,DST006,SCH039,5,Math foundations,32,0.661,Principal,7
+2026-C2,DST006,SCH040,6,Credit recovery,38,0.566,Attendance lead,21
+2026-C2,DST006,SCH040,6,Math foundations,42,0.535,Director of MTSS,7
+2026-C2,DST006,SCH040,7,Credit recovery,15,0.772,Director of MTSS,28
+2026-C2,DST006,SCH040,7,Math foundations,18,0.47,Principal,21
+2026-C2,DST006,SCH040,8,ELL vocabulary,18,0.487,Attendance lead,28
+2026-C2,DST006,SCH040,8,Reading fluency,18,0.624,Attendance lead,14
+2026-C2,DST006,SCH041,6,Reading fluency,54,0.563,Principal,14
+2026-C2,DST006,SCH041,6,Math foundations,53,0.74,Principal,28
+2026-C2,DST006,SCH041,7,ELL vocabulary,23,0.64,Principal,28
+2026-C2,DST006,SCH041,7,Credit recovery,30,0.834,Director of MTSS,28
+2026-C2,DST006,SCH041,8,Attendance outreach,43,0.383,Principal,7
+2026-C2,DST006,SCH041,8,ELL vocabulary,29,0.596,Principal,7
+2026-C2,DST006,SCH042,9,Reading fluency,28,0.617,Attendance lead,21
+2026-C2,DST006,SCH042,9,Math foundations,44,0.402,Principal,14
+2026-C2,DST006,SCH042,10,Attendance outreach,41,0.45,Director of MTSS,7
+2026-C2,DST006,SCH042,10,ELL vocabulary,18,0.501,Instructional coach,14
+2026-C3,DST001,SCH001,3,ELL vocabulary,23,0.391,Instructional coach,7
+2026-C3,DST001,SCH001,3,Math foundations,51,0.696,Instructional coach,28
+2026-C3,DST001,SCH001,4,Math foundations,13,0.601,Instructional coach,14
+2026-C3,DST001,SCH001,4,Credit recovery,52,0.635,Instructional coach,14
+2026-C3,DST001,SCH001,5,Math foundations,49,0.729,Director of MTSS,14
+2026-C3,DST001,SCH001,5,Attendance outreach,48,0.657,Attendance lead,28
+2026-C3,DST001,SCH002,3,Attendance outreach,35,0.495,Attendance lead,14
+2026-C3,DST001,SCH002,3,Reading fluency,27,0.673,Attendance lead,28
+2026-C3,DST001,SCH002,4,ELL vocabulary,40,0.704,Instructional coach,28
+2026-C3,DST001,SCH002,4,Attendance outreach,33,0.508,Director of MTSS,7
+2026-C3,DST001,SCH002,5,Attendance outreach,40,0.736,Director of MTSS,28
+2026-C3,DST001,SCH002,5,Math foundations,14,0.521,Instructional coach,21
+2026-C3,DST001,SCH003,3,ELL vocabulary,51,0.88,Principal,14
+2026-C3,DST001,SCH003,3,Math foundations,49,0.657,Instructional coach,21
+2026-C3,DST001,SCH003,4,ELL vocabulary,27,0.669,Principal,28
+2026-C3,DST001,SCH003,4,Credit recovery,16,0.501,Director of MTSS,28
+2026-C3,DST001,SCH003,5,Reading fluency,40,0.769,Attendance lead,7
+2026-C3,DST001,SCH003,5,Math foundations,37,0.453,Attendance lead,7
+2026-C3,DST001,SCH004,3,Reading fluency,16,0.593,Principal,21
+2026-C3,DST001,SCH004,3,ELL vocabulary,53,0.488,Instructional coach,28
+2026-C3,DST001,SCH004,4,ELL vocabulary,28,0.474,Instructional coach,14
+2026-C3,DST001,SCH004,4,Math foundations,14,0.629,Attendance lead,7
+2026-C3,DST001,SCH004,5,ELL vocabulary,24,0.604,Attendance lead,21
+2026-C3,DST001,SCH004,5,Reading fluency,47,0.687,Principal,28
+2026-C3,DST001,SCH005,6,Attendance outreach,36,0.453,Director of MTSS,28
+2026-C3,DST001,SCH005,6,Math foundations,12,0.44,Principal,7
+2026-C3,DST001,SCH005,7,ELL vocabulary,22,0.542,Director of MTSS,7
+2026-C3,DST001,SCH005,7,Reading fluency,22,0.64,Director of MTSS,14
+2026-C3,DST001,SCH005,8,Math foundations,41,0.558,Principal,14
+2026-C3,DST001,SCH005,8,Credit recovery,54,0.384,Principal,7
+2026-C3,DST001,SCH006,6,Math foundations,12,0.603,Instructional coach,14
+2026-C3,DST001,SCH006,6,Attendance outreach,28,0.607,Director of MTSS,14
+2026-C3,DST001,SCH006,7,Credit recovery,23,0.605,Director of MTSS,21
+2026-C3,DST001,SCH006,7,Reading fluency,32,0.838,Principal,28
+2026-C3,DST001,SCH006,8,Credit recovery,51,0.61,Instructional coach,14
+2026-C3,DST001,SCH006,8,Math foundations,48,0.644,Attendance lead,21
+2026-C3,DST001,SCH007,9,Attendance outreach,40,0.569,Principal,28
+2026-C3,DST001,SCH007,9,Math foundations,46,0.491,Instructional coach,28
+2026-C3,DST001,SCH007,10,Attendance outreach,21,0.681,Instructional coach,14
+2026-C3,DST001,SCH007,10,Math foundations,19,0.518,Principal,14
+2026-C3,DST002,SCH008,3,ELL vocabulary,36,0.668,Instructional coach,21
+2026-C3,DST002,SCH008,3,Reading fluency,40,0.447,Instructional coach,21
+2026-C3,DST002,SCH008,4,Reading fluency,20,0.529,Director of MTSS,28
+2026-C3,DST002,SCH008,4,Math foundations,23,0.717,Director of MTSS,7
+2026-C3,DST002,SCH008,5,Credit recovery,25,0.676,Instructional coach,21
+2026-C3,DST002,SCH008,5,ELL vocabulary,33,0.587,Principal,7
+2026-C3,DST002,SCH009,3,Attendance outreach,38,0.676,Director of MTSS,28
+2026-C3,DST002,SCH009,3,Math foundations,36,0.692,Attendance lead,28
+2026-C3,DST002,SCH009,4,Math foundations,30,0.35,Attendance lead,28
+2026-C3,DST002,SCH009,4,Attendance outreach,47,0.646,Attendance lead,7
+2026-C3,DST002,SCH009,5,Attendance outreach,13,0.716,Director of MTSS,14
+2026-C3,DST002,SCH009,5,ELL vocabulary,45,0.711,Director of MTSS,7
+2026-C3,DST002,SCH010,3,Credit recovery,47,0.797,Attendance lead,7
+2026-C3,DST002,SCH010,3,Math foundations,33,0.504,Attendance lead,14
+2026-C3,DST002,SCH010,4,ELL vocabulary,30,0.525,Principal,21
+2026-C3,DST002,SCH010,4,Attendance outreach,35,0.587,Attendance lead,7
+2026-C3,DST002,SCH010,5,Credit recovery,49,0.403,Principal,14
+2026-C3,DST002,SCH010,5,ELL vocabulary,45,0.56,Instructional coach,28
+2026-C3,DST002,SCH011,3,Attendance outreach,28,0.734,Principal,21
+2026-C3,DST002,SCH011,3,Credit recovery,21,0.599,Attendance lead,14
+2026-C3,DST002,SCH011,4,Credit recovery,44,0.561,Director of MTSS,7
+2026-C3,DST002,SCH011,4,Attendance outreach,12,0.501,Director of MTSS,7
+2026-C3,DST002,SCH011,5,Reading fluency,53,0.45,Director of MTSS,28
+2026-C3,DST002,SCH011,5,ELL vocabulary,41,0.67,Principal,7
+2026-C3,DST002,SCH012,6,Math foundations,18,0.88,Director of MTSS,7
+2026-C3,DST002,SCH012,6,Attendance outreach,35,0.562,Principal,21
+2026-C3,DST002,SCH012,7,ELL vocabulary,16,0.515,Instructional coach,14
+2026-C3,DST002,SCH012,7,Attendance outreach,46,0.66,Director of MTSS,21
+2026-C3,DST002,SCH012,8,ELL vocabulary,48,0.749,Instructional coach,14
+2026-C3,DST002,SCH012,8,Math foundations,41,0.676,Director of MTSS,21
+2026-C3,DST002,SCH013,6,Attendance outreach,21,0.648,Instructional coach,7
+2026-C3,DST002,SCH013,6,ELL vocabulary,45,0.724,Principal,28
+2026-C3,DST002,SCH013,7,Reading fluency,37,0.521,Instructional coach,7
+2026-C3,DST002,SCH013,7,Math foundations,48,0.673,Instructional coach,14
+2026-C3,DST002,SCH013,8,Math foundations,31,0.484,Principal,14
+2026-C3,DST002,SCH013,8,Attendance outreach,17,0.647,Director of MTSS,28
+2026-C3,DST002,SCH014,9,Math foundations,47,0.712,Attendance lead,28
+2026-C3,DST002,SCH014,9,ELL vocabulary,14,0.764,Attendance lead,14
+2026-C3,DST002,SCH014,10,Credit recovery,43,0.75,Principal,21
+2026-C3,DST002,SCH014,10,ELL vocabulary,21,0.428,Director of MTSS,21
+2026-C3,DST003,SCH015,3,Credit recovery,22,0.575,Instructional coach,7
+2026-C3,DST003,SCH015,3,ELL vocabulary,27,0.836,Principal,21
+2026-C3,DST003,SCH015,4,Math foundations,24,0.477,Principal,7
+2026-C3,DST003,SCH015,4,Reading fluency,31,0.7,Attendance lead,21
+2026-C3,DST003,SCH015,5,Reading fluency,29,0.313,Director of MTSS,14
+2026-C3,DST003,SCH015,5,ELL vocabulary,52,0.603,Attendance lead,14
+2026-C3,DST003,SCH016,3,Reading fluency,35,0.606,Instructional coach,21
+2026-C3,DST003,SCH016,3,Attendance outreach,23,0.544,Attendance lead,28
+2026-C3,DST003,SCH016,4,Reading fluency,48,0.588,Director of MTSS,28
+2026-C3,DST003,SCH016,4,Credit recovery,31,0.88,Instructional coach,21
+2026-C3,DST003,SCH016,5,Credit recovery,19,0.839,Instructional coach,7
+2026-C3,DST003,SCH016,5,ELL vocabulary,45,0.59,Director of MTSS,7
+2026-C3,DST003,SCH017,3,Math foundations,37,0.689,Attendance lead,7
+2026-C3,DST003,SCH017,3,Reading fluency,15,0.823,Attendance lead,7
+2026-C3,DST003,SCH017,4,Math foundations,18,0.551,Instructional coach,14
+2026-C3,DST003,SCH017,4,ELL vocabulary,41,0.596,Attendance lead,7
+2026-C3,DST003,SCH017,5,ELL vocabulary,21,0.674,Director of MTSS,21
+2026-C3,DST003,SCH017,5,Math foundations,49,0.713,Instructional coach,21
+2026-C3,DST003,SCH018,3,Credit recovery,33,0.394,Director of MTSS,7
+2026-C3,DST003,SCH018,3,Reading fluency,18,0.549,Instructional coach,14
+2026-C3,DST003,SCH018,4,ELL vocabulary,29,0.88,Attendance lead,14
+2026-C3,DST003,SCH018,4,Attendance outreach,26,0.799,Principal,7
+2026-C3,DST003,SCH018,5,Credit recovery,24,0.316,Attendance lead,14
+2026-C3,DST003,SCH018,5,Math foundations,16,0.399,Principal,28
+2026-C3,DST003,SCH019,6,ELL vocabulary,46,0.31,Instructional coach,7
+2026-C3,DST003,SCH019,6,Credit recovery,54,0.697,Director of MTSS,28
+2026-C3,DST003,SCH019,7,Reading fluency,21,0.846,Attendance lead,21
+2026-C3,DST003,SCH019,7,ELL vocabulary,20,0.779,Director of MTSS,14
+2026-C3,DST003,SCH019,8,Math foundations,12,0.662,Director of MTSS,21
+2026-C3,DST003,SCH019,8,Reading fluency,31,0.418,Principal,14
+2026-C3,DST003,SCH020,6,Credit recovery,19,0.785,Director of MTSS,14
+2026-C3,DST003,SCH020,6,Reading fluency,28,0.88,Principal,28
+2026-C3,DST003,SCH020,7,Reading fluency,32,0.6,Principal,14
+2026-C3,DST003,SCH020,7,Math foundations,50,0.556,Instructional coach,21
+2026-C3,DST003,SCH020,8,Attendance outreach,51,0.537,Attendance lead,28
+2026-C3,DST003,SCH020,8,Reading fluency,48,0.429,Principal,7
+2026-C3,DST003,SCH021,9,ELL vocabulary,35,0.758,Principal,7
+2026-C3,DST003,SCH021,9,Credit recovery,13,0.753,Principal,28
+2026-C3,DST003,SCH021,10,Attendance outreach,38,0.597,Instructional coach,14
+2026-C3,DST003,SCH021,10,Credit recovery,47,0.523,Instructional coach,21
+2026-C3,DST004,SCH022,3,Math foundations,28,0.617,Attendance lead,14
+2026-C3,DST004,SCH022,3,Reading fluency,12,0.496,Principal,21
+2026-C3,DST004,SCH022,4,Attendance outreach,30,0.642,Attendance lead,7
+2026-C3,DST004,SCH022,4,Reading fluency,53,0.681,Instructional coach,14
+2026-C3,DST004,SCH022,5,Attendance outreach,53,0.398,Principal,14
+2026-C3,DST004,SCH022,5,ELL vocabulary,20,0.743,Attendance lead,14
+2026-C3,DST004,SCH023,3,Attendance outreach,24,0.617,Attendance lead,7
+2026-C3,DST004,SCH023,3,Reading fluency,34,0.548,Instructional coach,14
+2026-C3,DST004,SCH023,4,Reading fluency,25,0.74,Instructional coach,14
+2026-C3,DST004,SCH023,4,Credit recovery,15,0.754,Principal,7
+2026-C3,DST004,SCH023,5,Credit recovery,53,0.602,Principal,28
+2026-C3,DST004,SCH023,5,ELL vocabulary,44,0.626,Director of MTSS,7
+2026-C3,DST004,SCH024,3,Math foundations,37,0.821,Director of MTSS,7
+2026-C3,DST004,SCH024,3,Credit recovery,38,0.322,Instructional coach,14
+2026-C3,DST004,SCH024,4,Reading fluency,23,0.624,Principal,21
+2026-C3,DST004,SCH024,4,Attendance outreach,44,0.639,Principal,28
+2026-C3,DST004,SCH024,5,Reading fluency,48,0.563,Principal,7
+2026-C3,DST004,SCH024,5,Attendance outreach,29,0.527,Principal,28
+2026-C3,DST004,SCH025,3,Reading fluency,30,0.437,Principal,14
+2026-C3,DST004,SCH025,3,Credit recovery,48,0.599,Instructional coach,28
+2026-C3,DST004,SCH025,4,Reading fluency,21,0.72,Instructional coach,7
+2026-C3,DST004,SCH025,4,ELL vocabulary,34,0.542,Principal,7
+2026-C3,DST004,SCH025,5,Credit recovery,31,0.752,Instructional coach,7
+2026-C3,DST004,SCH025,5,ELL vocabulary,42,0.88,Director of MTSS,28
+2026-C3,DST004,SCH026,6,Math foundations,48,0.753,Director of MTSS,7
+2026-C3,DST004,SCH026,6,Credit recovery,49,0.54,Director of MTSS,28
+2026-C3,DST004,SCH026,7,Credit recovery,54,0.683,Director of MTSS,21
+2026-C3,DST004,SCH026,7,Math foundations,36,0.822,Attendance lead,28
+2026-C3,DST004,SCH026,8,Math foundations,47,0.642,Director of MTSS,7
+2026-C3,DST004,SCH026,8,Reading fluency,42,0.554,Director of MTSS,21
+2026-C3,DST004,SCH027,6,Reading fluency,53,0.863,Principal,21
+2026-C3,DST004,SCH027,6,Attendance outreach,45,0.581,Director of MTSS,28
+2026-C3,DST004,SCH027,7,ELL vocabulary,30,0.486,Attendance lead,21
+2026-C3,DST004,SCH027,7,Attendance outreach,37,0.626,Director of MTSS,21
+2026-C3,DST004,SCH027,8,ELL vocabulary,48,0.642,Attendance lead,7
+2026-C3,DST004,SCH027,8,Credit recovery,49,0.556,Director of MTSS,28
+2026-C3,DST004,SCH028,9,Reading fluency,49,0.75,Attendance lead,7
+2026-C3,DST004,SCH028,9,Attendance outreach,28,0.816,Attendance lead,14
+2026-C3,DST004,SCH028,10,Credit recovery,37,0.67,Principal,14
+2026-C3,DST004,SCH028,10,Math foundations,35,0.397,Instructional coach,7
+2026-C3,DST005,SCH029,3,Reading fluency,30,0.586,Principal,7
+2026-C3,DST005,SCH029,3,Attendance outreach,30,0.803,Director of MTSS,28
+2026-C3,DST005,SCH029,4,ELL vocabulary,19,0.657,Instructional coach,7
+2026-C3,DST005,SCH029,4,Attendance outreach,24,0.429,Instructional coach,7
+2026-C3,DST005,SCH029,5,Math foundations,39,0.64,Principal,14
+2026-C3,DST005,SCH029,5,Reading fluency,23,0.594,Director of MTSS,14
+2026-C3,DST005,SCH030,3,Credit recovery,44,0.674,Director of MTSS,21
+2026-C3,DST005,SCH030,3,Attendance outreach,35,0.359,Director of MTSS,14
+2026-C3,DST005,SCH030,4,ELL vocabulary,25,0.37,Principal,28
+2026-C3,DST005,SCH030,4,Math foundations,13,0.813,Director of MTSS,14
+2026-C3,DST005,SCH030,5,Attendance outreach,15,0.579,Attendance lead,14
+2026-C3,DST005,SCH030,5,Math foundations,53,0.385,Instructional coach,21
+2026-C3,DST005,SCH031,3,Reading fluency,45,0.68,Principal,28
+2026-C3,DST005,SCH031,3,Credit recovery,39,0.694,Attendance lead,28
+2026-C3,DST005,SCH031,4,Attendance outreach,44,0.68,Director of MTSS,7
+2026-C3,DST005,SCH031,4,Reading fluency,22,0.725,Instructional coach,28
+2026-C3,DST005,SCH031,5,Reading fluency,31,0.88,Instructional coach,21
+2026-C3,DST005,SCH031,5,Math foundations,25,0.527,Director of MTSS,28
+2026-C3,DST005,SCH032,3,Credit recovery,37,0.611,Attendance lead,7
+2026-C3,DST005,SCH032,3,ELL vocabulary,50,0.592,Instructional coach,28
+2026-C3,DST005,SCH032,4,Math foundations,43,0.608,Instructional coach,21
+2026-C3,DST005,SCH032,4,Attendance outreach,39,0.848,Principal,21
+2026-C3,DST005,SCH032,5,Attendance outreach,51,0.504,Instructional coach,14
+2026-C3,DST005,SCH032,5,Reading fluency,15,0.744,Director of MTSS,7
+2026-C3,DST005,SCH033,6,Attendance outreach,50,0.615,Attendance lead,21
+2026-C3,DST005,SCH033,6,Credit recovery,20,0.718,Director of MTSS,28
+2026-C3,DST005,SCH033,7,Attendance outreach,53,0.606,Principal,7
+2026-C3,DST005,SCH033,7,Reading fluency,39,0.651,Principal,14
+2026-C3,DST005,SCH033,8,Credit recovery,44,0.613,Director of MTSS,28
+2026-C3,DST005,SCH033,8,Math foundations,21,0.581,Director of MTSS,21
+2026-C3,DST005,SCH034,6,Reading fluency,39,0.679,Attendance lead,7
+2026-C3,DST005,SCH034,6,Math foundations,13,0.88,Attendance lead,7
+2026-C3,DST005,SCH034,7,Attendance outreach,16,0.524,Instructional coach,7
+2026-C3,DST005,SCH034,7,Math foundations,38,0.49,Principal,14
+2026-C3,DST005,SCH034,8,Credit recovery,19,0.434,Instructional coach,7
+2026-C3,DST005,SCH034,8,ELL vocabulary,19,0.422,Director of MTSS,28
+2026-C3,DST005,SCH035,9,ELL vocabulary,46,0.538,Attendance lead,7
+2026-C3,DST005,SCH035,9,Reading fluency,29,0.444,Director of MTSS,7
+2026-C3,DST005,SCH035,10,Reading fluency,52,0.669,Director of MTSS,7
+2026-C3,DST005,SCH035,10,Attendance outreach,41,0.475,Director of MTSS,28
+2026-C3,DST006,SCH036,3,Math foundations,40,0.657,Principal,7
+2026-C3,DST006,SCH036,3,ELL vocabulary,19,0.604,Attendance lead,7
+2026-C3,DST006,SCH036,4,Credit recovery,51,0.346,Attendance lead,21
+2026-C3,DST006,SCH036,4,Attendance outreach,35,0.483,Attendance lead,28
+2026-C3,DST006,SCH036,5,Credit recovery,37,0.845,Attendance lead,14
+2026-C3,DST006,SCH036,5,Math foundations,47,0.403,Instructional coach,14
+2026-C3,DST006,SCH037,3,Reading fluency,26,0.589,Principal,28
+2026-C3,DST006,SCH037,3,Math foundations,36,0.6,Instructional coach,21
+2026-C3,DST006,SCH037,4,Reading fluency,47,0.74,Attendance lead,7
+2026-C3,DST006,SCH037,4,Math foundations,12,0.844,Attendance lead,14
+2026-C3,DST006,SCH037,5,Reading fluency,27,0.533,Principal,14
+2026-C3,DST006,SCH037,5,ELL vocabulary,17,0.751,Instructional coach,28
+2026-C3,DST006,SCH038,3,Attendance outreach,27,0.723,Director of MTSS,28
+2026-C3,DST006,SCH038,3,Reading fluency,24,0.834,Director of MTSS,7
+2026-C3,DST006,SCH038,4,Attendance outreach,20,0.88,Instructional coach,28
+2026-C3,DST006,SCH038,4,Reading fluency,41,0.39,Instructional coach,14
+2026-C3,DST006,SCH038,5,ELL vocabulary,22,0.573,Principal,21
+2026-C3,DST006,SCH038,5,Reading fluency,24,0.278,Principal,7
+2026-C3,DST006,SCH039,3,Credit recovery,40,0.204,Principal,28
+2026-C3,DST006,SCH039,3,Attendance outreach,22,0.561,Director of MTSS,14
+2026-C3,DST006,SCH039,4,Attendance outreach,21,0.318,Instructional coach,21
+2026-C3,DST006,SCH039,4,Reading fluency,23,0.565,Attendance lead,7
+2026-C3,DST006,SCH039,5,Credit recovery,37,0.68,Attendance lead,14
+2026-C3,DST006,SCH039,5,Reading fluency,49,0.627,Principal,7
+2026-C3,DST006,SCH040,6,Attendance outreach,17,0.689,Principal,7
+2026-C3,DST006,SCH040,6,Credit recovery,23,0.602,Instructional coach,14
+2026-C3,DST006,SCH040,7,Reading fluency,51,0.433,Director of MTSS,7
+2026-C3,DST006,SCH040,7,ELL vocabulary,38,0.63,Director of MTSS,28
+2026-C3,DST006,SCH040,8,Reading fluency,52,0.88,Attendance lead,14
+2026-C3,DST006,SCH040,8,Math foundations,27,0.653,Instructional coach,14
+2026-C3,DST006,SCH041,6,ELL vocabulary,20,0.643,Attendance lead,7
+2026-C3,DST006,SCH041,6,Reading fluency,25,0.616,Director of MTSS,21
+2026-C3,DST006,SCH041,7,Reading fluency,42,0.532,Instructional coach,28
+2026-C3,DST006,SCH041,7,Attendance outreach,12,0.55,Principal,28
+2026-C3,DST006,SCH041,8,Reading fluency,13,0.852,Attendance lead,28
+2026-C3,DST006,SCH041,8,Credit recovery,54,0.865,Instructional coach,21
+2026-C3,DST006,SCH042,9,Math foundations,12,0.588,Attendance lead,7
+2026-C3,DST006,SCH042,9,Attendance outreach,50,0.491,Instructional coach,28
+2026-C3,DST006,SCH042,10,Attendance outreach,35,0.517,Attendance lead,14
+2026-C3,DST006,SCH042,10,Credit recovery,49,0.733,Instructional coach,21
+2026-C4,DST001,SCH001,3,Math foundations,16,0.464,Director of MTSS,21
+2026-C4,DST001,SCH001,3,Attendance outreach,31,0.667,Principal,21
+2026-C4,DST001,SCH001,4,ELL vocabulary,22,0.676,Instructional coach,14
+2026-C4,DST001,SCH001,4,Credit recovery,34,0.57,Instructional coach,28
+2026-C4,DST001,SCH001,5,Math foundations,25,0.477,Instructional coach,7
+2026-C4,DST001,SCH001,5,ELL vocabulary,15,0.406,Director of MTSS,28
+2026-C4,DST001,SCH002,3,Math foundations,41,0.665,Principal,21
+2026-C4,DST001,SCH002,3,ELL vocabulary,51,0.457,Instructional coach,14
+2026-C4,DST001,SCH002,4,Attendance outreach,12,0.856,Director of MTSS,7
+2026-C4,DST001,SCH002,4,Reading fluency,54,0.387,Director of MTSS,14
+2026-C4,DST001,SCH002,5,Math foundations,27,0.528,Attendance lead,21
+2026-C4,DST001,SCH002,5,ELL vocabulary,49,0.615,Attendance lead,28
+2026-C4,DST001,SCH003,3,Math foundations,44,0.52,Principal,7
+2026-C4,DST001,SCH003,3,Attendance outreach,23,0.68,Attendance lead,7
+2026-C4,DST001,SCH003,4,Attendance outreach,48,0.469,Instructional coach,21
+2026-C4,DST001,SCH003,4,ELL vocabulary,28,0.88,Instructional coach,21
+2026-C4,DST001,SCH003,5,Math foundations,16,0.455,Director of MTSS,21
+2026-C4,DST001,SCH003,5,Reading fluency,25,0.681,Principal,28
+2026-C4,DST001,SCH004,3,Reading fluency,18,0.716,Director of MTSS,7
+2026-C4,DST001,SCH004,3,Attendance outreach,28,0.563,Attendance lead,14
+2026-C4,DST001,SCH004,4,Credit recovery,21,0.654,Director of MTSS,21
+2026-C4,DST001,SCH004,4,Math foundations,28,0.788,Attendance lead,7
+2026-C4,DST001,SCH004,5,Attendance outreach,53,0.523,Instructional coach,21
+2026-C4,DST001,SCH004,5,ELL vocabulary,19,0.633,Principal,28
+2026-C4,DST001,SCH005,6,Attendance outreach,12,0.591,Principal,7
+2026-C4,DST001,SCH005,6,Reading fluency,33,0.45,Director of MTSS,21
+2026-C4,DST001,SCH005,7,Reading fluency,42,0.77,Attendance lead,7
+2026-C4,DST001,SCH005,7,ELL vocabulary,24,0.701,Director of MTSS,14
+2026-C4,DST001,SCH005,8,Credit recovery,42,0.562,Director of MTSS,14
+2026-C4,DST001,SCH005,8,Math foundations,12,0.88,Director of MTSS,28
+2026-C4,DST001,SCH006,6,Reading fluency,30,0.811,Director of MTSS,7
+2026-C4,DST001,SCH006,6,Attendance outreach,25,0.592,Director of MTSS,28
+2026-C4,DST001,SCH006,7,Reading fluency,48,0.586,Director of MTSS,7
+2026-C4,DST001,SCH006,7,ELL vocabulary,38,0.65,Attendance lead,28
+2026-C4,DST001,SCH006,8,ELL vocabulary,23,0.567,Director of MTSS,14
+2026-C4,DST001,SCH006,8,Reading fluency,42,0.779,Principal,14
+2026-C4,DST001,SCH007,9,ELL vocabulary,53,0.645,Director of MTSS,7
+2026-C4,DST001,SCH007,9,Attendance outreach,34,0.756,Instructional coach,7
+2026-C4,DST001,SCH007,10,ELL vocabulary,26,0.46,Instructional coach,21
+2026-C4,DST001,SCH007,10,Credit recovery,20,0.712,Attendance lead,28
+2026-C4,DST002,SCH008,3,Credit recovery,51,0.778,Director of MTSS,7
+2026-C4,DST002,SCH008,3,ELL vocabulary,39,0.674,Instructional coach,14
+2026-C4,DST002,SCH008,4,Attendance outreach,52,0.806,Instructional coach,14
+2026-C4,DST002,SCH008,4,Reading fluency,39,0.752,Attendance lead,28
+2026-C4,DST002,SCH008,5,ELL vocabulary,51,0.462,Principal,7
+2026-C4,DST002,SCH008,5,Credit recovery,37,0.536,Attendance lead,21
+2026-C4,DST002,SCH009,3,Reading fluency,48,0.423,Instructional coach,7
+2026-C4,DST002,SCH009,3,Attendance outreach,12,0.502,Attendance lead,7
+2026-C4,DST002,SCH009,4,Reading fluency,12,0.654,Director of MTSS,14
+2026-C4,DST002,SCH009,4,Math foundations,28,0.826,Instructional coach,14
+2026-C4,DST002,SCH009,5,Math foundations,19,0.73,Instructional coach,21
+2026-C4,DST002,SCH009,5,Reading fluency,15,0.547,Principal,14
+2026-C4,DST002,SCH010,3,Credit recovery,28,0.642,Director of MTSS,14
+2026-C4,DST002,SCH010,3,Attendance outreach,19,0.88,Instructional coach,28
+2026-C4,DST002,SCH010,4,Math foundations,17,0.823,Attendance lead,28
+2026-C4,DST002,SCH010,4,Attendance outreach,15,0.611,Principal,21
+2026-C4,DST002,SCH010,5,Math foundations,37,0.823,Principal,21
+2026-C4,DST002,SCH010,5,Attendance outreach,45,0.555,Instructional coach,7
+2026-C4,DST002,SCH011,3,Attendance outreach,50,0.655,Instructional coach,14
+2026-C4,DST002,SCH011,3,ELL vocabulary,21,0.608,Principal,28
+2026-C4,DST002,SCH011,4,Reading fluency,26,0.715,Director of MTSS,7
+2026-C4,DST002,SCH011,4,ELL vocabulary,51,0.606,Principal,14
+2026-C4,DST002,SCH011,5,Math foundations,51,0.729,Principal,21
+2026-C4,DST002,SCH011,5,Attendance outreach,32,0.501,Director of MTSS,7
+2026-C4,DST002,SCH012,6,ELL vocabulary,17,0.604,Principal,14
+2026-C4,DST002,SCH012,6,Attendance outreach,22,0.601,Principal,28
+2026-C4,DST002,SCH012,7,Attendance outreach,29,0.777,Attendance lead,7
+2026-C4,DST002,SCH012,7,Math foundations,33,0.853,Principal,21
+2026-C4,DST002,SCH012,8,Math foundations,41,0.694,Principal,21
+2026-C4,DST002,SCH012,8,ELL vocabulary,17,0.596,Instructional coach,7
+2026-C4,DST002,SCH013,6,Credit recovery,44,0.804,Director of MTSS,14
+2026-C4,DST002,SCH013,6,Attendance outreach,50,0.718,Director of MTSS,28
+2026-C4,DST002,SCH013,7,ELL vocabulary,18,0.778,Director of MTSS,28
+2026-C4,DST002,SCH013,7,Credit recovery,18,0.817,Director of MTSS,7
+2026-C4,DST002,SCH013,8,Math foundations,32,0.528,Attendance lead,28
+2026-C4,DST002,SCH013,8,ELL vocabulary,50,0.502,Attendance lead,14
+2026-C4,DST002,SCH014,9,Attendance outreach,36,0.662,Director of MTSS,14
+2026-C4,DST002,SCH014,9,Credit recovery,20,0.711,Instructional coach,14
+2026-C4,DST002,SCH014,10,Attendance outreach,18,0.806,Instructional coach,14
+2026-C4,DST002,SCH014,10,Credit recovery,37,0.809,Principal,28
+2026-C4,DST003,SCH015,3,Math foundations,32,0.614,Instructional coach,14
+2026-C4,DST003,SCH015,3,Credit recovery,13,0.663,Principal,7
+2026-C4,DST003,SCH015,4,Reading fluency,22,0.609,Attendance lead,21
+2026-C4,DST003,SCH015,4,Credit recovery,30,0.736,Director of MTSS,28
+2026-C4,DST003,SCH015,5,Reading fluency,34,0.665,Instructional coach,28
+2026-C4,DST003,SCH015,5,Math foundations,49,0.732,Instructional coach,28
+2026-C4,DST003,SCH016,3,Reading fluency,40,0.556,Instructional coach,7
+2026-C4,DST003,SCH016,3,Math foundations,50,0.88,Principal,14
+2026-C4,DST003,SCH016,4,Math foundations,15,0.624,Attendance lead,28
+2026-C4,DST003,SCH016,4,Credit recovery,16,0.562,Principal,7
+2026-C4,DST003,SCH016,5,Math foundations,40,0.68,Attendance lead,28
+2026-C4,DST003,SCH016,5,Credit recovery,54,0.523,Instructional coach,7
+2026-C4,DST003,SCH017,3,ELL vocabulary,53,0.695,Principal,14
+2026-C4,DST003,SCH017,3,Math foundations,19,0.464,Attendance lead,14
+2026-C4,DST003,SCH017,4,Attendance outreach,14,0.559,Attendance lead,21
+2026-C4,DST003,SCH017,4,Credit recovery,13,0.738,Instructional coach,28
+2026-C4,DST003,SCH017,5,Attendance outreach,20,0.656,Director of MTSS,7
+2026-C4,DST003,SCH017,5,Math foundations,33,0.65,Instructional coach,7
+2026-C4,DST003,SCH018,3,ELL vocabulary,54,0.627,Principal,14
+2026-C4,DST003,SCH018,3,Math foundations,33,0.473,Director of MTSS,14
+2026-C4,DST003,SCH018,4,Math foundations,47,0.48,Principal,7
+2026-C4,DST003,SCH018,4,Attendance outreach,48,0.54,Instructional coach,21
+2026-C4,DST003,SCH018,5,ELL vocabulary,14,0.37,Instructional coach,21
+2026-C4,DST003,SCH018,5,Math foundations,43,0.723,Principal,28
+2026-C4,DST003,SCH019,6,Math foundations,27,0.393,Director of MTSS,14
+2026-C4,DST003,SCH019,6,Reading fluency,54,0.798,Director of MTSS,28
+2026-C4,DST003,SCH019,7,Attendance outreach,45,0.845,Director of MTSS,14
+2026-C4,DST003,SCH019,7,Math foundations,20,0.796,Instructional coach,28
+2026-C4,DST003,SCH019,8,ELL vocabulary,24,0.635,Attendance lead,14
+2026-C4,DST003,SCH019,8,Math foundations,40,0.623,Attendance lead,28
+2026-C4,DST003,SCH020,6,Attendance outreach,27,0.516,Instructional coach,28
+2026-C4,DST003,SCH020,6,ELL vocabulary,14,0.355,Director of MTSS,7
+2026-C4,DST003,SCH020,7,Credit recovery,33,0.67,Principal,28
+2026-C4,DST003,SCH020,7,Math foundations,45,0.771,Director of MTSS,28
+2026-C4,DST003,SCH020,8,Reading fluency,29,0.88,Instructional coach,14
+2026-C4,DST003,SCH020,8,Math foundations,36,0.605,Principal,21
+2026-C4,DST003,SCH021,9,Attendance outreach,23,0.67,Principal,7
+2026-C4,DST003,SCH021,9,Math foundations,24,0.576,Director of MTSS,21
+2026-C4,DST003,SCH021,10,Attendance outreach,12,0.604,Instructional coach,28
+2026-C4,DST003,SCH021,10,Credit recovery,23,0.793,Principal,7
+2026-C4,DST004,SCH022,3,ELL vocabulary,42,0.523,Principal,7
+2026-C4,DST004,SCH022,3,Math foundations,28,0.823,Instructional coach,21
+2026-C4,DST004,SCH022,4,Math foundations,36,0.664,Instructional coach,21
+2026-C4,DST004,SCH022,4,ELL vocabulary,47,0.594,Attendance lead,21
+2026-C4,DST004,SCH022,5,Credit recovery,35,0.585,Attendance lead,21
+2026-C4,DST004,SCH022,5,ELL vocabulary,18,0.87,Director of MTSS,7
+2026-C4,DST004,SCH023,3,ELL vocabulary,26,0.557,Director of MTSS,28
+2026-C4,DST004,SCH023,3,Math foundations,48,0.578,Principal,21
+2026-C4,DST004,SCH023,4,Attendance outreach,30,0.765,Attendance lead,28
+2026-C4,DST004,SCH023,4,ELL vocabulary,54,0.705,Attendance lead,7
+2026-C4,DST004,SCH023,5,Math foundations,43,0.631,Instructional coach,7
+2026-C4,DST004,SCH023,5,Reading fluency,27,0.773,Director of MTSS,14
+2026-C4,DST004,SCH024,3,ELL vocabulary,30,0.88,Attendance lead,21
+2026-C4,DST004,SCH024,3,Math foundations,51,0.456,Instructional coach,21
+2026-C4,DST004,SCH024,4,Math foundations,32,0.744,Instructional coach,14
+2026-C4,DST004,SCH024,4,ELL vocabulary,40,0.803,Instructional coach,21
+2026-C4,DST004,SCH024,5,Credit recovery,17,0.58,Instructional coach,7
+2026-C4,DST004,SCH024,5,Attendance outreach,33,0.695,Principal,21
+2026-C4,DST004,SCH025,3,Reading fluency,54,0.851,Director of MTSS,28
+2026-C4,DST004,SCH025,3,Attendance outreach,32,0.456,Director of MTSS,21
+2026-C4,DST004,SCH025,4,Credit recovery,45,0.617,Director of MTSS,21
+2026-C4,DST004,SCH025,4,Reading fluency,41,0.448,Director of MTSS,7
+2026-C4,DST004,SCH025,5,Attendance outreach,48,0.746,Attendance lead,14
+2026-C4,DST004,SCH025,5,ELL vocabulary,22,0.88,Principal,21
+2026-C4,DST004,SCH026,6,Math foundations,29,0.814,Instructional coach,28
+2026-C4,DST004,SCH026,6,ELL vocabulary,32,0.502,Director of MTSS,21
+2026-C4,DST004,SCH026,7,Attendance outreach,32,0.523,Instructional coach,14
+2026-C4,DST004,SCH026,7,Reading fluency,43,0.448,Principal,7
+2026-C4,DST004,SCH026,8,Attendance outreach,14,0.513,Principal,28
+2026-C4,DST004,SCH026,8,Math foundations,35,0.727,Attendance lead,14
+2026-C4,DST004,SCH027,6,Credit recovery,36,0.88,Instructional coach,28
+2026-C4,DST004,SCH027,6,Attendance outreach,38,0.814,Instructional coach,28
+2026-C4,DST004,SCH027,7,Attendance outreach,35,0.828,Principal,7
+2026-C4,DST004,SCH027,7,ELL vocabulary,46,0.667,Director of MTSS,21
+2026-C4,DST004,SCH027,8,Reading fluency,29,0.651,Attendance lead,21
+2026-C4,DST004,SCH027,8,Attendance outreach,23,0.67,Principal,21
+2026-C4,DST004,SCH028,9,Credit recovery,35,0.663,Attendance lead,28
+2026-C4,DST004,SCH028,9,Reading fluency,46,0.77,Principal,28
+2026-C4,DST004,SCH028,10,Reading fluency,29,0.48,Director of MTSS,28
+2026-C4,DST004,SCH028,10,Math foundations,26,0.762,Attendance lead,14
+2026-C4,DST005,SCH029,3,ELL vocabulary,27,0.804,Instructional coach,21
+2026-C4,DST005,SCH029,3,Attendance outreach,14,0.636,Instructional coach,14
+2026-C4,DST005,SCH029,4,Math foundations,32,0.848,Instructional coach,21
+2026-C4,DST005,SCH029,4,Credit recovery,13,0.547,Director of MTSS,7
+2026-C4,DST005,SCH029,5,ELL vocabulary,14,0.656,Principal,7
+2026-C4,DST005,SCH029,5,Math foundations,19,0.88,Instructional coach,7
+2026-C4,DST005,SCH030,3,Math foundations,44,0.85,Attendance lead,7
+2026-C4,DST005,SCH030,3,Attendance outreach,30,0.686,Principal,14
+2026-C4,DST005,SCH030,4,Attendance outreach,51,0.414,Director of MTSS,7
+2026-C4,DST005,SCH030,4,Reading fluency,51,0.664,Principal,28
+2026-C4,DST005,SCH030,5,Reading fluency,20,0.662,Attendance lead,7
+2026-C4,DST005,SCH030,5,ELL vocabulary,20,0.46,Attendance lead,28
+2026-C4,DST005,SCH031,3,ELL vocabulary,28,0.465,Principal,7
+2026-C4,DST005,SCH031,3,Reading fluency,19,0.737,Instructional coach,7
+2026-C4,DST005,SCH031,4,Reading fluency,35,0.755,Principal,21
+2026-C4,DST005,SCH031,4,Math foundations,32,0.617,Instructional coach,21
+2026-C4,DST005,SCH031,5,ELL vocabulary,51,0.394,Director of MTSS,7
+2026-C4,DST005,SCH031,5,Credit recovery,37,0.76,Director of MTSS,28
+2026-C4,DST005,SCH032,3,Attendance outreach,36,0.586,Principal,28
+2026-C4,DST005,SCH032,3,ELL vocabulary,39,0.44,Director of MTSS,14
+2026-C4,DST005,SCH032,4,Credit recovery,44,0.63,Principal,21
+2026-C4,DST005,SCH032,4,ELL vocabulary,35,0.656,Instructional coach,7
+2026-C4,DST005,SCH032,5,ELL vocabulary,23,0.82,Instructional coach,28
+2026-C4,DST005,SCH032,5,Credit recovery,32,0.557,Instructional coach,21
+2026-C4,DST005,SCH033,6,Math foundations,13,0.758,Principal,14
+2026-C4,DST005,SCH033,6,Attendance outreach,19,0.752,Instructional coach,28
+2026-C4,DST005,SCH033,7,Math foundations,45,0.499,Instructional coach,21
+2026-C4,DST005,SCH033,7,Credit recovery,29,0.584,Director of MTSS,21
+2026-C4,DST005,SCH033,8,Credit recovery,13,0.743,Director of MTSS,21
+2026-C4,DST005,SCH033,8,Math foundations,53,0.789,Principal,28
+2026-C4,DST005,SCH034,6,ELL vocabulary,24,0.382,Instructional coach,14
+2026-C4,DST005,SCH034,6,Credit recovery,50,0.507,Attendance lead,21
+2026-C4,DST005,SCH034,7,Attendance outreach,32,0.682,Director of MTSS,28
+2026-C4,DST005,SCH034,7,ELL vocabulary,43,0.836,Director of MTSS,7
+2026-C4,DST005,SCH034,8,Math foundations,15,0.558,Principal,7
+2026-C4,DST005,SCH034,8,Reading fluency,27,0.506,Director of MTSS,28
+2026-C4,DST005,SCH035,9,ELL vocabulary,22,0.729,Principal,7
+2026-C4,DST005,SCH035,9,Reading fluency,41,0.654,Director of MTSS,7
+2026-C4,DST005,SCH035,10,Reading fluency,41,0.708,Director of MTSS,14
+2026-C4,DST005,SCH035,10,ELL vocabulary,19,0.816,Instructional coach,14
+2026-C4,DST006,SCH036,3,Reading fluency,12,0.761,Principal,7
+2026-C4,DST006,SCH036,3,ELL vocabulary,27,0.615,Instructional coach,7
+2026-C4,DST006,SCH036,4,Reading fluency,21,0.641,Principal,14
+2026-C4,DST006,SCH036,4,ELL vocabulary,17,0.636,Director of MTSS,14
+2026-C4,DST006,SCH036,5,ELL vocabulary,19,0.439,Attendance lead,21
+2026-C4,DST006,SCH036,5,Math foundations,52,0.605,Director of MTSS,28
+2026-C4,DST006,SCH037,3,Credit recovery,46,0.787,Attendance lead,28
+2026-C4,DST006,SCH037,3,Reading fluency,27,0.438,Attendance lead,14
+2026-C4,DST006,SCH037,4,Attendance outreach,19,0.772,Principal,14
+2026-C4,DST006,SCH037,4,Math foundations,40,0.574,Director of MTSS,21
+2026-C4,DST006,SCH037,5,Attendance outreach,29,0.87,Director of MTSS,14
+2026-C4,DST006,SCH037,5,ELL vocabulary,42,0.64,Director of MTSS,21
+2026-C4,DST006,SCH038,3,Attendance outreach,32,0.645,Principal,28
+2026-C4,DST006,SCH038,3,Math foundations,41,0.631,Attendance lead,14
+2026-C4,DST006,SCH038,4,Credit recovery,44,0.613,Principal,7
+2026-C4,DST006,SCH038,4,ELL vocabulary,22,0.804,Instructional coach,14
+2026-C4,DST006,SCH038,5,ELL vocabulary,22,0.544,Attendance lead,7
+2026-C4,DST006,SCH038,5,Credit recovery,47,0.801,Principal,7
+2026-C4,DST006,SCH039,3,Math foundations,33,0.594,Principal,14
+2026-C4,DST006,SCH039,3,Reading fluency,49,0.798,Director of MTSS,7
+2026-C4,DST006,SCH039,4,Attendance outreach,46,0.727,Attendance lead,28
+2026-C4,DST006,SCH039,4,Reading fluency,20,0.423,Director of MTSS,28
+2026-C4,DST006,SCH039,5,Reading fluency,15,0.687,Director of MTSS,7
+2026-C4,DST006,SCH039,5,Attendance outreach,26,0.599,Director of MTSS,14
+2026-C4,DST006,SCH040,6,Math foundations,29,0.674,Director of MTSS,14
+2026-C4,DST006,SCH040,6,ELL vocabulary,37,0.465,Principal,21
+2026-C4,DST006,SCH040,7,Attendance outreach,50,0.668,Principal,7
+2026-C4,DST006,SCH040,7,ELL vocabulary,48,0.755,Director of MTSS,21
+2026-C4,DST006,SCH040,8,Attendance outreach,12,0.872,Principal,21
+2026-C4,DST006,SCH040,8,ELL vocabulary,51,0.776,Director of MTSS,14
+2026-C4,DST006,SCH041,6,ELL vocabulary,54,0.761,Director of MTSS,21
+2026-C4,DST006,SCH041,6,Math foundations,32,0.717,Instructional coach,14
+2026-C4,DST006,SCH041,7,Reading fluency,18,0.88,Attendance lead,28
+2026-C4,DST006,SCH041,7,Credit recovery,13,0.642,Instructional coach,14
+2026-C4,DST006,SCH041,8,Attendance outreach,22,0.745,Principal,28
+2026-C4,DST006,SCH041,8,Credit recovery,34,0.611,Director of MTSS,14
+2026-C4,DST006,SCH042,9,Credit recovery,36,0.745,Instructional coach,7
+2026-C4,DST006,SCH042,9,Math foundations,29,0.744,Attendance lead,7
+2026-C4,DST006,SCH042,10,Credit recovery,37,0.462,Instructional coach,21
+2026-C4,DST006,SCH042,10,Attendance outreach,40,0.515,Principal,21

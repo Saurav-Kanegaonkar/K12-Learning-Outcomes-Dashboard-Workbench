@@ -1,0 +1,31 @@
+district_id,district_name,sis,pipeline_name,success_rate,avg_record_completeness,avg_latency_minutes,failed_or_late_runs,health_score
+DST004,Canyon Ridge USD,Aeries,Assessment feed,0.923,0.965,53.6,1,91.4
+DST003,Pine County Schools,Skyward,Attendance extract,0.923,0.97,49.4,1,91.8
+DST003,Pine County Schools,Skyward,Assignment events,0.923,0.979,55.8,1,91.8
+DST002,Lakefront Public Schools,Infinite Campus,SIS roster sync,0.923,0.97,48.7,1,91.9
+DST006,Mesa Vista Public Schools,Infinite Campus,Assessment feed,0.923,0.978,53.4,1,91.9
+DST005,Harbor City Schools,PowerSchool,Attendance extract,0.923,0.974,48.9,1,92.0
+DST005,Harbor City Schools,PowerSchool,Assignment events,0.923,0.981,51.8,1,92.0
+DST005,Harbor City Schools,PowerSchool,Intervention roster,0.923,0.975,49.0,1,92.0
+DST004,Canyon Ridge USD,Aeries,Assignment events,0.923,0.978,49.4,1,92.1
+DST001,North Valley Unified,PowerSchool,Assignment events,0.923,0.976,46.3,1,92.2
+DST002,Lakefront Public Schools,Infinite Campus,Attendance extract,0.923,0.987,48.1,1,92.4
+DST003,Pine County Schools,Skyward,Intervention roster,0.923,0.98,40.9,1,92.6
+DST006,Mesa Vista Public Schools,Infinite Campus,Intervention roster,1.0,0.989,58.3,0,96.4
+DST002,Lakefront Public Schools,Infinite Campus,Intervention roster,1.0,0.978,46.9,0,96.7
+DST003,Pine County Schools,Skyward,Assessment feed,1.0,0.974,43.8,0,96.7
+DST001,North Valley Unified,PowerSchool,Attendance extract,1.0,0.979,46.3,0,96.8
+DST001,North Valley Unified,PowerSchool,SIS roster sync,1.0,0.981,45.8,0,96.9
+DST002,Lakefront Public Schools,Infinite Campus,Assessment feed,1.0,0.981,44.6,0,96.9
+DST001,North Valley Unified,PowerSchool,Assessment feed,1.0,0.976,40.7,0,97.0
+DST004,Canyon Ridge USD,Aeries,Intervention roster,1.0,0.975,40.0,0,97.0
+DST001,North Valley Unified,PowerSchool,Intervention roster,1.0,0.985,42.7,0,97.1
+DST002,Lakefront Public Schools,Infinite Campus,Assignment events,1.0,0.98,41.0,0,97.1
+DST005,Harbor City Schools,PowerSchool,Assessment feed,1.0,0.988,45.2,0,97.1
+DST006,Mesa Vista Public Schools,Infinite Campus,SIS roster sync,1.0,0.985,43.7,0,97.1
+DST006,Mesa Vista Public Schools,Infinite Campus,Attendance extract,1.0,0.983,42.9,0,97.1
+DST006,Mesa Vista Public Schools,Infinite Campus,Assignment events,1.0,0.986,43.5,0,97.1
+DST004,Canyon Ridge USD,Aeries,SIS roster sync,1.0,0.978,37.7,0,97.2
+DST004,Canyon Ridge USD,Aeries,Attendance extract,1.0,0.985,42.2,0,97.2
+DST003,Pine County Schools,Skyward,SIS roster sync,1.0,0.983,33.9,0,97.6
+DST005,Harbor City Schools,PowerSchool,SIS roster sync,1.0,0.984,33.8,0,97.6

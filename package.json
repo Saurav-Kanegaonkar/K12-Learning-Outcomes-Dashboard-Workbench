@@ -1,6 +1,10 @@
 {
   "scripts": {
     "start": "python3 -m http.server 4173",
-    "analyze": "python3 scripts/score_operating_data.py"
+    "analyze": "python3 scripts/score_operating_data.py",
+    "capture": "node scripts/capture_screenshots.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.60.0"
   }
 }

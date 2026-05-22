@@ -1,0 +1,121 @@
+request_id,district_id,stakeholder_role,topic,urgency,status,days_to_due
+REQ001,DST004,Curriculum lead,MTSS cycle impact,routine,delivered,10
+REQ002,DST004,Assistant superintendent,Board-ready proficiency trend,routine,delivered,14
+REQ003,DST003,Data director,Attendance intervention list,this week,new,2
+REQ004,DST005,Curriculum lead,Metric definition review,routine,new,3
+REQ005,DST002,Assistant superintendent,School comparison packet,board meeting,scoping,3
+REQ006,DST003,Assistant superintendent,Board-ready proficiency trend,routine,delivered,2
+REQ007,DST002,Assistant superintendent,Roster sync question,routine,scoping,3
+REQ008,DST003,Principal,MTSS cycle impact,routine,new,14
+REQ009,DST001,Data director,Metric definition review,state reporting,delivered,7
+REQ010,DST005,Data director,Roster sync question,board meeting,delivered,14
+REQ011,DST004,Curriculum lead,Metric definition review,board meeting,delivered,5
+REQ012,DST002,Assistant superintendent,MTSS cycle impact,routine,delivered,5
+REQ013,DST005,Data director,Metric definition review,board meeting,delivered,3
+REQ014,DST003,Curriculum lead,Board-ready proficiency trend,this week,scoping,5
+REQ015,DST001,Curriculum lead,Roster sync question,routine,blocked,14
+REQ016,DST001,Assistant superintendent,MTSS cycle impact,board meeting,delivered,21
+REQ017,DST003,Principal,Roster sync question,state reporting,scoping,10
+REQ018,DST006,Assistant superintendent,Attendance intervention list,board meeting,delivered,3
+REQ019,DST004,Data director,Attendance intervention list,board meeting,new,10
+REQ020,DST003,Principal,Metric definition review,this week,blocked,14
+REQ021,DST001,Data director,MTSS cycle impact,routine,delivered,21
+REQ022,DST003,Data director,Attendance intervention list,state reporting,delivered,3
+REQ023,DST001,Data director,MTSS cycle impact,this week,blocked,10
+REQ024,DST006,Principal,Metric definition review,state reporting,scoping,7
+REQ025,DST002,Data director,School comparison packet,state reporting,scoping,7
+REQ026,DST002,Data director,Metric definition review,state reporting,new,10
+REQ027,DST001,Assistant superintendent,School comparison packet,this week,delivered,3
+REQ028,DST006,Data director,MTSS cycle impact,state reporting,delivered,7
+REQ029,DST004,Principal,School comparison packet,this week,scoping,21
+REQ030,DST004,Curriculum lead,Attendance intervention list,this week,delivered,7
+REQ031,DST005,Principal,Metric definition review,routine,delivered,5
+REQ032,DST003,Data director,Attendance intervention list,state reporting,scoping,21
+REQ033,DST002,Assistant superintendent,Board-ready proficiency trend,this week,blocked,14
+REQ034,DST005,Curriculum lead,Roster sync question,board meeting,new,2
+REQ035,DST004,Assistant superintendent,School comparison packet,state reporting,new,10
+REQ036,DST001,Data director,MTSS cycle impact,board meeting,delivered,14
+REQ037,DST006,Principal,Attendance intervention list,state reporting,delivered,3
+REQ038,DST003,Curriculum lead,Attendance intervention list,board meeting,scoping,2
+REQ039,DST004,Data director,Metric definition review,this week,scoping,14
+REQ040,DST004,Curriculum lead,Board-ready proficiency trend,state reporting,scoping,10
+REQ041,DST002,Assistant superintendent,Roster sync question,routine,delivered,21
+REQ042,DST002,Assistant superintendent,Board-ready proficiency trend,routine,new,21
+REQ043,DST001,Assistant superintendent,Attendance intervention list,routine,scoping,3
+REQ044,DST001,Curriculum lead,Attendance intervention list,board meeting,delivered,14
+REQ045,DST003,Principal,Metric definition review,board meeting,new,21
+REQ046,DST006,Assistant superintendent,Attendance intervention list,routine,delivered,21
+REQ047,DST004,Principal,Board-ready proficiency trend,state reporting,scoping,5
+REQ048,DST004,Principal,Roster sync question,this week,delivered,14
+REQ049,DST003,Principal,MTSS cycle impact,routine,new,3
+REQ050,DST002,Principal,Roster sync question,state reporting,scoping,10
+REQ051,DST005,Principal,Roster sync question,state reporting,new,5
+REQ052,DST005,Data director,MTSS cycle impact,board meeting,delivered,10
+REQ053,DST005,Curriculum lead,MTSS cycle impact,state reporting,new,21
+REQ054,DST004,Assistant superintendent,MTSS cycle impact,state reporting,blocked,7
+REQ055,DST006,Assistant superintendent,Roster sync question,state reporting,delivered,7
+REQ056,DST006,Curriculum lead,Metric definition review,board meeting,blocked,21
+REQ057,DST006,Assistant superintendent,Board-ready proficiency trend,board meeting,delivered,7
+REQ058,DST004,Principal,MTSS cycle impact,state reporting,delivered,10
+REQ059,DST003,Curriculum lead,Roster sync question,routine,scoping,2
+REQ060,DST004,Assistant superintendent,Board-ready proficiency trend,this week,delivered,7
+REQ061,DST004,Principal,Board-ready proficiency trend,routine,new,21
+REQ062,DST006,Data director,School comparison packet,this week,delivered,5
+REQ063,DST003,Principal,Attendance intervention list,routine,delivered,3
+REQ064,DST003,Principal,Roster sync question,state reporting,scoping,21
+REQ065,DST004,Data director,School comparison packet,state reporting,delivered,7
+REQ066,DST003,Data director,Attendance intervention list,routine,delivered,10
+REQ067,DST004,Curriculum lead,School comparison packet,board meeting,scoping,21
+REQ068,DST001,Curriculum lead,Board-ready proficiency trend,state reporting,scoping,10
+REQ069,DST001,Data director,Metric definition review,this week,new,3
+REQ070,DST006,Assistant superintendent,MTSS cycle impact,routine,blocked,14
+REQ071,DST001,Curriculum lead,School comparison packet,board meeting,delivered,5
+REQ072,DST002,Curriculum lead,Roster sync question,routine,delivered,5
+REQ073,DST002,Data director,MTSS cycle impact,this week,scoping,7
+REQ074,DST005,Data director,MTSS cycle impact,this week,delivered,10
+REQ075,DST006,Assistant superintendent,Roster sync question,this week,scoping,21
+REQ076,DST002,Data director,School comparison packet,this week,delivered,7
+REQ077,DST001,Principal,Board-ready proficiency trend,state reporting,delivered,7
+REQ078,DST001,Principal,Metric definition review,this week,delivered,21
+REQ079,DST006,Principal,Roster sync question,state reporting,delivered,14
+REQ080,DST005,Curriculum lead,School comparison packet,routine,delivered,2
+REQ081,DST005,Principal,Roster sync question,this week,delivered,2
+REQ082,DST005,Curriculum lead,MTSS cycle impact,board meeting,delivered,14
+REQ083,DST002,Data director,Board-ready proficiency trend,state reporting,delivered,10
+REQ084,DST001,Data director,Metric definition review,board meeting,blocked,21
+REQ085,DST002,Data director,Attendance intervention list,board meeting,scoping,5
+REQ086,DST005,Assistant superintendent,Board-ready proficiency trend,board meeting,new,14
+REQ087,DST004,Assistant superintendent,Attendance intervention list,state reporting,delivered,5
+REQ088,DST002,Data director,Attendance intervention list,board meeting,scoping,10
+REQ089,DST001,Principal,Metric definition review,this week,delivered,10
+REQ090,DST003,Curriculum lead,Roster sync question,board meeting,delivered,3
+REQ091,DST002,Assistant superintendent,Board-ready proficiency trend,board meeting,delivered,21
+REQ092,DST005,Principal,MTSS cycle impact,this week,delivered,2
+REQ093,DST006,Curriculum lead,School comparison packet,routine,delivered,3
+REQ094,DST005,Data director,Roster sync question,board meeting,new,3
+REQ095,DST003,Assistant superintendent,School comparison packet,routine,delivered,5
+REQ096,DST006,Assistant superintendent,Roster sync question,board meeting,blocked,14
+REQ097,DST003,Principal,Board-ready proficiency trend,this week,delivered,2
+REQ098,DST006,Curriculum lead,Metric definition review,board meeting,new,10
+REQ099,DST001,Principal,Board-ready proficiency trend,board meeting,new,7
+REQ100,DST004,Curriculum lead,Attendance intervention list,routine,scoping,2
+REQ101,DST004,Principal,Metric definition review,this week,scoping,21
+REQ102,DST001,Curriculum lead,Board-ready proficiency trend,state reporting,delivered,3
+REQ103,DST001,Principal,Metric definition review,this week,blocked,21
+REQ104,DST006,Curriculum lead,MTSS cycle impact,this week,delivered,2
+REQ105,DST004,Principal,Roster sync question,this week,delivered,14
+REQ106,DST004,Curriculum lead,Board-ready proficiency trend,routine,delivered,10
+REQ107,DST003,Principal,MTSS cycle impact,state reporting,scoping,10
+REQ108,DST005,Curriculum lead,Roster sync question,state reporting,scoping,3
+REQ109,DST002,Assistant superintendent,Roster sync question,this week,scoping,7
+REQ110,DST006,Data director,School comparison packet,routine,delivered,2
+REQ111,DST004,Principal,Roster sync question,state reporting,scoping,3
+REQ112,DST003,Assistant superintendent,Metric definition review,routine,delivered,14
+REQ113,DST001,Assistant superintendent,Attendance intervention list,board meeting,new,21
+REQ114,DST005,Data director,Attendance intervention list,state reporting,scoping,21
+REQ115,DST006,Principal,Metric definition review,routine,blocked,3
+REQ116,DST001,Curriculum lead,School comparison packet,this week,delivered,14
+REQ117,DST005,Principal,School comparison packet,routine,scoping,10
+REQ118,DST004,Curriculum lead,School comparison packet,state reporting,new,10
+REQ119,DST005,Principal,MTSS cycle impact,state reporting,scoping,10
+REQ120,DST005,Curriculum lead,MTSS cycle impact,state reporting,delivered,21

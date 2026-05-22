@@ -3,52 +3,104 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>K12 Learning Outcomes Dashboard Workbench</title>
+  <title>K-12 Learning Outcomes Data Operations Workbench</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#4f46e5;--bg:#f4f5ff">
-  <main class="shell">
-    <header class="hero">
+<body>
+  <main class="app-shell">
+    <header class="topbar">
       <div>
-        <p class="eyebrow">Workbench / K-12 learning outcomes dashboard analytics</p>
-        <h1>K12 Learning Outcomes Dashboard Workbench</h1>
+        <p class="eyebrow">District analytics workbench</p>
+        <h1>K-12 Learning Outcomes Data Operations Workbench</h1>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy district metric-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
-      </aside>
+      <div class="topbar-actions" aria-label="View selector">
+        <button class="view-button active" type="button" data-view="executive">Outcomes</button>
+        <button class="view-button" type="button" data-view="mtss">MTSS Queue</button>
+        <button class="view-button" type="button" data-view="quality">Data Quality</button>
+      </div>
     </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>district metrics</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
+
+    <section class="hero-grid" id="executive">
+      <article class="decision-panel">
+        <p class="eyebrow">Executive cockpit</p>
+        <h2 id="hero-decision">Loading district decision brief</h2>
+        <p id="hero-context"></p>
+        <div class="decision-tags" id="decision-tags"></div>
+      </article>
+      <section class="metric-grid" id="metric-grid" aria-label="Portfolio metrics"></section>
     </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Semantic model</p>
-        <h2>Priority queue</h2>
+
+    <section class="surface-grid">
+      <article class="panel district-panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">District outcomes</p>
+            <h2>Readiness by district</h2>
+          </div>
+          <span id="district-count"></span>
+        </div>
+        <div id="district-list" class="district-list"></div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Stakeholder demand</p>
+            <h2>Request mix</h2>
+          </div>
+        </div>
+        <div id="request-mix" class="bar-list"></div>
+      </article>
+    </section>
+
+    <section class="panel queue-surface" id="mtss">
+      <div class="panel-header">
+        <div>
+          <p class="eyebrow">MTSS and outcomes</p>
+          <h2>Priority queue</h2>
+        </div>
+        <span id="queue-count"></span>
+      </div>
+      <div class="table-wrap">
         <table>
-          <thead><tr><th>district metric</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>Source validation</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Self-service readiness</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
+          <thead>
+            <tr>
+              <th>Segment</th>
+              <th>Need</th>
+              <th>Attendance</th>
+              <th>Readiness</th>
+              <th>Next action</th>
+            </tr>
+          </thead>
+          <tbody id="priority-table"></tbody>
         </table>
-      </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
-      </article>
+      </div>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value district metric segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="surface-grid" id="quality">
+      <article class="panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Integrations</p>
+            <h2>Pipeline health</h2>
+          </div>
+          <span id="refresh-rate"></span>
+        </div>
+        <div id="integration-list" class="integration-list"></div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">SQL controls</p>
+            <h2>Open quality mix</h2>
+          </div>
+          <span id="open-issues"></span>
+        </div>
+        <div id="quality-mix" class="quality-list"></div>
+      </article>
     </section>
   </main>
+  <script type="module" src="src/app.js"></script>
 </body>
 </html>

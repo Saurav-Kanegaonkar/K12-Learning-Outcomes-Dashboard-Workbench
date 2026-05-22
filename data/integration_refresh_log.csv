@@ -1,0 +1,391 @@
+week,district_id,sis,pipeline_name,system_type,refresh_status,latency_minutes,record_completeness
+2026-W04,DST001,PowerSchool,SIS roster sync,Student information system,success,20.4,0.959
+2026-W04,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,27.4,0.963
+2026-W04,DST001,PowerSchool,Attendance extract,Student information system,success,58.6,0.964
+2026-W04,DST001,PowerSchool,Assignment events,Instructional content platform,success,40.1,0.984
+2026-W04,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,20.3,0.97
+2026-W05,DST001,PowerSchool,SIS roster sync,Student information system,success,48.4,0.955
+2026-W05,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,40.8,0.983
+2026-W05,DST001,PowerSchool,Attendance extract,Student information system,success,67.8,0.959
+2026-W05,DST001,PowerSchool,Assignment events,Instructional content platform,success,25.1,0.978
+2026-W05,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,77.3,0.973
+2026-W06,DST001,PowerSchool,SIS roster sync,Student information system,success,78.1,1.0
+2026-W06,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,63.3,0.988
+2026-W06,DST001,PowerSchool,Attendance extract,Student information system,success,25.7,1.0
+2026-W06,DST001,PowerSchool,Assignment events,Instructional content platform,success,43.9,0.965
+2026-W06,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,22.5,0.961
+2026-W07,DST001,PowerSchool,SIS roster sync,Student information system,success,36.1,0.995
+2026-W07,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,40.2,0.943
+2026-W07,DST001,PowerSchool,Attendance extract,Student information system,success,19.3,0.981
+2026-W07,DST001,PowerSchool,Assignment events,Instructional content platform,success,43.5,0.993
+2026-W07,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,69.4,1.0
+2026-W08,DST001,PowerSchool,SIS roster sync,Student information system,success,24.7,0.974
+2026-W08,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,35.3,1.0
+2026-W08,DST001,PowerSchool,Attendance extract,Student information system,success,45.5,0.98
+2026-W08,DST001,PowerSchool,Assignment events,Instructional content platform,late,91.7,0.976
+2026-W08,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,58.7,1.0
+2026-W09,DST001,PowerSchool,SIS roster sync,Student information system,success,70.9,0.971
+2026-W09,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,11.3,0.992
+2026-W09,DST001,PowerSchool,Attendance extract,Student information system,success,33.5,0.976
+2026-W09,DST001,PowerSchool,Assignment events,Instructional content platform,success,36.0,0.977
+2026-W09,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,67.7,0.992
+2026-W10,DST001,PowerSchool,SIS roster sync,Student information system,success,8,0.982
+2026-W10,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,56.9,0.972
+2026-W10,DST001,PowerSchool,Attendance extract,Student information system,success,21.1,1.0
+2026-W10,DST001,PowerSchool,Assignment events,Instructional content platform,success,39.2,0.983
+2026-W10,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,25.6,0.976
+2026-W11,DST001,PowerSchool,SIS roster sync,Student information system,success,50.1,0.991
+2026-W11,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,32.6,0.979
+2026-W11,DST001,PowerSchool,Attendance extract,Student information system,success,40.9,0.977
+2026-W11,DST001,PowerSchool,Assignment events,Instructional content platform,success,32.8,0.958
+2026-W11,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,31.2,0.949
+2026-W12,DST001,PowerSchool,SIS roster sync,Student information system,success,53.7,0.972
+2026-W12,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,70.0,0.957
+2026-W12,DST001,PowerSchool,Attendance extract,Student information system,success,51.3,0.947
+2026-W12,DST001,PowerSchool,Assignment events,Instructional content platform,success,43.2,0.97
+2026-W12,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,22.1,1.0
+2026-W13,DST001,PowerSchool,SIS roster sync,Student information system,success,22.9,1.0
+2026-W13,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,31.1,0.99
+2026-W13,DST001,PowerSchool,Attendance extract,Student information system,success,62.9,0.976
+2026-W13,DST001,PowerSchool,Assignment events,Instructional content platform,success,64.1,0.966
+2026-W13,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,71.3,1.0
+2026-W14,DST001,PowerSchool,SIS roster sync,Student information system,success,72.0,1.0
+2026-W14,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,25.9,0.965
+2026-W14,DST001,PowerSchool,Attendance extract,Student information system,success,72.0,0.986
+2026-W14,DST001,PowerSchool,Assignment events,Instructional content platform,success,31.9,0.972
+2026-W14,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,19.4,1.0
+2026-W15,DST001,PowerSchool,SIS roster sync,Student information system,success,72.4,0.956
+2026-W15,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,52.3,0.957
+2026-W15,DST001,PowerSchool,Attendance extract,Student information system,success,54.4,0.997
+2026-W15,DST001,PowerSchool,Assignment events,Instructional content platform,success,37.5,0.992
+2026-W15,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,46.0,0.996
+2026-W16,DST001,PowerSchool,SIS roster sync,Student information system,success,38.0,1.0
+2026-W16,DST001,PowerSchool,Assessment feed,Formative assessment platform,success,42.3,1.0
+2026-W16,DST001,PowerSchool,Attendance extract,Student information system,success,48.8,0.985
+2026-W16,DST001,PowerSchool,Assignment events,Instructional content platform,success,73.2,0.976
+2026-W16,DST001,PowerSchool,Intervention roster,Intervention tracking system,success,23.3,0.985
+2026-W04,DST002,Infinite Campus,SIS roster sync,Student information system,partial,59.7,0.831
+2026-W04,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,43.9,0.996
+2026-W04,DST002,Infinite Campus,Attendance extract,Student information system,success,56.3,0.971
+2026-W04,DST002,Infinite Campus,Assignment events,Instructional content platform,success,20.6,0.996
+2026-W04,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,31.2,0.981
+2026-W05,DST002,Infinite Campus,SIS roster sync,Student information system,success,47.5,0.977
+2026-W05,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,51.3,0.972
+2026-W05,DST002,Infinite Campus,Attendance extract,Student information system,success,49.4,0.988
+2026-W05,DST002,Infinite Campus,Assignment events,Instructional content platform,success,42.5,0.984
+2026-W05,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,52.2,0.985
+2026-W06,DST002,Infinite Campus,SIS roster sync,Student information system,success,57.5,0.958
+2026-W06,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,37.1,0.981
+2026-W06,DST002,Infinite Campus,Attendance extract,Student information system,success,30.8,1.0
+2026-W06,DST002,Infinite Campus,Assignment events,Instructional content platform,success,54.1,0.951
+2026-W06,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,51.6,0.975
+2026-W07,DST002,Infinite Campus,SIS roster sync,Student information system,success,52.0,0.99
+2026-W07,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,46.5,1.0
+2026-W07,DST002,Infinite Campus,Attendance extract,Student information system,success,30.0,0.983
+2026-W07,DST002,Infinite Campus,Assignment events,Instructional content platform,success,53.1,0.973
+2026-W07,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,68.1,0.969
+2026-W08,DST002,Infinite Campus,SIS roster sync,Student information system,success,43.9,1.0
+2026-W08,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,26.7,1.0
+2026-W08,DST002,Infinite Campus,Attendance extract,Student information system,success,52.6,1.0
+2026-W08,DST002,Infinite Campus,Assignment events,Instructional content platform,success,8,0.972
+2026-W08,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,30.4,0.948
+2026-W09,DST002,Infinite Campus,SIS roster sync,Student information system,success,49.9,0.959
+2026-W09,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,79.2,0.97
+2026-W09,DST002,Infinite Campus,Attendance extract,Student information system,success,21.8,1.0
+2026-W09,DST002,Infinite Campus,Assignment events,Instructional content platform,success,31.8,0.967
+2026-W09,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,38.7,0.982
+2026-W10,DST002,Infinite Campus,SIS roster sync,Student information system,success,14.2,0.995
+2026-W10,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,52.5,0.96
+2026-W10,DST002,Infinite Campus,Attendance extract,Student information system,success,55.5,1.0
+2026-W10,DST002,Infinite Campus,Assignment events,Instructional content platform,success,31.7,0.969
+2026-W10,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,51.5,0.971
+2026-W11,DST002,Infinite Campus,SIS roster sync,Student information system,success,36.7,0.98
+2026-W11,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,57.7,0.986
+2026-W11,DST002,Infinite Campus,Attendance extract,Student information system,success,47.2,0.958
+2026-W11,DST002,Infinite Campus,Assignment events,Instructional content platform,success,81.3,1.0
+2026-W11,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,44.9,1.0
+2026-W12,DST002,Infinite Campus,SIS roster sync,Student information system,success,50.5,0.98
+2026-W12,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,25.2,0.961
+2026-W12,DST002,Infinite Campus,Attendance extract,Student information system,success,36.5,0.992
+2026-W12,DST002,Infinite Campus,Assignment events,Instructional content platform,success,15.9,0.962
+2026-W12,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,74.3,0.973
+2026-W13,DST002,Infinite Campus,SIS roster sync,Student information system,success,80.4,1.0
+2026-W13,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,52.7,0.974
+2026-W13,DST002,Infinite Campus,Attendance extract,Student information system,success,18.4,0.973
+2026-W13,DST002,Infinite Campus,Assignment events,Instructional content platform,success,31.8,0.989
+2026-W13,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,58.6,0.977
+2026-W14,DST002,Infinite Campus,SIS roster sync,Student information system,success,32.2,0.979
+2026-W14,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,12.0,1.0
+2026-W14,DST002,Infinite Campus,Attendance extract,Student information system,success,43.7,0.985
+2026-W14,DST002,Infinite Campus,Assignment events,Instructional content platform,success,38.5,1.0
+2026-W14,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,38.8,0.973
+2026-W15,DST002,Infinite Campus,SIS roster sync,Student information system,success,57.8,1.0
+2026-W15,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,45.5,0.973
+2026-W15,DST002,Infinite Campus,Attendance extract,Student information system,success,67.7,1.0
+2026-W15,DST002,Infinite Campus,Assignment events,Instructional content platform,success,34.6,1.0
+2026-W15,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,22.5,0.989
+2026-W16,DST002,Infinite Campus,SIS roster sync,Student information system,success,50.8,0.967
+2026-W16,DST002,Infinite Campus,Assessment feed,Formative assessment platform,success,49.7,0.984
+2026-W16,DST002,Infinite Campus,Attendance extract,Student information system,late,115.6,0.981
+2026-W16,DST002,Infinite Campus,Assignment events,Instructional content platform,success,89.6,0.975
+2026-W16,DST002,Infinite Campus,Intervention roster,Intervention tracking system,success,46.4,0.99
+2026-W04,DST003,Skyward,SIS roster sync,Student information system,success,35.5,0.978
+2026-W04,DST003,Skyward,Assessment feed,Formative assessment platform,success,52.9,0.935
+2026-W04,DST003,Skyward,Attendance extract,Student information system,success,51.0,0.994
+2026-W04,DST003,Skyward,Assignment events,Instructional content platform,success,72.6,0.976
+2026-W04,DST003,Skyward,Intervention roster,Intervention tracking system,success,33.2,0.973
+2026-W05,DST003,Skyward,SIS roster sync,Student information system,success,69.8,1.0
+2026-W05,DST003,Skyward,Assessment feed,Formative assessment platform,success,29.4,0.974
+2026-W05,DST003,Skyward,Attendance extract,Student information system,success,29.8,0.961
+2026-W05,DST003,Skyward,Assignment events,Instructional content platform,success,63.7,0.97
+2026-W05,DST003,Skyward,Intervention roster,Intervention tracking system,success,35.3,0.994
+2026-W06,DST003,Skyward,SIS roster sync,Student information system,success,8,0.976
+2026-W06,DST003,Skyward,Assessment feed,Formative assessment platform,success,28.9,0.985
+2026-W06,DST003,Skyward,Attendance extract,Student information system,success,73.5,0.982
+2026-W06,DST003,Skyward,Assignment events,Instructional content platform,late,171.5,0.982
+2026-W06,DST003,Skyward,Intervention roster,Intervention tracking system,success,42.3,1.0
+2026-W07,DST003,Skyward,SIS roster sync,Student information system,success,42.4,0.987
+2026-W07,DST003,Skyward,Assessment feed,Formative assessment platform,success,62.1,0.971
+2026-W07,DST003,Skyward,Attendance extract,Student information system,success,53.9,0.986
+2026-W07,DST003,Skyward,Assignment events,Instructional content platform,success,28.6,1.0
+2026-W07,DST003,Skyward,Intervention roster,Intervention tracking system,success,24.0,0.99
+2026-W08,DST003,Skyward,SIS roster sync,Student information system,success,20.7,0.974
+2026-W08,DST003,Skyward,Assessment feed,Formative assessment platform,success,45.7,0.985
+2026-W08,DST003,Skyward,Attendance extract,Student information system,success,8,0.987
+2026-W08,DST003,Skyward,Assignment events,Instructional content platform,success,72.1,0.983
+2026-W08,DST003,Skyward,Intervention roster,Intervention tracking system,success,67.4,0.983
+2026-W09,DST003,Skyward,SIS roster sync,Student information system,success,26.7,0.985
+2026-W09,DST003,Skyward,Assessment feed,Formative assessment platform,success,27.1,0.964
+2026-W09,DST003,Skyward,Attendance extract,Student information system,success,37.3,0.994
+2026-W09,DST003,Skyward,Assignment events,Instructional content platform,success,46.9,1.0
+2026-W09,DST003,Skyward,Intervention roster,Intervention tracking system,success,75.5,0.973
+2026-W10,DST003,Skyward,SIS roster sync,Student information system,success,24.7,0.991
+2026-W10,DST003,Skyward,Assessment feed,Formative assessment platform,success,40.3,0.958
+2026-W10,DST003,Skyward,Attendance extract,Student information system,success,46.5,0.961
+2026-W10,DST003,Skyward,Assignment events,Instructional content platform,success,15.2,1.0
+2026-W10,DST003,Skyward,Intervention roster,Intervention tracking system,success,19.8,0.998
+2026-W11,DST003,Skyward,SIS roster sync,Student information system,success,41.3,0.974
+2026-W11,DST003,Skyward,Assessment feed,Formative assessment platform,success,29.5,1.0
+2026-W11,DST003,Skyward,Attendance extract,Student information system,partial,124.4,0.835
+2026-W11,DST003,Skyward,Assignment events,Instructional content platform,success,47.1,0.943
+2026-W11,DST003,Skyward,Intervention roster,Intervention tracking system,success,19.2,1.0
+2026-W12,DST003,Skyward,SIS roster sync,Student information system,success,21.8,0.988
+2026-W12,DST003,Skyward,Assessment feed,Formative assessment platform,success,63.8,1.0
+2026-W12,DST003,Skyward,Attendance extract,Student information system,success,8,0.969
+2026-W12,DST003,Skyward,Assignment events,Instructional content platform,success,25.4,0.951
+2026-W12,DST003,Skyward,Intervention roster,Intervention tracking system,success,49.0,0.996
+2026-W13,DST003,Skyward,SIS roster sync,Student information system,success,49.2,0.971
+2026-W13,DST003,Skyward,Assessment feed,Formative assessment platform,success,50.2,0.973
+2026-W13,DST003,Skyward,Attendance extract,Student information system,success,55.5,0.994
+2026-W13,DST003,Skyward,Assignment events,Instructional content platform,success,58.2,0.988
+2026-W13,DST003,Skyward,Intervention roster,Intervention tracking system,success,19.3,0.986
+2026-W14,DST003,Skyward,SIS roster sync,Student information system,success,32.0,0.967
+2026-W14,DST003,Skyward,Assessment feed,Formative assessment platform,success,52.9,1.0
+2026-W14,DST003,Skyward,Attendance extract,Student information system,success,52.7,0.972
+2026-W14,DST003,Skyward,Assignment events,Instructional content platform,success,37.4,0.981
+2026-W14,DST003,Skyward,Intervention roster,Intervention tracking system,success,41.9,1.0
+2026-W15,DST003,Skyward,SIS roster sync,Student information system,success,49.8,0.988
+2026-W15,DST003,Skyward,Assessment feed,Formative assessment platform,success,33.8,0.949
+2026-W15,DST003,Skyward,Attendance extract,Student information system,success,62.9,0.989
+2026-W15,DST003,Skyward,Assignment events,Instructional content platform,success,39.7,0.978
+2026-W15,DST003,Skyward,Intervention roster,Intervention tracking system,success,24.8,0.977
+2026-W16,DST003,Skyward,SIS roster sync,Student information system,success,18.3,1.0
+2026-W16,DST003,Skyward,Assessment feed,Formative assessment platform,success,52.3,0.968
+2026-W16,DST003,Skyward,Attendance extract,Student information system,success,38.7,0.989
+2026-W16,DST003,Skyward,Assignment events,Instructional content platform,success,47.0,0.972
+2026-W16,DST003,Skyward,Intervention roster,Intervention tracking system,failed,80.5,0.872
+2026-W04,DST004,Aeries,SIS roster sync,Student information system,success,59.4,0.953
+2026-W04,DST004,Aeries,Assessment feed,Formative assessment platform,success,41.2,0.973
+2026-W04,DST004,Aeries,Attendance extract,Student information system,success,37.0,0.979
+2026-W04,DST004,Aeries,Assignment events,Instructional content platform,success,49.1,0.981
+2026-W04,DST004,Aeries,Intervention roster,Intervention tracking system,success,29.8,0.97
+2026-W05,DST004,Aeries,SIS roster sync,Student information system,success,12.6,0.946
+2026-W05,DST004,Aeries,Assessment feed,Formative assessment platform,success,31.6,0.946
+2026-W05,DST004,Aeries,Attendance extract,Student information system,success,19.6,0.972
+2026-W05,DST004,Aeries,Assignment events,Instructional content platform,success,49.9,1.0
+2026-W05,DST004,Aeries,Intervention roster,Intervention tracking system,success,8,0.982
+2026-W06,DST004,Aeries,SIS roster sync,Student information system,success,41.5,0.961
+2026-W06,DST004,Aeries,Assessment feed,Formative assessment platform,success,71.9,0.964
+2026-W06,DST004,Aeries,Attendance extract,Student information system,success,49.1,1.0
+2026-W06,DST004,Aeries,Assignment events,Instructional content platform,success,62.5,0.999
+2026-W06,DST004,Aeries,Intervention roster,Intervention tracking system,success,8,0.962
+2026-W07,DST004,Aeries,SIS roster sync,Student information system,success,15.9,0.977
+2026-W07,DST004,Aeries,Assessment feed,Formative assessment platform,success,14.5,0.981
+2026-W07,DST004,Aeries,Attendance extract,Student information system,success,40.7,0.954
+2026-W07,DST004,Aeries,Assignment events,Instructional content platform,partial,108.1,0.865
+2026-W07,DST004,Aeries,Intervention roster,Intervention tracking system,success,31.8,0.983
+2026-W08,DST004,Aeries,SIS roster sync,Student information system,success,54.0,0.979
+2026-W08,DST004,Aeries,Assessment feed,Formative assessment platform,success,54.6,0.99
+2026-W08,DST004,Aeries,Attendance extract,Student information system,success,59.6,0.997
+2026-W08,DST004,Aeries,Assignment events,Instructional content platform,success,14.3,0.957
+2026-W08,DST004,Aeries,Intervention roster,Intervention tracking system,success,15.7,0.994
+2026-W09,DST004,Aeries,SIS roster sync,Student information system,success,29.7,0.998
+2026-W09,DST004,Aeries,Assessment feed,Formative assessment platform,success,40.8,0.978
+2026-W09,DST004,Aeries,Attendance extract,Student information system,success,34.6,1.0
+2026-W09,DST004,Aeries,Assignment events,Instructional content platform,success,57.9,0.977
+2026-W09,DST004,Aeries,Intervention roster,Intervention tracking system,success,63.5,1.0
+2026-W10,DST004,Aeries,SIS roster sync,Student information system,success,8,0.982
+2026-W10,DST004,Aeries,Assessment feed,Formative assessment platform,success,57.7,0.978
+2026-W10,DST004,Aeries,Attendance extract,Student information system,success,28.1,0.989
+2026-W10,DST004,Aeries,Assignment events,Instructional content platform,success,49.4,1.0
+2026-W10,DST004,Aeries,Intervention roster,Intervention tracking system,success,60.3,0.983
+2026-W11,DST004,Aeries,SIS roster sync,Student information system,success,49.1,0.983
+2026-W11,DST004,Aeries,Assessment feed,Formative assessment platform,success,60.2,0.953
+2026-W11,DST004,Aeries,Attendance extract,Student information system,success,38.5,0.991
+2026-W11,DST004,Aeries,Assignment events,Instructional content platform,success,8,1.0
+2026-W11,DST004,Aeries,Intervention roster,Intervention tracking system,success,34.8,0.941
+2026-W12,DST004,Aeries,SIS roster sync,Student information system,success,35.5,0.965
+2026-W12,DST004,Aeries,Assessment feed,Formative assessment platform,partial,138.0,0.836
+2026-W12,DST004,Aeries,Attendance extract,Student information system,success,44.2,0.973
+2026-W12,DST004,Aeries,Assignment events,Instructional content platform,success,31.3,0.98
+2026-W12,DST004,Aeries,Intervention roster,Intervention tracking system,success,27.9,0.99
+2026-W13,DST004,Aeries,SIS roster sync,Student information system,success,46.3,1.0
+2026-W13,DST004,Aeries,Assessment feed,Formative assessment platform,success,60.2,0.997
+2026-W13,DST004,Aeries,Attendance extract,Student information system,success,59.9,0.985
+2026-W13,DST004,Aeries,Assignment events,Instructional content platform,success,76.4,1.0
+2026-W13,DST004,Aeries,Intervention roster,Intervention tracking system,success,53.6,0.966
+2026-W14,DST004,Aeries,SIS roster sync,Student information system,success,57.8,0.992
+2026-W14,DST004,Aeries,Assessment feed,Formative assessment platform,success,30.4,0.994
+2026-W14,DST004,Aeries,Attendance extract,Student information system,success,63.4,0.992
+2026-W14,DST004,Aeries,Assignment events,Instructional content platform,success,47.5,0.963
+2026-W14,DST004,Aeries,Intervention roster,Intervention tracking system,success,68.0,0.96
+2026-W15,DST004,Aeries,SIS roster sync,Student information system,success,50.9,0.99
+2026-W15,DST004,Aeries,Assessment feed,Formative assessment platform,success,65.7,0.993
+2026-W15,DST004,Aeries,Attendance extract,Student information system,success,35.6,1.0
+2026-W15,DST004,Aeries,Assignment events,Instructional content platform,success,33.4,0.992
+2026-W15,DST004,Aeries,Intervention roster,Intervention tracking system,success,59.1,0.962
+2026-W16,DST004,Aeries,SIS roster sync,Student information system,success,29.2,0.983
+2026-W16,DST004,Aeries,Assessment feed,Formative assessment platform,success,30.6,0.958
+2026-W16,DST004,Aeries,Attendance extract,Student information system,success,38.8,0.975
+2026-W16,DST004,Aeries,Assignment events,Instructional content platform,success,54.7,1.0
+2026-W16,DST004,Aeries,Intervention roster,Intervention tracking system,success,59.4,0.98
+2026-W04,DST005,PowerSchool,SIS roster sync,Student information system,success,46.3,0.975
+2026-W04,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,37.8,1.0
+2026-W04,DST005,PowerSchool,Attendance extract,Student information system,success,38.0,0.963
+2026-W04,DST005,PowerSchool,Assignment events,Instructional content platform,success,62.6,0.96
+2026-W04,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,30.7,0.945
+2026-W05,DST005,PowerSchool,SIS roster sync,Student information system,success,34.0,0.983
+2026-W05,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,16.5,0.982
+2026-W05,DST005,PowerSchool,Attendance extract,Student information system,success,35.4,1.0
+2026-W05,DST005,PowerSchool,Assignment events,Instructional content platform,success,66.5,1.0
+2026-W05,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,37.1,0.975
+2026-W06,DST005,PowerSchool,SIS roster sync,Student information system,success,45.9,0.981
+2026-W06,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,65.2,1.0
+2026-W06,DST005,PowerSchool,Attendance extract,Student information system,success,33.7,0.936
+2026-W06,DST005,PowerSchool,Assignment events,Instructional content platform,success,62.5,0.962
+2026-W06,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,23.5,1.0
+2026-W07,DST005,PowerSchool,SIS roster sync,Student information system,success,36.6,0.98
+2026-W07,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,69.9,0.977
+2026-W07,DST005,PowerSchool,Attendance extract,Student information system,late,142.4,0.975
+2026-W07,DST005,PowerSchool,Assignment events,Instructional content platform,success,51.9,0.984
+2026-W07,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,49.8,0.995
+2026-W08,DST005,PowerSchool,SIS roster sync,Student information system,success,14.4,0.966
+2026-W08,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,33.4,0.959
+2026-W08,DST005,PowerSchool,Attendance extract,Student information system,success,46.9,0.974
+2026-W08,DST005,PowerSchool,Assignment events,Instructional content platform,success,71.1,0.965
+2026-W08,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,39.9,0.983
+2026-W09,DST005,PowerSchool,SIS roster sync,Student information system,success,10.7,1.0
+2026-W09,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,61.6,0.974
+2026-W09,DST005,PowerSchool,Attendance extract,Student information system,success,48.7,0.971
+2026-W09,DST005,PowerSchool,Assignment events,Instructional content platform,success,11.3,0.971
+2026-W09,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,35.9,0.998
+2026-W10,DST005,PowerSchool,SIS roster sync,Student information system,success,54.0,0.981
+2026-W10,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,35.7,0.977
+2026-W10,DST005,PowerSchool,Attendance extract,Student information system,success,8,0.99
+2026-W10,DST005,PowerSchool,Assignment events,Instructional content platform,success,42.8,0.95
+2026-W10,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,48.5,1.0
+2026-W11,DST005,PowerSchool,SIS roster sync,Student information system,success,45.3,0.985
+2026-W11,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,79.7,0.984
+2026-W11,DST005,PowerSchool,Attendance extract,Student information system,success,18.9,0.963
+2026-W11,DST005,PowerSchool,Assignment events,Instructional content platform,success,58.9,0.985
+2026-W11,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,46.7,0.965
+2026-W12,DST005,PowerSchool,SIS roster sync,Student information system,success,14.2,0.98
+2026-W12,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,37.8,1.0
+2026-W12,DST005,PowerSchool,Attendance extract,Student information system,success,50.1,0.959
+2026-W12,DST005,PowerSchool,Assignment events,Instructional content platform,success,20.6,0.996
+2026-W12,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,28.9,0.99
+2026-W13,DST005,PowerSchool,SIS roster sync,Student information system,success,30.1,0.995
+2026-W13,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,66.7,0.996
+2026-W13,DST005,PowerSchool,Attendance extract,Student information system,success,37.4,0.988
+2026-W13,DST005,PowerSchool,Assignment events,Instructional content platform,success,24.7,0.977
+2026-W13,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,69.1,1.0
+2026-W14,DST005,PowerSchool,SIS roster sync,Student information system,success,57.8,1.0
+2026-W14,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,46.5,0.996
+2026-W14,DST005,PowerSchool,Attendance extract,Student information system,success,60.2,0.995
+2026-W14,DST005,PowerSchool,Assignment events,Instructional content platform,success,41.4,0.997
+2026-W14,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,39.9,0.997
+2026-W15,DST005,PowerSchool,SIS roster sync,Student information system,success,35.5,0.981
+2026-W15,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,8,1.0
+2026-W15,DST005,PowerSchool,Attendance extract,Student information system,success,48.1,0.983
+2026-W15,DST005,PowerSchool,Assignment events,Instructional content platform,late,126.9,1.0
+2026-W15,DST005,PowerSchool,Intervention roster,Intervention tracking system,failed,145.7,0.832
+2026-W16,DST005,PowerSchool,SIS roster sync,Student information system,success,14.5,0.987
+2026-W16,DST005,PowerSchool,Assessment feed,Formative assessment platform,success,28.5,1.0
+2026-W16,DST005,PowerSchool,Attendance extract,Student information system,success,67.6,0.971
+2026-W16,DST005,PowerSchool,Assignment events,Instructional content platform,success,32.2,1.0
+2026-W16,DST005,PowerSchool,Intervention roster,Intervention tracking system,success,40.8,0.994
+2026-W04,DST006,Infinite Campus,SIS roster sync,Student information system,success,48.4,0.978
+2026-W04,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,82.8,0.97
+2026-W04,DST006,Infinite Campus,Attendance extract,Student information system,success,8,0.976
+2026-W04,DST006,Infinite Campus,Assignment events,Instructional content platform,success,22.6,0.996
+2026-W04,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,55.6,0.98
+2026-W05,DST006,Infinite Campus,SIS roster sync,Student information system,success,52.1,0.994
+2026-W05,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,70.8,0.976
+2026-W05,DST006,Infinite Campus,Attendance extract,Student information system,success,56.1,0.983
+2026-W05,DST006,Infinite Campus,Assignment events,Instructional content platform,success,66.0,0.955
+2026-W05,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,90.3,0.997
+2026-W06,DST006,Infinite Campus,SIS roster sync,Student information system,success,49.7,0.949
+2026-W06,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,48.1,0.966
+2026-W06,DST006,Infinite Campus,Attendance extract,Student information system,success,52.7,0.981
+2026-W06,DST006,Infinite Campus,Assignment events,Instructional content platform,success,33.1,0.996
+2026-W06,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,38.0,1.0
+2026-W07,DST006,Infinite Campus,SIS roster sync,Student information system,success,35.1,1.0
+2026-W07,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,47.3,0.998
+2026-W07,DST006,Infinite Campus,Attendance extract,Student information system,success,29.2,1.0
+2026-W07,DST006,Infinite Campus,Assignment events,Instructional content platform,success,43.4,0.987
+2026-W07,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,34.0,0.99
+2026-W08,DST006,Infinite Campus,SIS roster sync,Student information system,success,19.9,0.974
+2026-W08,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,21.8,0.968
+2026-W08,DST006,Infinite Campus,Attendance extract,Student information system,success,28.5,0.97
+2026-W08,DST006,Infinite Campus,Assignment events,Instructional content platform,success,38.9,1.0
+2026-W08,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,53.0,0.99
+2026-W09,DST006,Infinite Campus,SIS roster sync,Student information system,success,27.0,0.969
+2026-W09,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,43.0,0.972
+2026-W09,DST006,Infinite Campus,Attendance extract,Student information system,success,73.0,0.991
+2026-W09,DST006,Infinite Campus,Assignment events,Instructional content platform,success,48.2,0.995
+2026-W09,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,46.3,1.0
+2026-W10,DST006,Infinite Campus,SIS roster sync,Student information system,success,52.7,0.985
+2026-W10,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,53.7,0.997
+2026-W10,DST006,Infinite Campus,Attendance extract,Student information system,success,50.9,0.968
+2026-W10,DST006,Infinite Campus,Assignment events,Instructional content platform,success,36.9,0.969
+2026-W10,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,71.0,1.0
+2026-W11,DST006,Infinite Campus,SIS roster sync,Student information system,success,51.8,0.994
+2026-W11,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,47.7,1.0
+2026-W11,DST006,Infinite Campus,Attendance extract,Student information system,success,43.6,0.97
+2026-W11,DST006,Infinite Campus,Assignment events,Instructional content platform,success,57.6,0.979
+2026-W11,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,51.7,0.961
+2026-W12,DST006,Infinite Campus,SIS roster sync,Student information system,success,31.9,1.0
+2026-W12,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,48.2,0.979
+2026-W12,DST006,Infinite Campus,Attendance extract,Student information system,success,27.7,1.0
+2026-W12,DST006,Infinite Campus,Assignment events,Instructional content platform,success,32.9,0.997
+2026-W12,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,54.7,1.0
+2026-W13,DST006,Infinite Campus,SIS roster sync,Student information system,success,68.9,1.0
+2026-W13,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,40.0,0.986
+2026-W13,DST006,Infinite Campus,Attendance extract,Student information system,success,46.3,0.976
+2026-W13,DST006,Infinite Campus,Assignment events,Instructional content platform,success,43.2,0.984
+2026-W13,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,72.2,0.965
+2026-W14,DST006,Infinite Campus,SIS roster sync,Student information system,success,56.1,1.0
+2026-W14,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,61.0,0.972
+2026-W14,DST006,Infinite Campus,Attendance extract,Student information system,success,69.4,0.994
+2026-W14,DST006,Infinite Campus,Assignment events,Instructional content platform,success,36.2,0.963
+2026-W14,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,90.4,0.991
+2026-W15,DST006,Infinite Campus,SIS roster sync,Student information system,success,21.5,0.961
+2026-W15,DST006,Infinite Campus,Assessment feed,Formative assessment platform,partial,84.0,0.947
+2026-W15,DST006,Infinite Campus,Attendance extract,Student information system,success,34.8,0.978
+2026-W15,DST006,Infinite Campus,Assignment events,Instructional content platform,success,51.9,1.0
+2026-W15,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,49.6,0.988
+2026-W16,DST006,Infinite Campus,SIS roster sync,Student information system,success,53.0,0.997
+2026-W16,DST006,Infinite Campus,Assessment feed,Formative assessment platform,success,46.0,0.979
+2026-W16,DST006,Infinite Campus,Attendance extract,Student information system,success,37.8,0.991
+2026-W16,DST006,Infinite Campus,Assignment events,Instructional content platform,success,54.2,1.0
+2026-W16,DST006,Infinite Campus,Intervention roster,Intervention tracking system,success,50.9,1.0

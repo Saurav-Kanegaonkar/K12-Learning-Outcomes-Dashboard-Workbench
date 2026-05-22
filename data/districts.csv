@@ -1,0 +1,7 @@
+district_id,district_name,region,sis,enrollment,frl_rate,ell_rate
+DST001,North Valley Unified,West,PowerSchool,41200,0.48,0.17
+DST002,Lakefront Public Schools,Midwest,Infinite Campus,27600,0.39,0.11
+DST003,Pine County Schools,Southeast,Skyward,18900,0.61,0.08
+DST004,Canyon Ridge USD,Southwest,Aeries,33200,0.54,0.24
+DST005,Harbor City Schools,Northeast,PowerSchool,52100,0.44,0.19
+DST006,Mesa Vista Public Schools,Mountain,Infinite Campus,14600,0.57,0.21

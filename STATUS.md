@@ -1,7 +1,6 @@
 # Status
 
-- Project: K12 Learning Outcomes Dashboard Workbench
-- GitHub: https://github.com/Saurav-Kanegaonkar/K12-Learning-Outcomes-Dashboard-Workbench
-- Status: complete
-- Resume Link Ready: Yes
-- Last update: Created to locked pipeline standards with multiple data sources, analysis artifacts, scripts, screenshot, and distinct artifact framing.
+- Status: upgraded through the Portfolio Artifact Upgrade Workflow.
+- Artifact: district learning outcomes data operations workbench.
+- Surfaces: executive outcomes cockpit, MTSS priority queue, integration and data-quality command center.
+- Verification: run `npm run analyze`, then `npm run capture`.

@@ -1,26 +1,361 @@
-entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
-DIS004,District metric 4,Core,110.19,53.4,79.6,987559
-DIS028,District metric 28,Core,92.42,54.3,80.7,736288
-DIS011,District metric 11,Strategic,92.07,48.0,80.1,783466
-DIS001,District metric 1,Core,91.80,52.4,79.8,739403
-DIS027,District metric 27,Growth,91.33,48.9,81.0,768986
-DIS021,District metric 21,Watch,89.67,53.8,79.7,697005
-DIS022,District metric 22,Strategic,87.35,51.6,80.1,685638
-DIS012,District metric 12,Growth,87.12,53.8,79.4,660105
-DIS031,District metric 31,Growth,85.55,55.4,80.4,629257
-DIS009,District metric 9,Strategic,82.74,52.2,81.1,620308
-DIS002,District metric 2,Core,82.39,50.3,80.7,630517
-DIS023,District metric 23,Growth,82.01,50.6,80.1,619464
-DIS024,District metric 24,Watch,80.50,54.0,81.2,574075
-DIS017,District metric 17,Strategic,80.21,50.2,81.4,604236
-DIS034,District metric 34,Growth,79.58,50.8,79.6,581755
-DIS015,District metric 15,Strategic,78.49,47.6,80.7,598741
-DIS016,District metric 16,Growth,76.74,49.6,79.4,551370
-DIS014,District metric 14,Growth,76.33,50.5,79.0,536291
-DIS003,District metric 3,Watch,75.83,54.5,79.3,495757
-DIS007,District metric 7,Core,75.40,51.6,80.7,521498
-DIS008,District metric 8,Watch,74.85,53.6,78.7,487288
-DIS018,District metric 18,Strategic,74.08,51.9,81.9,505190
-DIS006,District metric 6,Strategic,73.79,51.7,78.8,489629
-DIS029,District metric 29,Growth,73.22,55.3,80.2,456188
-DIS035,District metric 35,Core,72.86,49.1,79.9,503779
+district_id,district_name,sis,school_id,school_name,level,grade,subject,student_count,proficiency_rate,growth_rate,chronic_absence_rate,assignment_completion_rate,intervention_response_rate,open_quality_issues,readiness_score,priority_score,recommended_action
+DST001,North Valley Unified,PowerSchool,SCH007,North High 1,High,10,Math,313,0.546,0.574,0.277,0.598,0.57,5,73.4,86.2,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH007,North High 1,High,9,Math,313,0.528,0.549,0.265,0.653,0.583,5,74.2,85.9,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH007,North High 1,High,9,Science,319,0.602,0.568,0.304,0.572,0.583,5,72.5,85.4,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH007,North High 1,High,9,ELA,310,0.585,0.553,0.286,0.61,0.583,5,73.3,84.8,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH007,North High 1,High,10,Science,314,0.578,0.601,0.3,0.615,0.57,5,72.5,84.5,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH028,Canyon High 1,High,9,Math,232,0.531,0.582,0.295,0.601,0.641,4,84.8,81.7,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH035,Harbor High 1,High,9,Math,279,0.521,0.613,0.288,0.565,0.62,1,86.5,81.7,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH028,Canyon High 1,High,10,Math,228,0.535,0.596,0.295,0.62,0.515,4,82.5,81.5,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH014,Lakefront High 1,High,9,Math,287,0.537,0.579,0.295,0.578,0.658,5,88.7,80.9,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH028,Canyon High 1,High,9,Science,238,0.581,0.578,0.312,0.572,0.641,4,84.0,80.7,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH028,Canyon High 1,High,10,ELA,232,0.57,0.582,0.303,0.631,0.515,4,82.1,80.3,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH028,Canyon High 1,High,10,Science,234,0.559,0.594,0.291,0.626,0.515,4,82.6,80.0,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH035,Harbor High 1,High,9,Science,271,0.573,0.569,0.296,0.604,0.62,1,86.1,79.6,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH007,North High 1,High,10,ELA,314,0.618,0.605,0.264,0.65,0.57,5,74.0,79.5,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH041,Mesa Middle 2,Middle,7,Math,97,0.567,0.575,0.288,0.59,0.657,4,79.9,79.2,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH019,Pine Middle 1,Middle,8,Math,123,0.565,0.595,0.282,0.591,0.548,3,80.0,79.1,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH009,Lakefront Elementary 2,Elementary,3,Math,76,0.615,0.59,0.209,0.607,0.561,7,63.5,78.8,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH021,Pine High 1,High,9,Math,231,0.541,0.627,0.322,0.549,0.635,2,92.5,78.8,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH035,Harbor High 1,High,9,ELA,273,0.583,0.57,0.295,0.615,0.62,1,86.2,78.8,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH028,Canyon High 1,High,9,ELA,222,0.599,0.534,0.288,0.605,0.641,4,85.1,78.7,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH035,Harbor High 1,High,10,Math,266,0.548,0.608,0.28,0.627,0.584,1,86.1,78.7,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH042,Mesa High 1,High,10,Math,248,0.533,0.598,0.303,0.571,0.546,2,93.5,78.6,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH019,Pine Middle 1,Middle,6,Math,127,0.562,0.571,0.262,0.615,0.543,3,80.8,78.5,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH023,Canyon Elementary 2,Elementary,5,Math,65,0.606,0.563,0.24,0.584,0.611,6,70.3,78.4,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH033,Harbor Middle 1,Middle,6,Math,88,0.551,0.576,0.254,0.593,0.661,5,79.6,78.4,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH042,Mesa High 1,High,10,Science,240,0.561,0.555,0.32,0.608,0.546,2,92.8,78.4,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH009,Lakefront Elementary 2,Elementary,4,Math,76,0.61,0.601,0.209,0.609,0.613,7,64.5,78.3,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH009,Lakefront Elementary 2,Elementary,5,Math,84,0.678,0.54,0.232,0.599,0.599,7,63.3,78.3,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH033,Harbor Middle 1,Middle,7,Math,90,0.578,0.602,0.277,0.588,0.586,5,77.3,78.2,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH009,Lakefront Elementary 2,Elementary,5,Science,88,0.671,0.572,0.239,0.622,0.599,7,62.9,77.8,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH019,Pine Middle 1,Middle,7,Math,125,0.562,0.562,0.271,0.622,0.703,3,83.3,77.8,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH014,Lakefront High 1,High,10,Science,293,0.579,0.586,0.282,0.605,0.62,5,88.5,77.5,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH023,Canyon Elementary 2,Elementary,3,Math,71,0.613,0.56,0.225,0.602,0.569,6,70.2,77.5,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH019,Pine Middle 1,Middle,6,Science,119,0.583,0.55,0.265,0.639,0.543,3,80.7,77.4,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH040,Mesa Middle 1,Middle,8,Math,121,0.577,0.585,0.28,0.608,0.659,6,82.1,77.4,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH014,Lakefront High 1,High,9,ELA,295,0.606,0.524,0.286,0.633,0.658,5,89.0,77.2,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH020,Pine Middle 2,Middle,7,Math,95,0.569,0.585,0.287,0.575,0.584,4,84.1,77.2,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH014,Lakefront High 1,High,10,Math,286,0.567,0.578,0.263,0.614,0.62,5,89.3,77.0,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH035,Harbor High 1,High,10,ELA,271,0.596,0.612,0.289,0.612,0.584,1,85.8,76.9,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH020,Pine Middle 2,Middle,8,Math,91,0.573,0.548,0.279,0.584,0.661,4,85.8,76.7,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH035,Harbor High 1,High,10,Science,272,0.562,0.592,0.249,0.626,0.584,1,87.5,76.7,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH041,Mesa Middle 2,Middle,8,Math,92,0.593,0.605,0.289,0.604,0.625,4,79.3,76.7,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH042,Mesa High 1,High,9,Math,244,0.538,0.596,0.286,0.586,0.591,2,95.0,76.7,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH021,Pine High 1,High,10,ELA,226,0.578,0.573,0.316,0.62,0.596,2,92.1,76.6,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH021,Pine High 1,High,10,Math,230,0.539,0.623,0.287,0.582,0.596,2,93.3,76.6,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH033,Harbor Middle 1,Middle,6,Science,86,0.604,0.548,0.268,0.612,0.661,5,79.0,76.6,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH019,Pine Middle 1,Middle,8,ELA,122,0.624,0.548,0.273,0.604,0.548,3,80.4,76.5,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH021,Pine High 1,High,10,Science,237,0.558,0.593,0.301,0.614,0.596,2,92.7,76.5,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH041,Mesa Middle 2,Middle,7,Science,90,0.562,0.596,0.263,0.62,0.657,4,81.0,76.5,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH014,Lakefront High 1,High,9,Science,290,0.595,0.584,0.273,0.583,0.658,5,89.6,76.4,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH040,Mesa Middle 1,Middle,6,Math,106,0.56,0.584,0.238,0.609,0.564,6,82.2,76.3,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH019,Pine Middle 1,Middle,8,Science,115,0.602,0.55,0.262,0.631,0.548,3,80.9,76.2,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH033,Harbor Middle 1,Middle,8,Math,93,0.591,0.547,0.236,0.613,0.606,5,79.4,76.2,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH021,Pine High 1,High,9,Science,234,0.549,0.611,0.299,0.616,0.635,2,93.5,76.0,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH023,Canyon Elementary 2,Elementary,5,Science,68,0.615,0.585,0.232,0.631,0.611,6,70.7,76.0,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH040,Mesa Middle 1,Middle,6,Science,119,0.589,0.579,0.262,0.632,0.564,6,81.1,76.0,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH014,Lakefront High 1,High,10,ELA,292,0.576,0.609,0.282,0.657,0.62,5,88.5,75.8,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH042,Mesa High 1,High,9,Science,235,0.564,0.55,0.294,0.644,0.591,2,94.7,75.7,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH020,Pine Middle 2,Middle,7,Science,98,0.583,0.553,0.269,0.615,0.584,4,84.8,75.6,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH041,Mesa Middle 2,Middle,8,Science,99,0.588,0.591,0.258,0.621,0.625,4,80.6,75.5,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH023,Canyon Elementary 2,Elementary,3,Science,68,0.604,0.596,0.218,0.648,0.569,6,70.5,75.4,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH033,Harbor Middle 1,Middle,7,Science,89,0.597,0.565,0.244,0.638,0.586,5,78.7,75.3,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH001,North Elementary 1,Elementary,5,Math,63,0.608,0.566,0.224,0.622,0.56,3,73.7,75.2,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH038,Mesa Elementary 3,Elementary,3,Science,66,0.624,0.557,0.244,0.593,0.647,7,76.2,75.2,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH041,Mesa Middle 2,Middle,6,Science,98,0.607,0.568,0.271,0.622,0.692,4,81.3,75.2,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH041,Mesa Middle 2,Middle,8,ELA,101,0.636,0.576,0.293,0.63,0.625,4,79.2,75.1,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH009,Lakefront Elementary 2,Elementary,3,Science,78,0.652,0.57,0.194,0.679,0.561,7,64.1,75.0,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH038,Mesa Elementary 3,Elementary,5,Science,69,0.605,0.562,0.24,0.658,0.584,7,75.2,75.0,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH009,Lakefront Elementary 2,Elementary,4,Science,81,0.659,0.579,0.194,0.643,0.613,7,65.1,74.9,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH041,Mesa Middle 2,Middle,6,Math,90,0.568,0.616,0.249,0.603,0.692,4,82.2,74.9,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH040,Mesa Middle 1,Middle,7,Science,119,0.61,0.576,0.261,0.626,0.603,6,81.9,74.8,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH019,Pine Middle 1,Middle,7,ELA,127,0.593,0.562,0.268,0.677,0.703,3,83.4,74.7,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH020,Pine Middle 2,Middle,6,Science,95,0.572,0.567,0.253,0.607,0.62,4,86.2,74.7,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH040,Mesa Middle 1,Middle,8,ELA,115,0.595,0.61,0.271,0.623,0.659,6,82.5,74.7,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH042,Mesa High 1,High,9,ELA,228,0.56,0.6,0.293,0.628,0.591,2,94.7,74.6,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH001,North Elementary 1,Elementary,4,Math,79,0.624,0.569,0.221,0.616,0.615,3,74.8,74.5,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH041,Mesa Middle 2,Middle,7,ELA,98,0.607,0.604,0.277,0.634,0.657,4,80.4,74.5,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH009,Lakefront Elementary 2,Elementary,3,ELA,84,0.684,0.554,0.193,0.659,0.561,7,64.2,74.4,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH040,Mesa Middle 1,Middle,7,Math,108,0.602,0.606,0.261,0.61,0.603,6,81.9,74.3,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH019,Pine Middle 1,Middle,6,ELA,121,0.611,0.61,0.262,0.637,0.543,3,80.8,74.1,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH033,Harbor Middle 1,Middle,7,ELA,90,0.642,0.578,0.275,0.643,0.586,5,77.4,74.1,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH009,Lakefront Elementary 2,Elementary,4,ELA,78,0.687,0.579,0.213,0.665,0.613,7,64.3,73.8,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH009,Lakefront Elementary 2,Elementary,5,ELA,79,0.685,0.569,0.202,0.66,0.599,7,64.5,73.8,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH020,Pine Middle 2,Middle,6,Math,100,0.582,0.619,0.27,0.603,0.62,4,85.4,73.8,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH038,Mesa Elementary 3,Elementary,3,Math,59,0.607,0.591,0.232,0.605,0.647,7,76.7,73.8,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH038,Mesa Elementary 3,Elementary,4,Science,74,0.614,0.601,0.241,0.647,0.599,7,75.5,73.8,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH021,Pine High 1,High,9,ELA,228,0.583,0.612,0.293,0.617,0.635,2,93.7,73.7,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH026,Canyon Middle 1,Middle,6,Math,87,0.567,0.583,0.278,0.584,0.637,3,90.8,73.7,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH033,Harbor Middle 1,Middle,8,ELA,94,0.62,0.59,0.254,0.646,0.606,5,78.7,73.7,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH038,Mesa Elementary 3,Elementary,5,ELA,63,0.628,0.554,0.233,0.64,0.584,7,75.5,73.7,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH040,Mesa Middle 1,Middle,6,ELA,115,0.61,0.592,0.261,0.662,0.564,6,81.2,73.7,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH023,Canyon Elementary 2,Elementary,4,Math,72,0.623,0.602,0.205,0.624,0.666,6,72.8,73.5,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH040,Mesa Middle 1,Middle,8,Science,113,0.596,0.582,0.246,0.647,0.659,6,83.5,73.4,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH020,Pine Middle 2,Middle,7,ELA,92,0.643,0.509,0.283,0.66,0.584,4,84.2,73.2,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH023,Canyon Elementary 2,Elementary,4,ELA,76,0.652,0.608,0.239,0.648,0.666,6,71.4,73.2,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH027,Canyon Middle 2,Middle,7,Math,82,0.565,0.592,0.289,0.573,0.676,1,92.8,73.2,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH038,Mesa Elementary 3,Elementary,4,Math,78,0.615,0.614,0.218,0.613,0.599,7,76.4,73.0,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH006,North Middle 2,Middle,6,Math,95,0.565,0.544,0.266,0.605,0.593,3,94.1,72.9,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH023,Canyon Elementary 2,Elementary,5,ELA,72,0.659,0.559,0.222,0.676,0.611,6,71.1,72.9,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH001,North Elementary 1,Elementary,4,ELA,70,0.641,0.556,0.212,0.635,0.615,3,75.2,72.7,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH020,Pine Middle 2,Middle,8,Science,93,0.594,0.628,0.286,0.632,0.661,4,85.5,72.7,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH024,Canyon Elementary 3,Elementary,3,Math,84,0.601,0.557,0.234,0.612,0.603,5,84.8,72.7,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH033,Harbor Middle 1,Middle,8,Science,88,0.611,0.636,0.249,0.63,0.606,5,78.8,72.7,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH023,Canyon Elementary 2,Elementary,4,Science,69,0.626,0.624,0.222,0.662,0.666,6,72.1,72.6,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH038,Mesa Elementary 3,Elementary,5,Math,68,0.608,0.641,0.223,0.609,0.584,7,75.9,72.6,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH042,Mesa High 1,High,10,ELA,232,0.606,0.62,0.304,0.625,0.546,2,93.5,72.6,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH019,Pine Middle 1,Middle,7,Science,122,0.635,0.587,0.277,0.666,0.703,3,83.0,72.4,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH026,Canyon Middle 1,Middle,7,Math,91,0.571,0.601,0.267,0.595,0.625,3,91.1,72.4,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH034,Harbor Middle 2,Middle,8,Math,103,0.568,0.605,0.269,0.609,0.562,3,91.6,72.3,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH027,Canyon Middle 2,Middle,6,Math,84,0.57,0.551,0.268,0.599,0.706,1,94.2,72.2,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH033,Harbor Middle 1,Middle,6,ELA,86,0.642,0.57,0.257,0.66,0.661,5,79.5,72.2,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH001,North Elementary 1,Elementary,3,Math,72,0.631,0.587,0.207,0.664,0.524,3,73.8,72.1,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH026,Canyon Middle 1,Middle,7,Science,92,0.566,0.577,0.256,0.625,0.625,3,91.5,72.1,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH001,North Elementary 1,Elementary,3,Science,78,0.628,0.585,0.193,0.66,0.524,3,74.3,72.0,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH027,Canyon Middle 2,Middle,8,Math,78,0.584,0.596,0.292,0.612,0.602,1,91.4,71.8,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH040,Mesa Middle 1,Middle,7,ELA,111,0.645,0.578,0.264,0.666,0.603,6,81.8,71.8,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH027,Canyon Middle 2,Middle,6,Science,82,0.572,0.562,0.288,0.657,0.706,1,93.4,71.6,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH027,Canyon Middle 2,Middle,8,ELA,80,0.606,0.556,0.297,0.638,0.602,1,91.2,71.5,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH003,North Elementary 3,Elementary,5,Math,69,0.609,0.589,0.229,0.632,0.522,3,81.8,71.4,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH016,Pine Elementary 2,Elementary,3,Math,75,0.606,0.591,0.238,0.595,0.65,3,85.5,71.4,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH020,Pine Middle 2,Middle,6,ELA,105,0.634,0.631,0.288,0.623,0.62,4,84.7,71.4,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH026,Canyon Middle 1,Middle,8,Math,85,0.581,0.599,0.253,0.582,0.603,3,91.2,71.4,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH041,Mesa Middle 2,Middle,6,ELA,103,0.623,0.604,0.251,0.665,0.692,4,82.1,71.4,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH034,Harbor Middle 2,Middle,7,Science,109,0.595,0.563,0.27,0.65,0.592,3,92.1,71.2,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH006,North Middle 2,Middle,7,ELA,92,0.597,0.526,0.27,0.643,0.591,3,93.9,71.0,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH001,North Elementary 1,Elementary,4,Science,68,0.634,0.605,0.21,0.662,0.615,3,75.3,70.8,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH001,North Elementary 1,Elementary,5,Science,66,0.661,0.566,0.209,0.661,0.56,3,74.3,70.8,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH020,Pine Middle 2,Middle,8,ELA,94,0.625,0.591,0.27,0.652,0.661,4,86.2,70.7,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH016,Pine Elementary 2,Elementary,5,Math,83,0.609,0.636,0.246,0.589,0.69,3,85.9,70.5,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH034,Harbor Middle 2,Middle,6,Science,103,0.604,0.532,0.251,0.637,0.61,3,93.3,70.4,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH034,Harbor Middle 2,Middle,7,Math,95,0.584,0.575,0.25,0.63,0.592,3,93.0,70.3,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH003,North Elementary 3,Elementary,3,Math,77,0.611,0.6,0.212,0.612,0.598,3,83.8,70.2,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH023,Canyon Elementary 2,Elementary,3,ELA,74,0.679,0.6,0.218,0.704,0.569,6,70.5,70.2,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH024,Canyon Elementary 3,Elementary,5,Math,83,0.611,0.596,0.22,0.624,0.575,5,84.9,70.2,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH038,Mesa Elementary 3,Elementary,4,ELA,76,0.666,0.595,0.221,0.64,0.599,7,76.3,70.2,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH013,Lakefront Middle 2,Middle,7,Science,86,0.599,0.556,0.265,0.606,0.658,2,95.3,69.9,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH016,Pine Elementary 2,Elementary,4,Math,76,0.637,0.588,0.245,0.62,0.614,3,84.6,69.9,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH016,Pine Elementary 2,Elementary,4,Science,76,0.632,0.562,0.235,0.644,0.614,3,85.0,69.9,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH006,North Middle 2,Middle,7,Math,97,0.58,0.624,0.257,0.584,0.591,3,94.5,69.8,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH016,Pine Elementary 2,Elementary,3,Science,77,0.611,0.597,0.239,0.656,0.65,3,85.5,69.7,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH038,Mesa Elementary 3,Elementary,3,ELA,64,0.641,0.619,0.233,0.682,0.647,7,76.6,69.7,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH006,North Middle 2,Middle,8,Math,89,0.57,0.565,0.237,0.617,0.636,3,96.1,69.6,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH024,Canyon Elementary 3,Elementary,4,Math,79,0.613,0.61,0.233,0.635,0.657,5,85.8,69.4,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH026,Canyon Middle 1,Middle,6,Science,93,0.603,0.574,0.248,0.639,0.637,3,92.0,69.4,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH003,North Elementary 3,Elementary,4,Math,64,0.627,0.593,0.215,0.614,0.57,3,83.2,69.3,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH006,North Middle 2,Middle,6,Science,91,0.594,0.606,0.262,0.605,0.593,3,94.3,69.2,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH013,Lakefront Middle 2,Middle,7,Math,91,0.607,0.578,0.249,0.564,0.658,2,96.0,69.0,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH034,Harbor Middle 2,Middle,7,ELA,97,0.62,0.536,0.246,0.654,0.592,3,93.1,68.8,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH012,Lakefront Middle 1,Middle,7,Math,101,0.608,0.556,0.278,0.597,0.654,0,100,68.6,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH031,Harbor Elementary 3,Elementary,4,Math,69,0.608,0.569,0.21,0.604,0.619,3,89.7,68.6,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH006,North Middle 2,Middle,7,Science,100,0.61,0.567,0.249,0.63,0.591,3,94.8,68.5,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH005,North Middle 1,Middle,7,Math,104,0.58,0.586,0.256,0.599,0.638,0,100,68.4,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH006,North Middle 2,Middle,8,Science,94,0.592,0.576,0.251,0.648,0.636,3,95.5,68.4,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH030,Harbor Elementary 2,Elementary,4,Math,64,0.626,0.539,0.213,0.63,0.544,3,88.3,68.4,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH001,North Elementary 1,Elementary,3,ELA,70,0.673,0.623,0.218,0.714,0.524,3,73.3,68.3,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH034,Harbor Middle 2,Middle,6,Math,104,0.6,0.607,0.238,0.615,0.61,3,93.8,68.3,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH001,North Elementary 1,Elementary,5,ELA,70,0.688,0.634,0.228,0.682,0.56,3,73.5,68.2,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH005,North Middle 1,Middle,8,Science,115,0.6,0.576,0.274,0.621,0.635,0,99.9,68.2,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH006,North Middle 2,Middle,6,ELA,100,0.631,0.567,0.261,0.622,0.593,3,94.3,68.2,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH024,Canyon Elementary 3,Elementary,5,Science,83,0.621,0.591,0.215,0.683,0.575,5,85.1,68.2,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH027,Canyon Middle 2,Middle,8,Science,76,0.591,0.624,0.257,0.625,0.602,1,92.8,68.2,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH031,Harbor Elementary 3,Elementary,5,Math,69,0.589,0.624,0.205,0.599,0.574,3,89.1,68.2,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH022,Canyon Elementary 1,Elementary,5,Math,71,0.616,0.564,0.226,0.622,0.615,3,90.8,68.1,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH026,Canyon Middle 1,Middle,6,ELA,91,0.635,0.609,0.279,0.646,0.637,3,90.8,68.1,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH003,North Elementary 3,Elementary,4,Science,78,0.646,0.614,0.215,0.626,0.57,3,83.2,68.0,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH013,Lakefront Middle 2,Middle,8,Math,96,0.615,0.586,0.246,0.611,0.564,2,94.4,68.0,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH003,North Elementary 3,Elementary,4,ELA,69,0.66,0.59,0.239,0.673,0.57,3,82.2,67.9,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH025,Canyon Elementary 4,Elementary,3,Math,65,0.58,0.548,0.222,0.599,0.565,1,97.3,67.9,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH005,North Middle 1,Middle,8,Math,115,0.597,0.567,0.252,0.619,0.635,0,100,67.8,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH012,Lakefront Middle 1,Middle,8,Math,103,0.561,0.622,0.248,0.616,0.661,0,100,67.8,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH027,Canyon Middle 2,Middle,7,Science,80,0.609,0.592,0.266,0.646,0.676,1,93.8,67.8,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH034,Harbor Middle 2,Middle,8,Science,101,0.601,0.638,0.244,0.627,0.562,3,92.7,67.8,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH030,Harbor Elementary 2,Elementary,4,Science,70,0.638,0.609,0.236,0.615,0.544,3,87.3,67.7,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH005,North Middle 1,Middle,6,Math,117,0.596,0.57,0.236,0.61,0.523,0,99.5,67.6,Keep in standard dashboard review
+DST002,Lakefront Public Schools,Infinite Campus,SCH008,Lakefront Elementary 1,Elementary,4,Math,67,0.638,0.587,0.236,0.635,0.639,3,87.2,67.6,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH017,Pine Elementary 3,Elementary,4,Math,70,0.635,0.577,0.256,0.608,0.569,2,92.3,67.5,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH017,Pine Elementary 3,Elementary,5,Math,70,0.586,0.596,0.233,0.618,0.656,2,94.8,67.5,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH002,North Elementary 2,Elementary,3,Math,60,0.621,0.584,0.227,0.606,0.584,4,90.2,67.4,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH029,Harbor Elementary 1,Elementary,3,Math,72,0.627,0.597,0.217,0.637,0.618,3,87.6,67.3,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH010,Lakefront Elementary 3,Elementary,5,Science,70,0.629,0.541,0.23,0.625,0.561,3,93.2,67.2,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH026,Canyon Middle 1,Middle,8,ELA,92,0.636,0.582,0.249,0.66,0.603,3,91.4,67.1,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH005,North Middle 1,Middle,8,ELA,107,0.609,0.573,0.267,0.637,0.635,0,100,67.0,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH006,North Middle 2,Middle,8,ELA,90,0.619,0.602,0.267,0.648,0.636,3,94.8,67.0,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH024,Canyon Elementary 3,Elementary,4,Science,74,0.657,0.575,0.226,0.652,0.657,5,86.1,67.0,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH003,North Elementary 3,Elementary,5,Science,70,0.659,0.595,0.21,0.66,0.522,3,82.6,66.9,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH013,Lakefront Middle 2,Middle,8,Science,82,0.615,0.583,0.252,0.657,0.564,2,94.2,66.9,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH016,Pine Elementary 2,Elementary,5,Science,80,0.648,0.596,0.221,0.637,0.69,3,87.0,66.9,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH017,Pine Elementary 3,Elementary,3,Science,71,0.637,0.546,0.254,0.644,0.637,2,93.6,66.9,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH029,Harbor Elementary 1,Elementary,5,ELA,81,0.652,0.575,0.226,0.669,0.59,3,86.7,66.9,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH029,Harbor Elementary 1,Elementary,5,Math,76,0.631,0.634,0.214,0.608,0.59,3,87.2,66.9,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH034,Harbor Middle 2,Middle,8,ELA,103,0.65,0.585,0.254,0.639,0.562,3,92.3,66.9,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH022,Canyon Elementary 1,Elementary,3,Math,74,0.644,0.569,0.223,0.612,0.602,3,90.7,66.8,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH002,North Elementary 2,Elementary,4,Math,52,0.613,0.585,0.222,0.618,0.601,4,90.7,66.7,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH003,North Elementary 3,Elementary,3,Science,76,0.642,0.631,0.216,0.665,0.598,3,83.7,66.7,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH008,Lakefront Elementary 1,Elementary,5,Math,64,0.63,0.61,0.215,0.619,0.612,3,87.6,66.7,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH018,Pine Elementary 4,Elementary,5,Math,68,0.63,0.558,0.243,0.612,0.57,2,94.7,66.7,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH005,North Middle 1,Middle,6,ELA,111,0.649,0.549,0.271,0.637,0.523,0,98.0,66.6,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH005,North Middle 1,Middle,7,Science,109,0.597,0.591,0.238,0.61,0.638,0,100,66.6,Keep in standard dashboard review
+DST004,Canyon Ridge USD,Aeries,SCH022,Canyon Elementary 1,Elementary,4,Math,67,0.644,0.562,0.219,0.612,0.571,3,90.3,66.6,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH008,Lakefront Elementary 1,Elementary,3,Math,64,0.622,0.592,0.21,0.64,0.67,3,88.8,66.5,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH029,Harbor Elementary 1,Elementary,5,Science,83,0.666,0.587,0.218,0.622,0.59,3,87.1,66.5,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH030,Harbor Elementary 2,Elementary,5,Math,48,0.598,0.632,0.213,0.612,0.571,3,88.7,66.5,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH002,North Elementary 2,Elementary,5,Math,57,0.636,0.591,0.233,0.613,0.587,4,90.0,66.4,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH015,Pine Elementary 1,Elementary,4,Math,77,0.582,0.613,0.22,0.616,0.601,3,96.2,66.4,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH024,Canyon Elementary 3,Elementary,5,ELA,78,0.652,0.602,0.226,0.693,0.575,5,84.7,66.4,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH003,North Elementary 3,Elementary,3,ELA,71,0.686,0.547,0.209,0.655,0.598,3,84.0,66.3,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH024,Canyon Elementary 3,Elementary,3,ELA,82,0.647,0.591,0.203,0.664,0.603,5,86.1,66.3,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH024,Canyon Elementary 3,Elementary,4,ELA,83,0.65,0.605,0.218,0.656,0.657,5,86.5,66.3,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH026,Canyon Middle 1,Middle,8,Science,88,0.606,0.646,0.239,0.657,0.603,3,91.8,66.3,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH013,Lakefront Middle 2,Middle,8,ELA,81,0.621,0.596,0.244,0.637,0.564,2,94.5,66.2,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH017,Pine Elementary 3,Elementary,5,Science,72,0.616,0.572,0.223,0.611,0.656,2,95.2,66.2,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH029,Harbor Elementary 1,Elementary,4,Science,75,0.632,0.594,0.214,0.68,0.594,3,87.3,66.2,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH036,Mesa Elementary 1,Elementary,4,Math,63,0.572,0.599,0.226,0.6,0.576,1,99.1,66.2,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH013,Lakefront Middle 2,Middle,6,Math,81,0.618,0.612,0.264,0.626,0.715,2,96.4,66.1,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH027,Canyon Middle 2,Middle,7,ELA,84,0.636,0.584,0.266,0.675,0.676,1,93.8,66.1,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH029,Harbor Elementary 1,Elementary,4,Math,79,0.63,0.615,0.203,0.647,0.594,3,87.7,66.1,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH016,Pine Elementary 2,Elementary,3,ELA,77,0.656,0.568,0.218,0.697,0.65,3,86.4,66.0,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH015,Pine Elementary 1,Elementary,3,Math,72,0.621,0.609,0.242,0.59,0.628,3,95.7,65.9,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH026,Canyon Middle 1,Middle,7,ELA,77,0.647,0.607,0.267,0.665,0.625,3,91.1,65.9,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH002,North Elementary 2,Elementary,5,Science,58,0.648,0.562,0.235,0.656,0.587,4,89.9,65.8,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH012,Lakefront Middle 1,Middle,6,Math,107,0.613,0.589,0.246,0.623,0.674,0,100,65.8,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH027,Canyon Middle 2,Middle,6,ELA,77,0.609,0.616,0.259,0.675,0.706,1,94.6,65.8,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH030,Harbor Elementary 2,Elementary,5,ELA,64,0.687,0.559,0.245,0.645,0.571,3,87.4,65.8,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH022,Canyon Elementary 1,Elementary,3,Science,58,0.641,0.595,0.228,0.613,0.602,3,90.5,65.7,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH034,Harbor Middle 2,Middle,6,ELA,96,0.645,0.597,0.242,0.639,0.61,3,93.6,65.7,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH004,North Elementary 4,Elementary,5,Science,54,0.627,0.568,0.249,0.616,0.633,2,95.5,65.6,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH016,Pine Elementary 2,Elementary,4,ELA,74,0.667,0.594,0.228,0.686,0.614,3,85.3,65.6,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH016,Pine Elementary 2,Elementary,5,ELA,74,0.674,0.602,0.234,0.651,0.69,3,86.4,65.5,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH008,Lakefront Elementary 1,Elementary,5,Science,61,0.635,0.622,0.21,0.631,0.612,3,87.8,65.4,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH013,Lakefront Middle 2,Middle,6,Science,96,0.632,0.599,0.255,0.642,0.715,2,96.8,65.4,Launch attendance outreach with weekly monitoring
+DST004,Canyon Ridge USD,Aeries,SCH022,Canyon Elementary 1,Elementary,4,Science,64,0.636,0.609,0.227,0.646,0.571,3,90.0,65.3,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH024,Canyon Elementary 3,Elementary,3,Science,81,0.646,0.658,0.228,0.682,0.603,5,85.1,65.3,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH029,Harbor Elementary 1,Elementary,3,Science,78,0.646,0.58,0.191,0.647,0.618,3,88.7,65.3,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH030,Harbor Elementary 2,Elementary,3,Math,55,0.647,0.607,0.228,0.627,0.6,3,88.6,65.3,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH030,Harbor Elementary 2,Elementary,5,Science,57,0.673,0.577,0.227,0.616,0.571,3,88.1,65.3,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH017,Pine Elementary 3,Elementary,4,Science,70,0.638,0.588,0.226,0.615,0.569,2,93.5,65.2,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH018,Pine Elementary 4,Elementary,4,Science,73,0.625,0.574,0.251,0.661,0.689,2,96.4,65.2,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH012,Lakefront Middle 1,Middle,6,Science,104,0.604,0.611,0.244,0.639,0.674,0,100,65.1,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH018,Pine Elementary 4,Elementary,4,Math,68,0.606,0.591,0.227,0.618,0.689,2,97.5,65.1,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH018,Pine Elementary 4,Elementary,5,Science,63,0.639,0.554,0.232,0.627,0.57,2,95.1,65.1,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH011,Lakefront Elementary 4,Elementary,3,Math,68,0.625,0.582,0.214,0.61,0.629,1,95.1,65.0,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH025,Canyon Elementary 4,Elementary,5,Math,72,0.607,0.606,0.24,0.595,0.724,1,99.4,65.0,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH031,Harbor Elementary 3,Elementary,5,ELA,65,0.661,0.536,0.212,0.687,0.574,3,88.8,65.0,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH031,Harbor Elementary 3,Elementary,5,Science,64,0.649,0.615,0.219,0.634,0.574,3,88.5,65.0,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH032,Harbor Elementary 4,Elementary,4,Math,82,0.599,0.585,0.206,0.615,0.608,1,98.7,65.0,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH036,Mesa Elementary 1,Elementary,5,Math,64,0.609,0.569,0.232,0.607,0.598,1,99.2,65.0,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH012,Lakefront Middle 1,Middle,7,Science,106,0.606,0.601,0.237,0.645,0.654,0,100,64.9,Keep in standard dashboard review
+DST003,Pine County Schools,Skyward,SCH015,Pine Elementary 1,Elementary,5,Math,74,0.61,0.643,0.231,0.604,0.6,3,95.7,64.9,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH029,Harbor Elementary 1,Elementary,4,ELA,88,0.674,0.585,0.2,0.636,0.594,3,87.9,64.9,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH032,Harbor Elementary 4,Elementary,3,Math,81,0.617,0.578,0.221,0.64,0.543,1,96.9,64.9,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH030,Harbor Elementary 2,Elementary,3,Science,50,0.648,0.579,0.219,0.647,0.6,3,89.0,64.8,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH030,Harbor Elementary 2,Elementary,4,ELA,60,0.67,0.582,0.227,0.655,0.544,3,87.6,64.8,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH032,Harbor Elementary 4,Elementary,5,Math,76,0.61,0.61,0.235,0.6,0.677,1,98.7,64.8,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH005,North Middle 1,Middle,6,Science,108,0.617,0.61,0.248,0.657,0.523,0,99.0,64.7,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH039,Mesa Elementary 4,Elementary,4,Math,65,0.6,0.56,0.218,0.618,0.57,0,100,64.7,Keep in standard dashboard review
+DST003,Pine County Schools,Skyward,SCH018,Pine Elementary 4,Elementary,3,Science,65,0.645,0.536,0.231,0.637,0.64,2,96.4,64.6,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH013,Lakefront Middle 2,Middle,7,ELA,94,0.638,0.612,0.248,0.648,0.658,2,96.0,64.5,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH018,Pine Elementary 4,Elementary,5,ELA,78,0.653,0.571,0.238,0.645,0.57,2,94.9,64.4,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH010,Lakefront Elementary 3,Elementary,5,Math,70,0.652,0.593,0.222,0.609,0.561,3,93.6,64.3,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH015,Pine Elementary 1,Elementary,4,ELA,78,0.656,0.599,0.245,0.615,0.601,3,95.1,64.3,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH015,Pine Elementary 1,Elementary,5,Science,74,0.632,0.582,0.228,0.648,0.6,3,95.8,64.3,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH025,Canyon Elementary 4,Elementary,3,Science,78,0.615,0.585,0.208,0.623,0.565,1,97.8,64.3,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH031,Harbor Elementary 3,Elementary,3,ELA,67,0.661,0.587,0.217,0.669,0.591,3,88.9,64.3,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH004,North Elementary 4,Elementary,4,ELA,62,0.668,0.554,0.249,0.631,0.589,2,94.7,64.2,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH017,Pine Elementary 3,Elementary,4,ELA,77,0.634,0.606,0.229,0.666,0.569,2,93.4,64.2,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH018,Pine Elementary 4,Elementary,3,Math,71,0.615,0.589,0.224,0.654,0.64,2,96.7,64.2,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH025,Canyon Elementary 4,Elementary,4,Math,70,0.61,0.561,0.206,0.623,0.622,1,99.0,64.2,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH022,Canyon Elementary 1,Elementary,3,ELA,59,0.659,0.593,0.234,0.658,0.602,3,90.2,64.1,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH031,Harbor Elementary 3,Elementary,3,Math,70,0.648,0.57,0.187,0.661,0.591,3,90.2,64.1,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH012,Lakefront Middle 1,Middle,8,ELA,116,0.645,0.561,0.227,0.642,0.661,0,100,64.0,Keep in standard dashboard review
+DST004,Canyon Ridge USD,Aeries,SCH022,Canyon Elementary 1,Elementary,4,ELA,69,0.65,0.592,0.221,0.685,0.571,3,90.2,64.0,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH029,Harbor Elementary 1,Elementary,3,ELA,83,0.678,0.615,0.205,0.629,0.618,3,88.1,64.0,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH011,Lakefront Elementary 4,Elementary,4,Math,69,0.633,0.599,0.213,0.626,0.609,1,94.8,63.9,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH011,Lakefront Elementary 4,Elementary,5,Science,68,0.638,0.536,0.2,0.646,0.636,1,95.9,63.9,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH003,North Elementary 3,Elementary,5,ELA,68,0.673,0.625,0.201,0.699,0.522,3,82.9,63.8,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH004,North Elementary 4,Elementary,3,Math,67,0.625,0.586,0.214,0.623,0.621,2,96.8,63.8,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH005,North Middle 1,Middle,7,ELA,103,0.63,0.636,0.26,0.627,0.638,0,100,63.8,Launch attendance outreach with weekly monitoring
+DST003,Pine County Schools,Skyward,SCH015,Pine Elementary 1,Elementary,3,ELA,70,0.617,0.555,0.199,0.652,0.628,3,97.5,63.8,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH004,North Elementary 4,Elementary,5,Math,57,0.621,0.575,0.221,0.643,0.633,2,96.7,63.7,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH022,Canyon Elementary 1,Elementary,5,Science,66,0.655,0.596,0.224,0.672,0.615,3,90.8,63.7,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH039,Mesa Elementary 4,Elementary,5,Math,64,0.612,0.605,0.25,0.631,0.631,0,100,63.7,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH012,Lakefront Middle 1,Middle,8,Science,96,0.615,0.592,0.238,0.68,0.661,0,100,63.6,Keep in standard dashboard review
+DST001,North Valley Unified,PowerSchool,SCH004,North Elementary 4,Elementary,4,Science,64,0.636,0.584,0.224,0.642,0.589,2,95.8,63.5,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH031,Harbor Elementary 3,Elementary,3,Science,65,0.662,0.632,0.213,0.628,0.591,3,89.1,63.5,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH002,North Elementary 2,Elementary,3,Science,49,0.667,0.578,0.217,0.627,0.584,4,90.6,63.4,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH015,Pine Elementary 1,Elementary,3,Science,71,0.652,0.548,0.22,0.649,0.628,3,96.7,63.4,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH017,Pine Elementary 3,Elementary,3,Math,73,0.618,0.605,0.205,0.656,0.637,2,95.7,63.3,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH031,Harbor Elementary 3,Elementary,4,Science,69,0.622,0.596,0.185,0.706,0.619,3,90.8,63.3,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH036,Mesa Elementary 1,Elementary,3,Science,63,0.614,0.587,0.241,0.657,0.638,1,99.6,63.3,Launch attendance outreach with weekly monitoring
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH039,Mesa Elementary 4,Elementary,3,Math,54,0.615,0.581,0.228,0.609,0.565,0,100,63.3,Keep in standard dashboard review
+DST001,North Valley Unified,PowerSchool,SCH004,North Elementary 4,Elementary,4,Math,57,0.609,0.601,0.205,0.639,0.589,2,96.6,63.2,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH008,Lakefront Elementary 1,Elementary,3,Science,68,0.661,0.599,0.201,0.669,0.67,3,89.2,63.2,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH032,Harbor Elementary 4,Elementary,4,Science,75,0.648,0.593,0.24,0.637,0.608,1,97.3,63.2,Launch attendance outreach with weekly monitoring
+DST002,Lakefront Public Schools,Infinite Campus,SCH008,Lakefront Elementary 1,Elementary,5,ELA,61,0.683,0.591,0.216,0.672,0.612,3,87.6,63.1,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH011,Lakefront Elementary 4,Elementary,5,Math,70,0.631,0.586,0.203,0.65,0.636,1,95.7,63.1,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH012,Lakefront Middle 1,Middle,6,ELA,96,0.617,0.611,0.237,0.672,0.674,0,100,63.1,Keep in standard dashboard review
+DST004,Canyon Ridge USD,Aeries,SCH022,Canyon Elementary 1,Elementary,5,ELA,65,0.663,0.595,0.229,0.686,0.615,3,90.6,63.1,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH036,Mesa Elementary 1,Elementary,4,Science,62,0.641,0.592,0.239,0.613,0.576,1,98.5,63.1,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH037,Mesa Elementary 2,Elementary,5,Math,50,0.617,0.637,0.24,0.583,0.67,1,98.4,63.1,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH015,Pine Elementary 1,Elementary,4,Science,77,0.653,0.602,0.237,0.657,0.601,3,95.4,63.0,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH036,Mesa Elementary 1,Elementary,4,ELA,68,0.646,0.59,0.244,0.627,0.576,1,98.3,63.0,Launch attendance outreach with weekly monitoring
+DST001,North Valley Unified,PowerSchool,SCH002,North Elementary 2,Elementary,4,Science,50,0.649,0.592,0.206,0.648,0.601,4,91.4,62.9,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH008,Lakefront Elementary 1,Elementary,4,ELA,56,0.703,0.549,0.221,0.674,0.639,3,87.8,62.9,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH025,Canyon Elementary 4,Elementary,3,ELA,70,0.66,0.56,0.234,0.656,0.565,1,96.7,62.9,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH032,Harbor Elementary 4,Elementary,3,ELA,81,0.679,0.537,0.228,0.65,0.543,1,96.6,62.9,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH015,Pine Elementary 1,Elementary,5,ELA,72,0.658,0.567,0.227,0.665,0.6,3,95.9,62.8,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH002,North Elementary 2,Elementary,5,ELA,46,0.653,0.602,0.22,0.659,0.587,4,90.5,62.7,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH010,Lakefront Elementary 3,Elementary,3,Math,66,0.627,0.579,0.196,0.653,0.658,3,96.4,62.7,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH031,Harbor Elementary 3,Elementary,4,ELA,69,0.674,0.583,0.197,0.658,0.619,3,90.3,62.7,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH008,Lakefront Elementary 1,Elementary,4,Science,72,0.68,0.633,0.211,0.651,0.639,3,88.2,62.6,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH011,Lakefront Elementary 4,Elementary,4,Science,74,0.669,0.629,0.22,0.585,0.609,1,94.5,62.6,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH025,Canyon Elementary 4,Elementary,4,Science,69,0.659,0.562,0.215,0.597,0.622,1,98.6,62.6,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH037,Mesa Elementary 2,Elementary,4,Math,52,0.613,0.598,0.215,0.619,0.638,1,98.8,62.6,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH017,Pine Elementary 3,Elementary,5,ELA,70,0.663,0.608,0.241,0.658,0.656,2,94.5,62.5,Launch attendance outreach with weekly monitoring
+DST005,Harbor City Schools,PowerSchool,SCH032,Harbor Elementary 4,Elementary,3,Science,80,0.629,0.588,0.199,0.65,0.543,1,97.8,62.5,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH037,Mesa Elementary 2,Elementary,3,Science,67,0.652,0.597,0.233,0.634,0.569,1,96.8,62.5,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH039,Mesa Elementary 4,Elementary,4,Science,63,0.631,0.564,0.224,0.645,0.57,0,100,62.5,Keep in standard dashboard review
+DST002,Lakefront Public Schools,Infinite Campus,SCH012,Lakefront Middle 1,Middle,7,ELA,103,0.641,0.595,0.234,0.674,0.654,0,100,62.4,Keep in standard dashboard review
+DST003,Pine County Schools,Skyward,SCH017,Pine Elementary 3,Elementary,3,ELA,71,0.671,0.559,0.216,0.654,0.637,2,95.2,62.3,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH032,Harbor Elementary 4,Elementary,4,ELA,78,0.662,0.575,0.223,0.63,0.608,1,98.0,62.3,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH013,Lakefront Middle 2,Middle,6,ELA,89,0.635,0.589,0.228,0.711,0.715,2,97.9,62.2,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH036,Mesa Elementary 1,Elementary,3,Math,68,0.631,0.599,0.209,0.6,0.638,1,100,62.2,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH037,Mesa Elementary 2,Elementary,3,Math,55,0.634,0.593,0.218,0.636,0.569,1,97.5,62.1,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH030,Harbor Elementary 2,Elementary,3,ELA,54,0.691,0.567,0.21,0.671,0.6,3,89.4,62.0,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH025,Canyon Elementary 4,Elementary,5,Science,69,0.624,0.59,0.224,0.668,0.724,1,100,61.9,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH011,Lakefront Elementary 4,Elementary,5,ELA,77,0.666,0.572,0.2,0.647,0.636,1,95.8,61.8,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH037,Mesa Elementary 2,Elementary,3,ELA,65,0.643,0.585,0.221,0.672,0.569,1,97.3,61.8,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH039,Mesa Elementary 4,Elementary,4,ELA,59,0.658,0.554,0.24,0.64,0.57,0,100,61.8,Keep in standard dashboard review
+DST002,Lakefront Public Schools,Infinite Campus,SCH011,Lakefront Elementary 4,Elementary,3,Science,70,0.666,0.555,0.209,0.681,0.629,1,95.3,61.7,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH018,Pine Elementary 4,Elementary,3,ELA,69,0.655,0.6,0.219,0.64,0.64,2,96.9,61.7,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH002,North Elementary 2,Elementary,3,ELA,58,0.686,0.611,0.223,0.663,0.584,4,90.4,61.5,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH036,Mesa Elementary 1,Elementary,5,ELA,66,0.645,0.574,0.219,0.645,0.598,1,99.8,61.5,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH010,Lakefront Elementary 3,Elementary,4,Math,73,0.662,0.619,0.207,0.628,0.628,3,95.4,61.4,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH002,North Elementary 2,Elementary,4,ELA,49,0.67,0.579,0.209,0.689,0.601,4,91.2,61.2,Run SQL validation before publishing
+DST003,Pine County Schools,Skyward,SCH018,Pine Elementary 4,Elementary,4,ELA,76,0.672,0.589,0.23,0.656,0.689,2,97.3,61.2,Run SQL validation before publishing
+DST004,Canyon Ridge USD,Aeries,SCH025,Canyon Elementary 4,Elementary,5,ELA,65,0.651,0.588,0.239,0.665,0.724,1,99.4,61.2,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH010,Lakefront Elementary 3,Elementary,4,Science,66,0.642,0.653,0.208,0.631,0.628,3,95.4,61.1,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH036,Mesa Elementary 1,Elementary,5,Science,60,0.634,0.599,0.227,0.665,0.598,1,99.4,61.0,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH010,Lakefront Elementary 3,Elementary,5,ELA,71,0.688,0.606,0.224,0.662,0.561,3,93.5,60.9,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH004,North Elementary 4,Elementary,3,ELA,61,0.661,0.584,0.21,0.651,0.621,2,96.9,60.8,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH037,Mesa Elementary 2,Elementary,4,Science,63,0.645,0.574,0.208,0.665,0.638,1,99.1,60.8,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH011,Lakefront Elementary 4,Elementary,4,ELA,69,0.676,0.557,0.203,0.688,0.609,1,95.2,60.7,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH039,Mesa Elementary 4,Elementary,3,Science,59,0.637,0.594,0.214,0.65,0.565,0,100,60.6,Keep in standard dashboard review
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH036,Mesa Elementary 1,Elementary,3,ELA,73,0.664,0.552,0.219,0.682,0.638,1,100,60.5,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH008,Lakefront Elementary 1,Elementary,3,ELA,64,0.687,0.6,0.197,0.714,0.67,3,89.4,60.4,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH037,Mesa Elementary 2,Elementary,5,Science,46,0.638,0.627,0.231,0.631,0.67,1,98.7,60.4,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH010,Lakefront Elementary 3,Elementary,3,Science,74,0.667,0.606,0.205,0.681,0.658,3,96.1,60.0,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH039,Mesa Elementary 4,Elementary,5,Science,60,0.655,0.605,0.227,0.641,0.631,0,100,60.0,Keep in standard dashboard review
+DST004,Canyon Ridge USD,Aeries,SCH025,Canyon Elementary 4,Elementary,4,ELA,70,0.666,0.548,0.203,0.694,0.622,1,99.1,59.9,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH039,Mesa Elementary 4,Elementary,5,ELA,59,0.655,0.581,0.227,0.677,0.631,0,100,59.9,Keep in standard dashboard review
+DST001,North Valley Unified,PowerSchool,SCH004,North Elementary 4,Elementary,3,Science,53,0.65,0.614,0.21,0.665,0.621,2,97.0,59.7,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH010,Lakefront Elementary 3,Elementary,3,ELA,69,0.684,0.628,0.219,0.658,0.658,3,95.5,59.4,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH037,Mesa Elementary 2,Elementary,4,ELA,51,0.654,0.595,0.218,0.668,0.638,1,98.8,59.4,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH037,Mesa Elementary 2,Elementary,5,ELA,71,0.666,0.588,0.212,0.671,0.67,1,99.6,59.4,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH032,Harbor Elementary 4,Elementary,5,Science,82,0.667,0.616,0.213,0.657,0.677,1,99.6,59.3,Run SQL validation before publishing
+DST001,North Valley Unified,PowerSchool,SCH004,North Elementary 4,Elementary,5,ELA,55,0.665,0.611,0.2,0.641,0.633,2,97.6,59.0,Run SQL validation before publishing
+DST002,Lakefront Public Schools,Infinite Campus,SCH010,Lakefront Elementary 3,Elementary,4,ELA,72,0.698,0.577,0.202,0.684,0.628,3,95.6,59.0,Run SQL validation before publishing
+DST006,Mesa Vista Public Schools,Infinite Campus,SCH039,Mesa Elementary 4,Elementary,3,ELA,57,0.684,0.596,0.234,0.675,0.565,0,100,58.1,Keep in standard dashboard review
+DST002,Lakefront Public Schools,Infinite Campus,SCH011,Lakefront Elementary 4,Elementary,3,ELA,77,0.689,0.595,0.195,0.719,0.629,1,96.0,58.0,Run SQL validation before publishing
+DST005,Harbor City Schools,PowerSchool,SCH032,Harbor Elementary 4,Elementary,5,ELA,74,0.688,0.585,0.203,0.67,0.677,1,100,57.9,Run SQL validation before publishing

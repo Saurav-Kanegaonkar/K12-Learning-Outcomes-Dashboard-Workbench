@@ -1,15 +1,15 @@
 # Executive Findings
 
-## What I analyzed
+## What I Analyzed
 
-I joined 5,040 daily metric rows, 760 source events, and 220 action candidates for K-12 learning outcomes dashboard analytics.
+I modeled 187,600 students across 6 synthetic districts, 42 schools, 360 school-grade-subject outcome segments, 390 integration runs, and 240 data-quality issues.
 
 ## Findings
 
-- The highest-priority district metric is DIS004 with a priority score of 110.19.
-- The top queue combines 53.4 average risk with 79.6 quality score and $987,559 estimated impact.
-- The strongest use case is turning repeated stakeholder questions into a ranked operating digest.
+- The highest-priority segment is North High 1 grade 10 Math with a priority score of 86.2.
+- The portfolio average proficiency rate is 62.3%, chronic absenteeism is 24.0%, and dashboard readiness is 89.1 out of 100.
+- The weakest integration lane is Assessment feed for Canyon Ridge USD, with 92.3% refresh success and 96.5% record completeness.
 
 ## Recommendation
 
-Prioritize the top queue before scaling more dashboards. The project should help leaders decide which district metric risks need action, validation, or monitoring.
+Use the priority queue for district review, then run the integration-health checks before publishing any metric that has open quality issues. This keeps the artifact centered on decisions that district leaders can act on and data issues that analytics teams can fix.

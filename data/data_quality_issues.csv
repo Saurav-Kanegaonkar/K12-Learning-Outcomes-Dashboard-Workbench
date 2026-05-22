@@ -1,0 +1,241 @@
+issue_id,district_id,school_id,issue_type,severity,sql_check,records_impacted,status,detected_week,owner_team
+DQ001,DST004,SCH027,Invalid score band,High,valid_score_band,210,open,2026-W10,Data engineering
+DQ002,DST006,SCH039,Metric definition drift,High,metric_definition_control,83,resolved,2026-W12,Customer success
+DQ003,DST006,SCH040,Roster mismatch,Medium,active_roster_alignment,186,resolved,2026-W08,Analytics
+DQ004,DST003,SCH018,Invalid score band,Low,valid_score_band,117,open,2026-W06,Customer success
+DQ005,DST005,SCH029,Missing attendance day,Medium,attendance_day_completeness,40,in review,2026-W16,Customer success
+DQ006,DST001,SCH001,Missing attendance day,Low,attendance_day_completeness,28,open,2026-W15,Analytics
+DQ007,DST001,SCH001,Metric definition drift,High,metric_definition_control,55,resolved,2026-W16,Customer success
+DQ008,DST002,SCH013,Missing attendance day,Low,attendance_day_completeness,58,resolved,2026-W07,Customer success
+DQ009,DST006,SCH041,Roster mismatch,Low,active_roster_alignment,129,resolved,2026-W06,Customer success
+DQ010,DST005,SCH032,Missing attendance day,Medium,attendance_day_completeness,59,open,2026-W16,Analytics
+DQ011,DST003,SCH020,Duplicate assignment event,Medium,assignment_event_completeness,17,resolved,2026-W07,Data engineering
+DQ012,DST004,SCH023,Roster mismatch,Low,active_roster_alignment,228,in review,2026-W08,Data engineering
+DQ013,DST005,SCH032,Roster mismatch,High,active_roster_alignment,163,resolved,2026-W16,Data engineering
+DQ014,DST006,SCH039,Metric definition drift,High,metric_definition_control,135,resolved,2026-W12,Analytics
+DQ015,DST004,SCH026,Duplicate assignment event,Medium,assignment_event_completeness,58,resolved,2026-W09,Data engineering
+DQ016,DST001,SCH003,Missing attendance day,Low,attendance_day_completeness,91,resolved,2026-W07,Analytics
+DQ017,DST003,SCH017,Roster mismatch,High,active_roster_alignment,45,resolved,2026-W11,Data engineering
+DQ018,DST005,SCH032,Missing attendance day,Medium,attendance_day_completeness,34,resolved,2026-W10,Analytics
+DQ019,DST002,SCH009,Metric definition drift,Critical,metric_definition_control,87,in review,2026-W09,Data engineering
+DQ020,DST006,SCH042,Missing attendance day,Medium,attendance_day_completeness,266,resolved,2026-W12,District data steward
+DQ021,DST005,SCH031,Invalid score band,Critical,valid_score_band,251,resolved,2026-W07,Customer success
+DQ022,DST006,SCH038,Invalid score band,High,valid_score_band,18,resolved,2026-W06,Customer success
+DQ023,DST003,SCH015,Invalid score band,Medium,valid_score_band,156,resolved,2026-W10,District data steward
+DQ024,DST004,SCH022,Missing attendance day,Medium,attendance_day_completeness,46,in review,2026-W09,Data engineering
+DQ025,DST005,SCH034,Metric definition drift,Medium,metric_definition_control,146,resolved,2026-W10,District data steward
+DQ026,DST006,SCH041,Duplicate assignment event,Medium,assignment_event_completeness,34,resolved,2026-W04,District data steward
+DQ027,DST004,SCH024,Metric definition drift,Low,metric_definition_control,69,in review,2026-W12,Analytics
+DQ028,DST001,SCH003,Roster mismatch,Low,active_roster_alignment,17,open,2026-W11,Data engineering
+DQ029,DST004,SCH027,Invalid score band,Critical,valid_score_band,55,resolved,2026-W06,Customer success
+DQ030,DST002,SCH009,Missing attendance day,Low,attendance_day_completeness,100,resolved,2026-W05,Analytics
+DQ031,DST004,SCH026,Invalid score band,Low,valid_score_band,251,resolved,2026-W11,Customer success
+DQ032,DST003,SCH017,Duplicate assignment event,Medium,assignment_event_completeness,63,open,2026-W16,Analytics
+DQ033,DST004,SCH023,Roster mismatch,Low,active_roster_alignment,89,resolved,2026-W10,Data engineering
+DQ034,DST001,SCH007,Metric definition drift,High,metric_definition_control,201,in review,2026-W15,District data steward
+DQ035,DST001,SCH006,Roster mismatch,Medium,active_roster_alignment,58,resolved,2026-W11,Data engineering
+DQ036,DST006,SCH036,Roster mismatch,Low,active_roster_alignment,50,in review,2026-W12,Analytics
+DQ037,DST005,SCH031,Metric definition drift,Medium,metric_definition_control,64,resolved,2026-W10,Analytics
+DQ038,DST006,SCH041,Missing attendance day,Low,attendance_day_completeness,30,open,2026-W11,Analytics
+DQ039,DST004,SCH027,Duplicate assignment event,Low,assignment_event_completeness,27,resolved,2026-W05,Analytics
+DQ040,DST001,SCH007,Roster mismatch,Medium,active_roster_alignment,43,resolved,2026-W11,Customer success
+DQ041,DST004,SCH024,Roster mismatch,Low,active_roster_alignment,113,in review,2026-W14,Data engineering
+DQ042,DST005,SCH033,Metric definition drift,Low,metric_definition_control,238,in review,2026-W14,District data steward
+DQ043,DST005,SCH035,Metric definition drift,Medium,metric_definition_control,56,resolved,2026-W14,Analytics
+DQ044,DST005,SCH033,Duplicate assignment event,Medium,assignment_event_completeness,77,resolved,2026-W13,District data steward
+DQ045,DST005,SCH029,Missing attendance day,High,attendance_day_completeness,50,in review,2026-W14,Analytics
+DQ046,DST005,SCH030,Metric definition drift,Medium,metric_definition_control,213,open,2026-W14,Data engineering
+DQ047,DST001,SCH004,Missing attendance day,Medium,attendance_day_completeness,73,open,2026-W13,Customer success
+DQ048,DST005,SCH029,Invalid score band,Medium,valid_score_band,71,in review,2026-W10,Customer success
+DQ049,DST005,SCH035,Duplicate assignment event,Critical,assignment_event_completeness,69,open,2026-W10,District data steward
+DQ050,DST001,SCH006,Duplicate assignment event,Medium,assignment_event_completeness,119,resolved,2026-W05,Data engineering
+DQ051,DST005,SCH032,Duplicate assignment event,Low,assignment_event_completeness,20,resolved,2026-W12,Analytics
+DQ052,DST004,SCH023,Metric definition drift,High,metric_definition_control,56,in review,2026-W05,Data engineering
+DQ053,DST006,SCH038,Roster mismatch,Medium,active_roster_alignment,183,open,2026-W15,Customer success
+DQ054,DST004,SCH022,Roster mismatch,Medium,active_roster_alignment,149,in review,2026-W05,Data engineering
+DQ055,DST001,SCH001,Metric definition drift,Critical,metric_definition_control,251,open,2026-W11,Analytics
+DQ056,DST002,SCH008,Invalid score band,Medium,valid_score_band,82,open,2026-W12,Data engineering
+DQ057,DST003,SCH019,Missing attendance day,Critical,attendance_day_completeness,33,open,2026-W11,Analytics
+DQ058,DST002,SCH009,Missing attendance day,Medium,attendance_day_completeness,87,open,2026-W13,District data steward
+DQ059,DST006,SCH040,Duplicate assignment event,Medium,assignment_event_completeness,76,in review,2026-W06,Customer success
+DQ060,DST002,SCH013,Duplicate assignment event,Low,assignment_event_completeness,166,in review,2026-W09,Data engineering
+DQ061,DST002,SCH013,Invalid score band,High,valid_score_band,16,resolved,2026-W12,District data steward
+DQ062,DST002,SCH013,Missing attendance day,High,attendance_day_completeness,229,resolved,2026-W12,Customer success
+DQ063,DST002,SCH010,Invalid score band,Medium,valid_score_band,155,in review,2026-W07,Analytics
+DQ064,DST005,SCH030,Duplicate assignment event,High,assignment_event_completeness,132,in review,2026-W10,Data engineering
+DQ065,DST003,SCH019,Invalid score band,High,valid_score_band,54,resolved,2026-W15,District data steward
+DQ066,DST003,SCH019,Roster mismatch,Low,active_roster_alignment,12,open,2026-W14,Customer success
+DQ067,DST004,SCH027,Metric definition drift,Low,metric_definition_control,279,resolved,2026-W07,District data steward
+DQ068,DST001,SCH004,Roster mismatch,Low,active_roster_alignment,50,resolved,2026-W07,Analytics
+DQ069,DST001,SCH006,Missing attendance day,Medium,attendance_day_completeness,68,resolved,2026-W08,Customer success
+DQ070,DST002,SCH012,Duplicate assignment event,High,assignment_event_completeness,112,resolved,2026-W10,Data engineering
+DQ071,DST006,SCH042,Invalid score band,Low,valid_score_band,34,in review,2026-W11,Data engineering
+DQ072,DST001,SCH006,Missing attendance day,Low,attendance_day_completeness,252,open,2026-W14,Data engineering
+DQ073,DST005,SCH032,Metric definition drift,Medium,metric_definition_control,164,resolved,2026-W07,Data engineering
+DQ074,DST004,SCH028,Invalid score band,High,valid_score_band,61,resolved,2026-W06,District data steward
+DQ075,DST003,SCH016,Metric definition drift,Low,metric_definition_control,99,open,2026-W10,Analytics
+DQ076,DST003,SCH018,Metric definition drift,Medium,metric_definition_control,73,open,2026-W15,Data engineering
+DQ077,DST006,SCH040,Duplicate assignment event,Medium,assignment_event_completeness,132,in review,2026-W09,Analytics
+DQ078,DST006,SCH038,Invalid score band,Medium,valid_score_band,36,resolved,2026-W09,District data steward
+DQ079,DST003,SCH016,Missing attendance day,High,attendance_day_completeness,193,in review,2026-W12,Customer success
+DQ080,DST006,SCH042,Metric definition drift,Low,metric_definition_control,58,open,2026-W05,Customer success
+DQ081,DST001,SCH002,Invalid score band,Medium,valid_score_band,183,in review,2026-W05,Data engineering
+DQ082,DST002,SCH013,Roster mismatch,Medium,active_roster_alignment,253,resolved,2026-W12,Analytics
+DQ083,DST006,SCH038,Duplicate assignment event,Low,assignment_event_completeness,175,open,2026-W09,Customer success
+DQ084,DST004,SCH024,Invalid score band,High,valid_score_band,163,in review,2026-W09,Data engineering
+DQ085,DST006,SCH037,Metric definition drift,Medium,metric_definition_control,68,in review,2026-W16,District data steward
+DQ086,DST002,SCH014,Duplicate assignment event,Low,assignment_event_completeness,55,in review,2026-W14,Analytics
+DQ087,DST002,SCH008,Metric definition drift,High,metric_definition_control,116,in review,2026-W10,Data engineering
+DQ088,DST004,SCH025,Duplicate assignment event,Medium,assignment_event_completeness,117,open,2026-W12,Data engineering
+DQ089,DST001,SCH007,Missing attendance day,Medium,attendance_day_completeness,38,open,2026-W04,Data engineering
+DQ090,DST006,SCH038,Metric definition drift,Low,metric_definition_control,89,in review,2026-W06,Customer success
+DQ091,DST003,SCH021,Duplicate assignment event,Medium,assignment_event_completeness,61,resolved,2026-W15,Analytics
+DQ092,DST002,SCH011,Missing attendance day,High,attendance_day_completeness,54,in review,2026-W10,Analytics
+DQ093,DST001,SCH004,Roster mismatch,Low,active_roster_alignment,50,in review,2026-W09,Data engineering
+DQ094,DST003,SCH020,Roster mismatch,Medium,active_roster_alignment,29,open,2026-W15,Data engineering
+DQ095,DST002,SCH013,Invalid score band,Medium,valid_score_band,163,in review,2026-W04,Data engineering
+DQ096,DST006,SCH039,Metric definition drift,High,metric_definition_control,56,resolved,2026-W05,Data engineering
+DQ097,DST005,SCH031,Invalid score band,Low,valid_score_band,219,resolved,2026-W10,Customer success
+DQ098,DST002,SCH009,Invalid score band,Medium,valid_score_band,128,in review,2026-W11,Analytics
+DQ099,DST006,SCH038,Missing attendance day,High,attendance_day_completeness,40,in review,2026-W06,Data engineering
+DQ100,DST002,SCH008,Missing attendance day,Medium,attendance_day_completeness,52,open,2026-W11,District data steward
+DQ101,DST001,SCH007,Missing attendance day,Medium,attendance_day_completeness,31,in review,2026-W09,Data engineering
+DQ102,DST006,SCH042,Duplicate assignment event,High,assignment_event_completeness,40,resolved,2026-W13,Data engineering
+DQ103,DST005,SCH033,Roster mismatch,Low,active_roster_alignment,86,in review,2026-W12,District data steward
+DQ104,DST003,SCH017,Duplicate assignment event,Low,assignment_event_completeness,33,resolved,2026-W04,Customer success
+DQ105,DST003,SCH016,Metric definition drift,Low,metric_definition_control,148,resolved,2026-W12,Data engineering
+DQ106,DST003,SCH016,Invalid score band,High,valid_score_band,103,in review,2026-W14,Data engineering
+DQ107,DST005,SCH031,Roster mismatch,Low,active_roster_alignment,146,resolved,2026-W06,Customer success
+DQ108,DST006,SCH037,Missing attendance day,Low,attendance_day_completeness,18,resolved,2026-W07,Data engineering
+DQ109,DST001,SCH006,Roster mismatch,Low,active_roster_alignment,159,open,2026-W05,District data steward
+DQ110,DST002,SCH010,Missing attendance day,High,attendance_day_completeness,34,resolved,2026-W15,Analytics
+DQ111,DST001,SCH007,Roster mismatch,Medium,active_roster_alignment,72,resolved,2026-W09,Customer success
+DQ112,DST004,SCH028,Duplicate assignment event,Low,assignment_event_completeness,27,resolved,2026-W16,Data engineering
+DQ113,DST001,SCH003,Missing attendance day,Critical,attendance_day_completeness,171,open,2026-W10,District data steward
+DQ114,DST003,SCH015,Metric definition drift,Low,metric_definition_control,289,open,2026-W07,Data engineering
+DQ115,DST005,SCH034,Duplicate assignment event,Low,assignment_event_completeness,191,open,2026-W10,Data engineering
+DQ116,DST001,SCH002,Invalid score band,Medium,valid_score_band,82,resolved,2026-W06,Data engineering
+DQ117,DST003,SCH015,Missing attendance day,Low,attendance_day_completeness,61,in review,2026-W08,Data engineering
+DQ118,DST002,SCH014,Invalid score band,Medium,valid_score_band,39,in review,2026-W15,Customer success
+DQ119,DST006,SCH042,Invalid score band,Medium,valid_score_band,117,resolved,2026-W04,District data steward
+DQ120,DST004,SCH025,Metric definition drift,Medium,metric_definition_control,68,resolved,2026-W14,Customer success
+DQ121,DST001,SCH002,Duplicate assignment event,Low,assignment_event_completeness,225,in review,2026-W15,Data engineering
+DQ122,DST003,SCH015,Missing attendance day,Medium,attendance_day_completeness,21,resolved,2026-W14,Analytics
+DQ123,DST005,SCH030,Metric definition drift,High,metric_definition_control,85,resolved,2026-W13,Customer success
+DQ124,DST004,SCH027,Duplicate assignment event,Low,assignment_event_completeness,35,resolved,2026-W14,Analytics
+DQ125,DST002,SCH010,Invalid score band,High,valid_score_band,21,resolved,2026-W07,Data engineering
+DQ126,DST006,SCH040,Invalid score band,Low,valid_score_band,49,open,2026-W04,Data engineering
+DQ127,DST002,SCH014,Duplicate assignment event,Low,assignment_event_completeness,360,open,2026-W08,Data engineering
+DQ128,DST003,SCH018,Invalid score band,Medium,valid_score_band,134,resolved,2026-W08,Analytics
+DQ129,DST004,SCH028,Duplicate assignment event,Low,assignment_event_completeness,73,resolved,2026-W09,Data engineering
+DQ130,DST006,SCH037,Duplicate assignment event,Low,assignment_event_completeness,43,resolved,2026-W15,Analytics
+DQ131,DST005,SCH033,Missing attendance day,High,attendance_day_completeness,87,in review,2026-W09,Analytics
+DQ132,DST004,SCH028,Roster mismatch,High,active_roster_alignment,66,open,2026-W14,Customer success
+DQ133,DST001,SCH002,Duplicate assignment event,Medium,assignment_event_completeness,472,in review,2026-W06,Customer success
+DQ134,DST005,SCH031,Metric definition drift,High,metric_definition_control,45,resolved,2026-W11,Data engineering
+DQ135,DST001,SCH002,Metric definition drift,Critical,metric_definition_control,47,resolved,2026-W07,Analytics
+DQ136,DST005,SCH033,Invalid score band,High,valid_score_band,62,in review,2026-W14,District data steward
+DQ137,DST005,SCH031,Roster mismatch,Low,active_roster_alignment,102,resolved,2026-W07,District data steward
+DQ138,DST001,SCH006,Metric definition drift,Low,metric_definition_control,64,resolved,2026-W10,District data steward
+DQ139,DST003,SCH021,Metric definition drift,Low,metric_definition_control,37,in review,2026-W11,Customer success
+DQ140,DST003,SCH019,Invalid score band,Low,valid_score_band,16,resolved,2026-W08,Customer success
+DQ141,DST004,SCH024,Invalid score band,Low,valid_score_band,218,open,2026-W05,District data steward
+DQ142,DST006,SCH037,Roster mismatch,Low,active_roster_alignment,106,resolved,2026-W15,District data steward
+DQ143,DST001,SCH005,Duplicate assignment event,Low,assignment_event_completeness,81,resolved,2026-W06,Customer success
+DQ144,DST004,SCH023,Invalid score band,Medium,valid_score_band,57,open,2026-W05,Customer success
+DQ145,DST002,SCH010,Invalid score band,Low,valid_score_band,29,open,2026-W11,Customer success
+DQ146,DST005,SCH032,Missing attendance day,Low,attendance_day_completeness,92,resolved,2026-W14,District data steward
+DQ147,DST006,SCH038,Invalid score band,Low,valid_score_band,10,in review,2026-W11,Data engineering
+DQ148,DST005,SCH031,Missing attendance day,Low,attendance_day_completeness,43,in review,2026-W07,Data engineering
+DQ149,DST004,SCH022,Duplicate assignment event,Low,assignment_event_completeness,47,resolved,2026-W16,Data engineering
+DQ150,DST005,SCH031,Duplicate assignment event,Medium,assignment_event_completeness,184,open,2026-W14,Data engineering
+DQ151,DST006,SCH041,Invalid score band,High,valid_score_band,46,open,2026-W09,Analytics
+DQ152,DST005,SCH035,Roster mismatch,Low,active_roster_alignment,117,resolved,2026-W08,District data steward
+DQ153,DST004,SCH028,Duplicate assignment event,Medium,assignment_event_completeness,77,open,2026-W12,District data steward
+DQ154,DST002,SCH013,Invalid score band,Medium,valid_score_band,94,resolved,2026-W10,Data engineering
+DQ155,DST003,SCH015,Duplicate assignment event,Low,assignment_event_completeness,55,in review,2026-W13,Customer success
+DQ156,DST002,SCH014,Duplicate assignment event,High,assignment_event_completeness,92,resolved,2026-W08,Analytics
+DQ157,DST006,SCH040,Roster mismatch,Medium,active_roster_alignment,43,open,2026-W09,Customer success
+DQ158,DST005,SCH030,Roster mismatch,Low,active_roster_alignment,132,resolved,2026-W05,Data engineering
+DQ159,DST004,SCH026,Invalid score band,Medium,valid_score_band,132,resolved,2026-W13,Data engineering
+DQ160,DST001,SCH006,Duplicate assignment event,Low,assignment_event_completeness,55,resolved,2026-W12,District data steward
+DQ161,DST005,SCH031,Missing attendance day,High,attendance_day_completeness,26,open,2026-W11,Data engineering
+DQ162,DST001,SCH002,Roster mismatch,Low,active_roster_alignment,44,open,2026-W06,Data engineering
+DQ163,DST006,SCH040,Roster mismatch,Medium,active_roster_alignment,53,in review,2026-W04,District data steward
+DQ164,DST004,SCH024,Roster mismatch,Critical,active_roster_alignment,130,resolved,2026-W15,Data engineering
+DQ165,DST002,SCH009,Invalid score band,Medium,valid_score_band,59,in review,2026-W16,District data steward
+DQ166,DST003,SCH020,Invalid score band,Low,valid_score_band,81,resolved,2026-W10,Analytics
+DQ167,DST001,SCH007,Duplicate assignment event,High,assignment_event_completeness,45,in review,2026-W07,Analytics
+DQ168,DST002,SCH008,Roster mismatch,Medium,active_roster_alignment,278,resolved,2026-W12,Data engineering
+DQ169,DST006,SCH041,Metric definition drift,High,metric_definition_control,150,in review,2026-W11,Data engineering
+DQ170,DST004,SCH027,Duplicate assignment event,Low,assignment_event_completeness,19,resolved,2026-W04,Customer success
+DQ171,DST005,SCH030,Invalid score band,High,valid_score_band,42,resolved,2026-W16,Data engineering
+DQ172,DST006,SCH038,Roster mismatch,High,active_roster_alignment,18,in review,2026-W09,Analytics
+DQ173,DST006,SCH041,Roster mismatch,Critical,active_roster_alignment,41,resolved,2026-W08,District data steward
+DQ174,DST006,SCH038,Invalid score band,Low,valid_score_band,266,resolved,2026-W06,Data engineering
+DQ175,DST004,SCH023,Metric definition drift,Low,metric_definition_control,32,in review,2026-W08,Customer success
+DQ176,DST005,SCH030,Roster mismatch,Low,active_roster_alignment,148,resolved,2026-W13,Data engineering
+DQ177,DST002,SCH008,Invalid score band,Medium,valid_score_band,29,resolved,2026-W13,Data engineering
+DQ178,DST003,SCH018,Missing attendance day,Medium,attendance_day_completeness,51,resolved,2026-W15,Customer success
+DQ179,DST004,SCH028,Roster mismatch,Medium,active_roster_alignment,91,resolved,2026-W09,Data engineering
+DQ180,DST005,SCH033,Duplicate assignment event,Medium,assignment_event_completeness,88,in review,2026-W09,Data engineering
+DQ181,DST005,SCH035,Roster mismatch,Medium,active_roster_alignment,98,resolved,2026-W06,District data steward
+DQ182,DST002,SCH008,Metric definition drift,Critical,metric_definition_control,64,resolved,2026-W12,Analytics
+DQ183,DST003,SCH020,Duplicate assignment event,Low,assignment_event_completeness,35,open,2026-W04,Customer success
+DQ184,DST006,SCH041,Duplicate assignment event,Medium,assignment_event_completeness,72,resolved,2026-W06,Data engineering
+DQ185,DST006,SCH040,Metric definition drift,Low,metric_definition_control,85,resolved,2026-W12,Analytics
+DQ186,DST001,SCH007,Roster mismatch,Medium,active_roster_alignment,34,in review,2026-W04,Data engineering
+DQ187,DST001,SCH003,Duplicate assignment event,Medium,assignment_event_completeness,206,in review,2026-W09,District data steward
+DQ188,DST004,SCH022,Roster mismatch,Medium,active_roster_alignment,15,open,2026-W16,Analytics
+DQ189,DST003,SCH020,Metric definition drift,Low,metric_definition_control,24,open,2026-W16,Data engineering
+DQ190,DST002,SCH009,Invalid score band,Medium,valid_score_band,38,in review,2026-W14,Customer success
+DQ191,DST004,SCH023,Roster mismatch,Critical,active_roster_alignment,240,open,2026-W06,Data engineering
+DQ192,DST003,SCH017,Metric definition drift,Medium,metric_definition_control,118,resolved,2026-W06,District data steward
+DQ193,DST005,SCH031,Invalid score band,High,valid_score_band,142,resolved,2026-W14,Data engineering
+DQ194,DST005,SCH032,Missing attendance day,Low,attendance_day_completeness,182,resolved,2026-W13,Analytics
+DQ195,DST003,SCH020,Roster mismatch,High,active_roster_alignment,121,in review,2026-W12,Analytics
+DQ196,DST003,SCH019,Duplicate assignment event,High,assignment_event_completeness,28,resolved,2026-W14,District data steward
+DQ197,DST004,SCH028,Invalid score band,Low,valid_score_band,182,open,2026-W16,District data steward
+DQ198,DST001,SCH002,Invalid score band,Medium,valid_score_band,327,resolved,2026-W07,Customer success
+DQ199,DST004,SCH028,Duplicate assignment event,Low,assignment_event_completeness,48,open,2026-W05,District data steward
+DQ200,DST005,SCH034,Invalid score band,Low,valid_score_band,158,in review,2026-W04,Analytics
+DQ201,DST002,SCH013,Missing attendance day,Low,attendance_day_completeness,37,resolved,2026-W11,Analytics
+DQ202,DST006,SCH037,Invalid score band,Low,valid_score_band,29,resolved,2026-W11,Analytics
+DQ203,DST006,SCH040,Roster mismatch,Low,active_roster_alignment,61,open,2026-W06,Data engineering
+DQ204,DST002,SCH008,Metric definition drift,Low,metric_definition_control,36,resolved,2026-W11,Customer success
+DQ205,DST004,SCH024,Missing attendance day,Medium,attendance_day_completeness,242,in review,2026-W11,Data engineering
+DQ206,DST002,SCH014,Roster mismatch,Low,active_roster_alignment,47,open,2026-W08,Customer success
+DQ207,DST001,SCH006,Roster mismatch,Low,active_roster_alignment,22,in review,2026-W14,Data engineering
+DQ208,DST002,SCH008,Duplicate assignment event,Low,assignment_event_completeness,56,resolved,2026-W06,District data steward
+DQ209,DST005,SCH034,Roster mismatch,Medium,active_roster_alignment,46,in review,2026-W12,Customer success
+DQ210,DST002,SCH014,Roster mismatch,Medium,active_roster_alignment,31,resolved,2026-W16,Analytics
+DQ211,DST004,SCH023,Invalid score band,Medium,valid_score_band,37,resolved,2026-W08,Analytics
+DQ212,DST005,SCH029,Roster mismatch,High,active_roster_alignment,61,resolved,2026-W16,Data engineering
+DQ213,DST006,SCH038,Duplicate assignment event,Low,assignment_event_completeness,103,in review,2026-W05,Customer success
+DQ214,DST002,SCH010,Missing attendance day,Low,attendance_day_completeness,25,resolved,2026-W11,Data engineering
+DQ215,DST004,SCH027,Metric definition drift,Medium,metric_definition_control,154,resolved,2026-W09,Customer success
+DQ216,DST002,SCH014,Duplicate assignment event,Low,assignment_event_completeness,83,open,2026-W14,District data steward
+DQ217,DST004,SCH026,Invalid score band,Low,valid_score_band,49,resolved,2026-W13,Analytics
+DQ218,DST006,SCH039,Roster mismatch,Low,active_roster_alignment,77,resolved,2026-W04,Analytics
+DQ219,DST002,SCH009,Invalid score band,Medium,valid_score_band,80,open,2026-W09,District data steward
+DQ220,DST005,SCH030,Missing attendance day,Low,attendance_day_completeness,97,in review,2026-W09,Data engineering
+DQ221,DST004,SCH023,Duplicate assignment event,Medium,assignment_event_completeness,65,open,2026-W07,Customer success
+DQ222,DST004,SCH026,Invalid score band,Low,valid_score_band,158,in review,2026-W15,Customer success
+DQ223,DST003,SCH021,Invalid score band,Medium,valid_score_band,92,open,2026-W04,Data engineering
+DQ224,DST005,SCH031,Metric definition drift,Low,metric_definition_control,70,resolved,2026-W12,Analytics
+DQ225,DST003,SCH017,Roster mismatch,Medium,active_roster_alignment,84,in review,2026-W12,Customer success
+DQ226,DST004,SCH028,Invalid score band,Critical,valid_score_band,319,resolved,2026-W05,Data engineering
+DQ227,DST003,SCH021,Missing attendance day,Medium,attendance_day_completeness,205,resolved,2026-W06,Analytics
+DQ228,DST004,SCH023,Metric definition drift,High,metric_definition_control,40,resolved,2026-W04,Data engineering
+DQ229,DST003,SCH019,Invalid score band,Medium,valid_score_band,305,open,2026-W08,Customer success
+DQ230,DST002,SCH009,Metric definition drift,High,metric_definition_control,116,open,2026-W07,District data steward
+DQ231,DST001,SCH001,Roster mismatch,Critical,active_roster_alignment,33,in review,2026-W08,Customer success
+DQ232,DST005,SCH034,Duplicate assignment event,Low,assignment_event_completeness,76,resolved,2026-W14,Customer success
+DQ233,DST006,SCH041,Missing attendance day,Medium,attendance_day_completeness,43,open,2026-W06,Customer success
+DQ234,DST004,SCH026,Duplicate assignment event,Medium,assignment_event_completeness,157,open,2026-W06,Data engineering
+DQ235,DST004,SCH026,Invalid score band,Medium,valid_score_band,199,in review,2026-W07,Customer success
+DQ236,DST005,SCH032,Duplicate assignment event,Medium,assignment_event_completeness,53,resolved,2026-W13,Customer success
+DQ237,DST003,SCH015,Duplicate assignment event,High,assignment_event_completeness,24,resolved,2026-W14,Analytics
+DQ238,DST001,SCH005,Invalid score band,Low,valid_score_band,38,resolved,2026-W14,District data steward
+DQ239,DST002,SCH010,Duplicate assignment event,Low,assignment_event_completeness,106,open,2026-W16,Data engineering
+DQ240,DST002,SCH008,Duplicate assignment event,Medium,assignment_event_completeness,149,resolved,2026-W10,Data engineering
